@@ -163,8 +163,8 @@
             </td>
         </tr>
         <tr>
-            <td>Nanostructured Solar Cells</td>
-            <td>Narottam Das</td>
+            <td>Linux for Beginners: Tips, Tricks, and Information to Use Linux Like a Pro</td>
+            <td>Rebecca Dwight</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2854).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -172,8 +172,8 @@
             </td>
         </tr>
         <tr>
-            <td>Handbook Of Optical Fibre Sensing Technology</td>
-            <td>J.M.L. Higuera</td>
+            <td>Practical Common Lisp</td>
+            <td>Peter Seibel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2855).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -424,8 +424,8 @@
             </td>
         </tr>
         <tr>
-            <td>Windows 10 Anniversary Update Bible</td>
-            <td>Rob Tidrow</td>
+            <td>ANSI Common Lisp</td>
+            <td>Paul Graham</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2883).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -469,8 +469,8 @@
             </td>
         </tr>
         <tr>
-            <td>Microsoft PowerPoint 2010</td>
-            <td>Gary B. Shelly </td>
+            <td>Shell Programming in Unix, Linux and OS X</td>
+            <td>Stephen G. Kochan </td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2888).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -550,8 +550,8 @@
             </td>
         </tr>
         <tr>
-            <td>Windows Server 2016 Inside Out</td>
-            <td>Orin Thomas</td>
+            <td>Linux in Action</td>
+            <td>David Clinton</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2897).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -766,8 +766,8 @@
             </td>
         </tr>
         <tr>
-            <td>Spatial Analytics with ArcGIS</td>
-            <td>Eric Pimpler</td>
+            <td>Linux From Scratch</td>
+            <td>Gerard Beekmans</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2921).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -847,8 +847,8 @@
             </td>
         </tr>
         <tr>
-            <td>SysML for Systems Engineering</td>
-            <td>Jon Holt</td>
+            <td>Sams teach yourself TCP/IP in 24 hours</td>
+            <td>Joe Casad</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2930).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -892,8 +892,8 @@
             </td>
         </tr>
         <tr>
-            <td>Degunking Microsoft Office</td>
-            <td>Wayne Palaia</td>
+            <td>Effective Python Penetration Testing</td>
+            <td>Rejah Rehim</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2935).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1792,7 +1792,7 @@
             </td>
         </tr>
         <tr>
-            <td>The Web Application Hacker’s Handbook</td>
+            <td>The Web Application Hackerâ€™s Handbook</td>
             <td>Dafydd Stuttard</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3034).pdf" target="_blank" style="text-decoration:none">
@@ -2827,7 +2827,7 @@
             </td>
         </tr>
         <tr>
-            <td>PHP A Beginner’s Guide</td>
+            <td>PHP A Beginnerâ€™s Guide</td>
             <td>Vikram Vaswani</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3141).pdf" target="_blank" style="text-decoration:none">
@@ -2854,7 +2854,7 @@
             </td>
         </tr>
         <tr>
-            <td>JavaFX: A Beginner’s Guide</td>
+            <td>JavaFX: A Beginnerâ€™s Guide</td>
             <td>J. F. DiMarzio</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3144).pdf" target="_blank" style="text-decoration:none">
@@ -2890,7 +2890,7 @@
             </td>
         </tr>
         <tr>
-            <td>UNIX System Administration: A Beginner’s Guide</td>
+            <td>UNIX System Administration: A Beginnerâ€™s Guide</td>
             <td>Steve Maxwell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3148).pdf" target="_blank" style="text-decoration:none">
@@ -2899,7 +2899,7 @@
             </td>
         </tr>
         <tr>
-            <td>Red Hat Linux Administration: A Beginner’s Guide</td>
+            <td>Red Hat Linux Administration: A Beginnerâ€™s Guide</td>
             <td>Michael Turner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3149).pdf" target="_blank" style="text-decoration:none">
@@ -2917,7 +2917,7 @@
             </td>
         </tr>
         <tr>
-            <td>Java A Beginner’s Guide: Third Edition</td>
+            <td>Java A Beginnerâ€™s Guide: Third Edition</td>
             <td>Herbert Schildt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3151).pdf" target="_blank" style="text-decoration:none">
@@ -2944,7 +2944,7 @@
             </td>
         </tr>
         <tr>
-            <td>Java A Beginner’s Guide Fourth Edition</td>
+            <td>Java A Beginnerâ€™s Guide Fourth Edition</td>
             <td>Herbert Schildt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3154).pdf" target="_blank" style="text-decoration:none">
@@ -3916,7 +3916,7 @@
             </td>
         </tr>
         <tr>
-            <td>php: Architect’s Guide to Enterprise PHP Development</td>
+            <td>php: Architectâ€™s Guide to Enterprise PHP Development</td>
             <td>Ivo Jansch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3257).pdf" target="_blank" style="text-decoration:none">
@@ -4798,7 +4798,7 @@
             </td>
         </tr>
         <tr>
-            <td>WordPress: Beginner’s Guide to Mastering WordPress</td>
+            <td>WordPress: Beginnerâ€™s Guide to Mastering WordPress</td>
             <td>Anonymous</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3355).pdf" target="_blank" style="text-decoration:none">
@@ -4888,7 +4888,7 @@
             </td>
         </tr>
         <tr>
-            <td>Learn Java: The Complete Beginner’s Guide To Learn Java Programming</td>
+            <td>Learn Java: The Complete Beginnerâ€™s Guide To Learn Java Programming</td>
             <td>Bruce Berke</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3365).pdf" target="_blank" style="text-decoration:none">
@@ -4924,7 +4924,7 @@
             </td>
         </tr>
         <tr>
-            <td>JavaScript: The Ultimate Beginner’s Guide to Learn JS Effectively</td>
+            <td>JavaScript: The Ultimate Beginnerâ€™s Guide to Learn JS Effectively</td>
             <td>Daniel Jones</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3369).pdf" target="_blank" style="text-decoration:none">
@@ -7273,7 +7273,7 @@
             </td>
         </tr>
         <tr>
-            <td>Murachâ€™s Beginning Visual Basic .NET</td>
+            <td>MurachÃ¢â‚¬â„¢s Beginning Visual Basic .NET</td>
             <td>Anne Prince</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3629).pdf" target="_blank" style="text-decoration:none">
@@ -7327,7 +7327,7 @@
             </td>
         </tr>
         <tr>
-            <td>Programmerâ€™s Ultimate Security DeskRef</td>
+            <td>ProgrammerÃ¢â‚¬â„¢s Ultimate Security DeskRef</td>
             <td>James C. Foster</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3635).pdf" target="_blank" style="text-decoration:none">
@@ -8713,7 +8713,7 @@
             </td>
         </tr>
         <tr>
-            <td>IPv6 in Practice: A Unixerâ€™s Guide to the Next Generation Internet</td>
+            <td>IPv6 in Practice: A UnixerÃ¢â‚¬â„¢s Guide to the Next Generation Internet</td>
             <td>Benedikt Stockebrand</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3789).pdf" target="_blank" style="text-decoration:none">
