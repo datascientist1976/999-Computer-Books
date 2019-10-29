@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <table border="0" cellspacing="5" cellpadding="5"> </table>
 <table id="example" class="display" cellspacing="0" width="100%">
     <thead>
@@ -14,7 +14,7 @@
             <td>Jane Holcombe</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2837).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -23,7 +23,7 @@
             <td>Julie Lachance</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2838).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -32,7 +32,7 @@
             <td>Mark Tatham</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2839).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -41,7 +41,7 @@
             <td>Jonathan Band, Masanobu Katoh</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2840).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -50,7 +50,7 @@
             <td>Keith L. Downing</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2841).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -59,7 +59,7 @@
             <td>Hector J. Levesque</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2842).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -68,7 +68,7 @@
             <td>Marcus Zarra</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2843).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -77,7 +77,7 @@
             <td>Greg Harvey</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2844).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -86,7 +86,7 @@
             <td>Michael Bell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2845).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -95,7 +95,7 @@
             <td>Rodrigo Sobreiro</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2846).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -104,7 +104,7 @@
             <td>Vasilios N. Stavrou</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2847).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -113,7 +113,7 @@
             <td>Alexander Tartakovskii</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2848).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -122,7 +122,7 @@
             <td>Sergiy Lyagushyn</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2849).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -131,7 +131,7 @@
             <td>Paul Sanghera</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2850).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -140,7 +140,7 @@
             <td>Tomofumi Tada</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2851).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -149,7 +149,7 @@
             <td>Vasilios N. Stavrou</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2852).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -158,7 +158,7 @@
             <td>Michael A. Nielsen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2853).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -167,7 +167,7 @@
             <td>Narottam Das</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2854).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -176,7 +176,7 @@
             <td>J.M.L. Higuera</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2855).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -185,7 +185,7 @@
             <td>J.L. Santos</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2856).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -194,7 +194,7 @@
             <td>W. R. Clement</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2857).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -203,7 +203,7 @@
             <td>Karen S. Fredricks</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2858).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -212,7 +212,7 @@
             <td>Paul Golding</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2859).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -221,7 +221,7 @@
             <td>Bruce Schneier</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2860).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -230,7 +230,7 @@
             <td>Joseph Pedlosky</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2861).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -239,7 +239,7 @@
             <td>Hilary Ockendon</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2862).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -248,7 +248,7 @@
             <td>R.F. Ganiev</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2863).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -257,7 +257,7 @@
             <td>Leon Brillouin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2864).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -266,7 +266,7 @@
             <td>Srinivasan Gopalakrishnan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2865).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -275,7 +275,7 @@
             <td>Sandra Costanzo</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2866).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -284,7 +284,7 @@
             <td>J.M.Carcione</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2867).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -293,7 +293,7 @@
             <td>S.N. Gurbatov</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2868).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -302,7 +302,7 @@
             <td>Hamid R. Hamidzadeh</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2869).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -311,7 +311,7 @@
             <td>Yi Zheng</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2870).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -320,7 +320,7 @@
             <td>Pasquale Giovine</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2871).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -329,7 +329,7 @@
             <td>R.P. Vila</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2872).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -338,7 +338,7 @@
             <td>Joseph B. Keller</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2873).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -347,7 +347,7 @@
             <td>Asian Development Bank</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2874).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -356,7 +356,7 @@
             <td>Vincent Guinot</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2875).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -365,7 +365,7 @@
             <td>Stephen Nettel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2876).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -374,7 +374,7 @@
             <td>Wladston Ferreira Filho</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2877).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -383,7 +383,7 @@
             <td>William Panek</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2878).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -392,7 +392,7 @@
             <td>Alain Abran</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2879).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -401,7 +401,7 @@
             <td>Jasveer Singh</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2880).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -410,7 +410,7 @@
             <td>Brian T.O. Hara</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2881).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -419,7 +419,7 @@
             <td>Martin Hosken</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2882).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -428,7 +428,7 @@
             <td>Rob Tidrow</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2883).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -437,7 +437,7 @@
             <td>Wahiba Ben Abdessalem Karaa</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2884).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -446,7 +446,7 @@
             <td>Greg Tomsho</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2885).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -455,7 +455,7 @@
             <td>Judi Kling, Andy LaPage</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2886).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -464,7 +464,7 @@
             <td>Phil Simon</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2887).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -473,7 +473,7 @@
             <td>Gary B. Shelly </td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2888).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -482,7 +482,7 @@
             <td>Harold L. Hallock</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2889).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -491,7 +491,7 @@
             <td>Caleb Doxsey</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2890).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -500,7 +500,7 @@
             <td>Joyce Justin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2891).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -509,7 +509,7 @@
             <td>M. E. Fayad</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2892).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -518,7 +518,7 @@
             <td>Paul C. Jorgensen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2893).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -527,7 +527,7 @@
             <td>Xiaoming Fu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2894).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -536,7 +536,7 @@
             <td>Letha Hughes Etzkorn</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2895).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -545,7 +545,7 @@
             <td>Meikang Qiu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2896).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -554,7 +554,7 @@
             <td>Orin Thomas</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2897).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -563,7 +563,7 @@
             <td>Gene Cronin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2898).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -572,7 +572,7 @@
             <td>Kenning Arlitsch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2899).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -581,7 +581,7 @@
             <td>David Weiner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2900).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -590,7 +590,7 @@
             <td>John Wang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2901).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -599,7 +599,7 @@
             <td>Juergen Seitz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2902).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -608,7 +608,7 @@
             <td>Sebastien ST Laurent</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2903).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -617,7 +617,7 @@
             <td>Tom St Denis</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2904).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -626,7 +626,7 @@
             <td>Jeonghoon Mo</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2905).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -635,7 +635,7 @@
             <td>Pierre F. Tiako</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2906).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -644,7 +644,7 @@
             <td>Boon Chong Seet</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2907).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -653,7 +653,7 @@
             <td>Kobus Barnard</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2908).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -662,7 +662,7 @@
             <td>Maria Manuela Cruz Cunha</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2909).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -671,7 +671,7 @@
             <td>Betty Rose Facer</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2910).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -680,7 +680,7 @@
             <td>David M. Marcovitz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2911).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -689,7 +689,7 @@
             <td>Ugur Demiray</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2912).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -698,7 +698,7 @@
             <td>Alfreda Dudley</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2913).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -707,7 +707,7 @@
             <td>Ali Mohammad Al Haj</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2914).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -716,7 +716,7 @@
             <td>Matt Bailey</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2915).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -725,7 +725,7 @@
             <td>Diana Maynard</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2916).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -734,7 +734,7 @@
             <td>Mark Borrelli</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2917).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -743,7 +743,7 @@
             <td>Jeremy Ary</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2918).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -752,7 +752,7 @@
             <td>Cameron Buchanan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2919).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -761,7 +761,7 @@
             <td>John Chapman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2920).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -770,7 +770,7 @@
             <td>Eric Pimpler</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2921).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -779,7 +779,7 @@
             <td>Stuart Fordham</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2922).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -788,7 +788,7 @@
             <td>Fernando J. Miguel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2923).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -797,7 +797,7 @@
             <td>Andrew Whelan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2924).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -806,7 +806,7 @@
             <td>Babak Farrokhi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2925).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -815,7 +815,7 @@
             <td>Erol Gelenbe</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2926).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -824,7 +824,7 @@
             <td>Jean Louis Boulanger</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2927).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -833,7 +833,7 @@
             <td>Martin Zelm</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2928).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -842,7 +842,7 @@
             <td>Ken Chen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2929).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -851,7 +851,7 @@
             <td>Jon Holt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2930).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -860,7 +860,7 @@
             <td>Michael Ivanov</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2931).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -869,7 +869,7 @@
             <td>Bert Wheeler</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2932).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -878,7 +878,7 @@
             <td>Dmitri Khanine</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2933).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -887,7 +887,7 @@
             <td>Jeremy Roland</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2934).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -896,7 +896,7 @@
             <td>Wayne Palaia</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2935).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -905,7 +905,7 @@
             <td>Sara Wachter Boettcher</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2936).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -914,7 +914,7 @@
             <td>Anthony Briggs</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2937).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -923,7 +923,7 @@
             <td>Borworn Papasratorn</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2938).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -932,7 +932,7 @@
             <td>Henrik Leopold</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2939).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -941,7 +941,7 @@
             <td>Peng Li</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2940).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -950,7 +950,7 @@
             <td>Alain Tremeau</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2941).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -959,7 +959,7 @@
             <td>Colin Johnson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2942).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -968,7 +968,7 @@
             <td>Daniel Cremers</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2943).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -977,7 +977,7 @@
             <td>Daniel Cremers</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2944).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -986,7 +986,7 @@
             <td>Alexander Heinecke</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2945).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -995,7 +995,7 @@
             <td>Anja Lehmann</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2946).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1004,7 +1004,7 @@
             <td>Yo Sub Han</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2947).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1013,7 +1013,7 @@
             <td>Piotr Kulczycki</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2948).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1022,7 +1022,7 @@
             <td>J. Martin Ramirez</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2949).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1031,7 +1031,7 @@
             <td>Erik Cambria</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2950).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1040,7 +1040,7 @@
             <td>Michael M. Resch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2951).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1049,7 +1049,7 @@
             <td>Giovanni Squillero</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2952).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1058,7 +1058,7 @@
             <td>T.V. Gopal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2953).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1067,7 +1067,7 @@
             <td>Ioana Ciuciu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2954).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1076,7 +1076,7 @@
             <td>David Brosset</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2955).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1085,7 +1085,7 @@
             <td>Leszek A. Maciaszek</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2956).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1094,7 +1094,7 @@
             <td>Andres Jimenez</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2957).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1103,7 +1103,7 @@
             <td>Jean Sebastien Coron</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2958).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1112,7 +1112,7 @@
             <td>Sergio Escalera</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2959).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1121,7 +1121,7 @@
             <td>Man Ho Allen Au</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2960).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1130,7 +1130,7 @@
             <td>Boris Shishkov</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2961).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1139,7 +1139,7 @@
             <td>Marc Joye</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2962).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1148,7 +1148,7 @@
             <td>Vicenc Torra</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2963).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1157,7 +1157,7 @@
             <td>Hamed Habibi Aghdam</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2964).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1166,7 +1166,7 @@
             <td>Germano Resconi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2965).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1175,7 +1175,7 @@
             <td>Mart Laanpere</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2966).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1184,7 +1184,7 @@
             <td>Vladimir D. Liseikin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2967).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1193,7 +1193,7 @@
             <td>Wil van der Aalst</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2968).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1202,7 +1202,7 @@
             <td>Daniel Figueiredo</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2969).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1211,7 +1211,7 @@
             <td>Da Yan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2970).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1220,7 +1220,7 @@
             <td>Gabriele Meiselwitz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2971).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1229,7 +1229,7 @@
             <td>Alberto Dennunzio</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2972).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1238,7 +1238,7 @@
             <td>Paolo Ciancarini</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2973).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1247,7 +1247,7 @@
             <td>Simone Barbosa</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2974).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1256,7 +1256,7 @@
             <td>Pascal Weil</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2975).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1265,7 +1265,7 @@
             <td>Francois Lauze</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2976).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1274,7 +1274,7 @@
             <td>Carlos Delgado Kloos</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2977).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1283,7 +1283,7 @@
             <td>Fengyu Cong</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2978).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1292,7 +1292,7 @@
             <td>Jyoti Choudrie</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2979).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1301,7 +1301,7 @@
             <td>Shangguang Wang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2980).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1310,7 +1310,7 @@
             <td>Seyed Shahrestani</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2981).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1319,7 +1319,7 @@
             <td>Johann Eder</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2982).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1328,7 +1328,7 @@
             <td>Amanda Spink</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2983).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1337,7 +1337,7 @@
             <td>Ivan Jureta</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2984).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1346,7 +1346,7 @@
             <td>Ulfar Erlingsson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2985).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1355,7 +1355,7 @@
             <td>Luis M. Camarinha Matos</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2986).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1364,7 +1364,7 @@
             <td>Hans Bernd Kittlaus</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2987).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1373,7 +1373,7 @@
             <td>Javier Esparza</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2988).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1382,7 +1382,7 @@
             <td>Marieke Huisman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2989).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1391,7 +1391,7 @@
             <td>Suresh Chandra Satapathy</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2990).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1400,7 +1400,7 @@
             <td>Kusum Deep</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2991).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1409,7 +1409,7 @@
             <td>Junping Qiu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2992).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1418,7 +1418,7 @@
             <td>Quan Yu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2993).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1427,7 +1427,7 @@
             <td>Shin Nakajima</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2994).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1436,7 +1436,7 @@
             <td>Chin Hui Lee</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2995).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1445,7 +1445,7 @@
             <td>Richard L. Amoroso</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2996).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1454,7 +1454,7 @@
             <td>Doug Sahlin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2997).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1463,7 +1463,7 @@
             <td>Royal Society</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf2997.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1472,7 +1472,7 @@
             <td>Anthony T. Velte</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2998).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1481,7 +1481,7 @@
             <td>Arie Geller</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2999).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1490,7 +1490,7 @@
             <td>Mary Anne Poatsy</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3000).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1499,7 +1499,7 @@
             <td>Barrett Clark</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3001).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1508,7 +1508,7 @@
             <td>Jared P. Lander</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3002).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1517,7 +1517,7 @@
             <td>Eric B . Winsberg</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3003).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1526,7 +1526,7 @@
             <td>Paul Dourish</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3004).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1535,7 +1535,7 @@
             <td>Yuri Takhteyev</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3005).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1544,7 +1544,7 @@
             <td>Harold Thimbleby</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3006).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1553,7 +1553,7 @@
             <td>Whitman Richards</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3007).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1562,7 +1562,7 @@
             <td>Alastair L. Day</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3008).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1571,7 +1571,7 @@
             <td>Samuel C. McQuade, III</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3009).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1580,7 +1580,7 @@
             <td>Tom Negrino</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3010).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1589,7 +1589,7 @@
             <td>Scott Roberts</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3011).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1598,7 +1598,7 @@
             <td>Tok Wang Ling</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3012).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1607,7 +1607,7 @@
             <td>John Davies</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3013).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1616,7 +1616,7 @@
             <td>Andre Neubauer</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3014).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1625,7 +1625,7 @@
             <td>Nancy C. Muir</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3015).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1634,7 +1634,7 @@
             <td>Kathy Jacobs</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3016).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1643,7 +1643,7 @@
             <td>Emmanuel Goldstein</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3017).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1652,7 +1652,7 @@
             <td>J. C. Huang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3018).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1661,7 +1661,7 @@
             <td>Erdal Cayirci</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3019).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1670,7 +1670,7 @@
             <td>Frank H.P. Fitzek</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3020).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1679,7 +1679,7 @@
             <td>Alison Balter</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3021).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1688,7 +1688,7 @@
             <td>Ben Forta</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3022).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1697,7 +1697,7 @@
             <td>Daniel Roy Greenfeld</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3023).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1706,7 +1706,7 @@
             <td>Stephanie Krieger</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3024).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1715,7 +1715,7 @@
             <td>Marco Russo</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3025).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1724,7 +1724,7 @@
             <td>David Hunter</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3026).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1733,7 +1733,7 @@
             <td>Tom Bunzel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3027).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1742,7 +1742,7 @@
             <td>Guojun Gan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3028).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1751,7 +1751,7 @@
             <td>A.N. Rajagopalan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3029).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1760,7 +1760,7 @@
             <td>Jose Hernandez Orallo</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3030).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1769,7 +1769,7 @@
             <td>Craig Zacker</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3031).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1778,7 +1778,7 @@
             <td>Michael Arguin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3032).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1787,7 +1787,7 @@
             <td>Stephen L. Nelson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3033).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1796,7 +1796,7 @@
             <td>Dafydd Stuttard</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3034).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1805,7 +1805,7 @@
             <td>John R. Levine</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3035).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1814,7 +1814,7 @@
             <td>Michael Dooley</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3036).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1823,7 +1823,7 @@
             <td>Ric Messier</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3037).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1832,7 +1832,7 @@
             <td>Hartmut Koenitz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3038).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1841,7 +1841,7 @@
             <td>Lisa Friedrichsen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3039).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1850,7 +1850,7 @@
             <td>Scott Tilley</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3040).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1859,7 +1859,7 @@
             <td>Sandeep Bhowmik</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3041).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1868,7 +1868,7 @@
             <td>Tejaswi Redkar</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3042).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1877,7 +1877,7 @@
             <td>Daniel Minoli</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3043).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1886,7 +1886,7 @@
             <td>Kun Peng</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3044).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1895,7 +1895,7 @@
             <td>Izzat Alsmadi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3045).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1904,7 +1904,7 @@
             <td>Jeffrey L. Nyhoff</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3046).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1913,7 +1913,7 @@
             <td>Brajesh De</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3047).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1922,7 +1922,7 @@
             <td>Leon Starr</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3048).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1931,7 +1931,7 @@
             <td>Y V Ravikumar</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3049).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1940,7 +1940,7 @@
             <td>Knowledge Powerhouse</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3050).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1949,7 +1949,7 @@
             <td>Gilbert Kofi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3051).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1958,7 +1958,7 @@
             <td>John McCabe</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3052).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1967,7 +1967,7 @@
             <td>Leonardo Gorman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3053).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1976,7 +1976,7 @@
             <td>Charlie Masterson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3054).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1985,7 +1985,7 @@
             <td>Lee Maxwell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3055).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -1994,7 +1994,7 @@
             <td>Gilbert Kofi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3056).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2003,7 +2003,7 @@
             <td>Lee Maxwell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3057).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2012,7 +2012,7 @@
             <td>Nathan Clark</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3058).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2021,7 +2021,7 @@
             <td>Anonymous</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3059).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2030,7 +2030,7 @@
             <td>Martin Laredo</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3060).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2039,7 +2039,7 @@
             <td>Matthew Adams</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3061).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2048,7 +2048,7 @@
             <td>Charlie Masterson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3062).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2057,7 +2057,7 @@
             <td>Stephen Blumenthal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3063).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2066,7 +2066,7 @@
             <td>Brian Draper</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3064).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2075,7 +2075,7 @@
             <td>Nathan Clark</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3065).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2084,7 +2084,7 @@
             <td>Josh Thompsons</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3066).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2093,7 +2093,7 @@
             <td>iCode Academy</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3067).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2102,7 +2102,7 @@
             <td>Stephen Blumenthal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3068).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2111,7 +2111,7 @@
             <td>Quick Start Guides</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3069).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2120,7 +2120,7 @@
             <td>James Jackson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3070).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2129,7 +2129,7 @@
             <td>Os Swift</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3071).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2138,7 +2138,7 @@
             <td>Greg Sidelnikov</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3072).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2147,7 +2147,7 @@
             <td>Jordan Schroeder</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3073).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2156,7 +2156,7 @@
             <td>Nickolay Tsvetinov</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3074).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2165,7 +2165,7 @@
             <td>Stephen Ludin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3075).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2174,7 +2174,7 @@
             <td>Ken Kousen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3076).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2183,7 +2183,7 @@
             <td>Hanu Prateek Kunduru</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3077).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2192,7 +2192,7 @@
             <td>Hans Jurgen Schonig</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3078).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2201,7 +2201,7 @@
             <td>Mohammad Javad Morovati</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3079).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2210,7 +2210,7 @@
             <td>Moritz Lenz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3080).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2219,7 +2219,7 @@
             <td>Sujoy Acharya</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3081).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2228,7 +2228,7 @@
             <td>Janusz Kacprzyk</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3082).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2237,7 +2237,7 @@
             <td>Garry Turkington</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3083).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2246,7 +2246,7 @@
             <td>Sandro Pasquali</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3084).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2255,7 +2255,7 @@
             <td>Hazem Saleh</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3085).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2264,7 +2264,7 @@
             <td>Calin Rada</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3086).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2273,7 +2273,7 @@
             <td>Phil Kim</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3087).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2282,7 +2282,7 @@
             <td>Simon R. Chapple</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3088).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2291,7 +2291,7 @@
             <td>Mark Maslach</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3089).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2300,7 +2300,7 @@
             <td>Simon Riggs</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3090).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2309,7 +2309,7 @@
             <td>Chris Conlan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3091).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2318,7 +2318,7 @@
             <td>Tejaswini Mandar Jog</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3092).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2327,7 +2327,7 @@
             <td>Linling Kuang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3093).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2336,7 +2336,7 @@
             <td>Aarti Singh</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3094).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2345,7 +2345,7 @@
             <td>Rajesh Gunasundaram</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3095).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2354,7 +2354,7 @@
             <td>Sue Spielman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3096).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2363,7 +2363,7 @@
             <td>Jason Krol</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3097).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2372,7 +2372,7 @@
             <td>Steven Gutz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3098).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2381,7 +2381,7 @@
             <td>Julia Silge</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3099).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2390,7 +2390,7 @@
             <td>Hemant Jain</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3100).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2399,7 +2399,7 @@
             <td>vincent van der Leun </td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3101).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2408,7 +2408,7 @@
             <td>Andy Leonard</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3102).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2417,7 +2417,7 @@
             <td>Jurij Laznik</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3103).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2426,7 +2426,7 @@
             <td>Peter Pilgrim</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3104).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2435,7 +2435,7 @@
             <td>Holden Karau</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3105).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2444,7 +2444,7 @@
             <td>Laine Campbell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3106).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2453,7 +2453,7 @@
             <td>Walter Bentley</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3107).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2462,7 +2462,7 @@
             <td>Richard M. Reese</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3108).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2471,7 +2471,7 @@
             <td>Osama Oransa</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3109).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2480,7 +2480,7 @@
             <td>Mark Gardener</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3110).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2489,7 +2489,7 @@
             <td>Brian P. Hogan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3111).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2498,7 +2498,7 @@
             <td>Paul C. Jorgensen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3112).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2507,7 +2507,7 @@
             <td>Muhammad Asif Abbasi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3113).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2516,7 +2516,7 @@
             <td>Ravi Kumar Gupta</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3114).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2525,7 +2525,7 @@
             <td>Ted Dunning</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3115).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2534,7 +2534,7 @@
             <td>Abhishek Mishra</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3116).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2543,7 +2543,7 @@
             <td>Marshall Copeland</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3117).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2552,7 +2552,7 @@
             <td>Ganesh Chandra Deka</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3118).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2561,7 +2561,7 @@
             <td>Serhan Yamacli</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3119).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2570,7 +2570,7 @@
             <td>Nikhil Pathania</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3120).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2579,7 +2579,7 @@
             <td>Raja Malleswara Rao Pattamsetti</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3121).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2588,7 +2588,7 @@
             <td>Vijay Kumar Velu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3122).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2597,7 +2597,7 @@
             <td>Tom Christiansen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3123).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2606,7 +2606,7 @@
             <td>Kuan Ching Li</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3124).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2615,7 +2615,7 @@
             <td>Krishna Choppella</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3125).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2624,7 +2624,7 @@
             <td>Stelios Charalambides</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3126).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2633,7 +2633,7 @@
             <td>Kenneth N. Berk</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3127).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2642,7 +2642,7 @@
             <td>Lee Brotherston</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3128).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2651,7 +2651,7 @@
             <td>Tamalika Chaira</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3129).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2660,7 +2660,7 @@
             <td>Chrisina Jayne</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3130).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2669,7 +2669,7 @@
             <td>Kathy Sierra</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3131).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2678,7 +2678,7 @@
             <td>Narasimha Karumanchi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3132).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2687,7 +2687,7 @@
             <td>Michael McPhee</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3133).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2696,7 +2696,7 @@
             <td>Arie Geller</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3134).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2705,7 +2705,7 @@
             <td>Alessandro E.P. Villa</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3135).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2714,7 +2714,7 @@
             <td>Alan Beaulieu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3136).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2723,7 +2723,7 @@
             <td>Alessandro E.P. Villa</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3137).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2732,7 +2732,7 @@
             <td>MadCap Software</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00001.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2741,7 +2741,7 @@
             <td>Abdul Kasim</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00002.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2750,7 +2750,7 @@
             <td>Neil Reid</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00003.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2759,7 +2759,7 @@
             <td>Sheldon M. Ross</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00004.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2768,7 +2768,7 @@
             <td>Behrouz A. Forouzan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00005.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2777,7 +2777,7 @@
             <td>Andrew M. Rudoff</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00006.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2786,7 +2786,7 @@
             <td>John Lewis</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00007.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2795,7 +2795,7 @@
             <td>Mitch McCaffrey</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00008.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2804,7 +2804,7 @@
             <td>James DeRoest</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3138).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2813,7 +2813,7 @@
             <td>Vikram Vaswani</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3139).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2822,7 +2822,7 @@
             <td>Thomas A. Powell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3140).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2831,7 +2831,7 @@
             <td>Vikram Vaswani</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3141).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2840,7 +2840,7 @@
             <td>Jeffrey T. Orloff</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3142).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2849,7 +2849,7 @@
             <td>Vince Casarez</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3143).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2858,7 +2858,7 @@
             <td>J. F. DiMarzio</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3144).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2867,7 +2867,7 @@
             <td>Robin Nixon</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3145).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2876,7 +2876,7 @@
             <td>J. F. DiMarzio</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3146).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2885,7 +2885,7 @@
             <td>John Brock</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3147).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2894,7 +2894,7 @@
             <td>Steve Maxwell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3148).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2903,7 +2903,7 @@
             <td>Michael Turner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3149).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2912,7 +2912,7 @@
             <td>Scott Duffy</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3150).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2921,7 +2921,7 @@
             <td>Herbert Schildt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3151).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2930,7 +2930,7 @@
             <td>Thomas Powell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3152).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2939,7 +2939,7 @@
             <td>Jim Keogh</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3153).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2948,7 +2948,7 @@
             <td>Herbert Schildt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3154).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2957,7 +2957,7 @@
             <td>John S. Dean</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3155).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2966,7 +2966,7 @@
             <td>Timothy C. Lethbridge</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3156).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2975,7 +2975,7 @@
             <td>Mike McCune</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3157).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2984,7 +2984,7 @@
             <td>Prashant Sridharan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3158).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -2993,7 +2993,7 @@
             <td>Cay S. Horstmann</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3159).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3002,7 +3002,7 @@
             <td>David M. Geary</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3160).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3011,7 +3011,7 @@
             <td>Daniel Sanchez</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3161).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3020,7 +3020,7 @@
             <td>Frank Budinsky</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3162).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3029,7 +3029,7 @@
             <td>Carl Albing</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3163).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3038,7 +3038,7 @@
             <td>John H. Terpstra</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3164).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3047,7 +3047,7 @@
             <td>Mark G. Sobell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3165).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3056,7 +3056,7 @@
             <td>Y. Daniel Liang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3166).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3065,7 +3065,7 @@
             <td>Sreekrishnan Venkateswaran</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3167).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3074,7 +3074,7 @@
             <td>Walter Savitch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3168).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3083,7 +3083,7 @@
             <td>Paul Deitel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3169).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3092,7 +3092,7 @@
             <td>Kyle Rankin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3170).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3101,7 +3101,7 @@
             <td>Jeremy Gibson Bond</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3171).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3110,7 +3110,7 @@
             <td>Paul Deitel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3172).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3119,7 +3119,7 @@
             <td>Paul J. Deitel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3173).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3128,7 +3128,7 @@
             <td>Rahul Sharma</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3174).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3137,7 +3137,7 @@
             <td>Dieter Fensel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3175).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3146,7 +3146,7 @@
             <td>Douglas Bell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3176).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3155,7 +3155,7 @@
             <td>Paul Fischer</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3177).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3164,7 +3164,7 @@
             <td>Jon Kleinberg, Eva Tardos</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3178).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3173,7 +3173,7 @@
             <td>Naci Dai</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3179).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3182,7 +3182,7 @@
             <td>Jeremy Keith</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3180).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3191,7 +3191,7 @@
             <td>Russ Olsen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3181).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3200,7 +3200,7 @@
             <td>Cedric Beust</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3182).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3209,7 +3209,7 @@
             <td>Penny McIntire</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3183).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3218,7 +3218,7 @@
             <td>Edward Angel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3184).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3227,7 +3227,7 @@
             <td>Mark Bates</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3185).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3236,7 +3236,7 @@
             <td>Mark Summerfield</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3186).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3245,7 +3245,7 @@
             <td>Steven Holzner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3187).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3254,7 +3254,7 @@
             <td>Stephen Burge</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3188).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3263,7 +3263,7 @@
             <td>Katherine Ulrich</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3189).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3272,7 +3272,7 @@
             <td>Scott McNulty</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3190).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3281,7 +3281,7 @@
             <td>Lauren Darcey</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3191).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3290,7 +3290,7 @@
             <td>Quentin Charatan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3192).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3299,7 +3299,7 @@
             <td>Kenneth H. Rosen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(03192).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3308,7 +3308,7 @@
             <td>A. Weil</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(03193).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3317,7 +3317,7 @@
             <td>F. W. Gehrin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(03194).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3326,7 +3326,7 @@
             <td>G. H. Hardy</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(03195).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3335,7 +3335,7 @@
             <td>William Stein</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(03196).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3344,7 +3344,7 @@
             <td>Nikos Paragios</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3193).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3353,7 +3353,7 @@
             <td>Ted Dunstone</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3194).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3362,7 +3362,7 @@
             <td>Sari Gilbert</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3195).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3371,7 +3371,7 @@
             <td>Frederick Hirsch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3196).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3380,7 +3380,7 @@
             <td>Jim McBee</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3197).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3389,7 +3389,7 @@
             <td>Wiley Publishing, Inc.</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3198).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3398,7 +3398,7 @@
             <td>Kate Shoup Welsh</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3199).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3407,7 +3407,7 @@
             <td>Dee Ann LeBlanc</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3200).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3416,7 +3416,7 @@
             <td>Jeffrey R. Shapiro</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3201).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3425,7 +3425,7 @@
             <td>Joseph Lowery</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3202).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3434,7 +3434,7 @@
             <td>Matthew Keefe</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3203).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3443,7 +3443,7 @@
             <td>Christopher Negus</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3204).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3452,7 +3452,7 @@
             <td>Dariush Derakhshani</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3205).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3461,7 +3461,7 @@
             <td>Richard Hightower</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3206).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3470,7 +3470,7 @@
             <td>David Pallmann</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3207).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3479,7 +3479,7 @@
             <td>Madhushree Ganguli</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3208).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3488,7 +3488,7 @@
             <td>Mark Grand</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3209).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3497,7 +3497,7 @@
             <td>Glenn Johnson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3210).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3506,7 +3506,7 @@
             <td>Sandra Henry Stocker</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3211).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3515,7 +3515,7 @@
             <td>Andreas Eberhart</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3212).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3524,7 +3524,7 @@
             <td>Michael T. Goodrich</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3213).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3533,7 +3533,7 @@
             <td>Witold Pedrycz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3214).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3542,7 +3542,7 @@
             <td>Masashi Sugiyama</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3215).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3551,7 +3551,7 @@
             <td>Ian Gorton</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3216).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3560,7 +3560,7 @@
             <td>David Barber</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3217).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3569,7 +3569,7 @@
             <td>Margaret Masterman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3218).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3578,7 +3578,7 @@
             <td>Sean M. Burke</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3219).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3587,7 +3587,7 @@
             <td>Mike Chambers</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3220).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3596,7 +3596,7 @@
             <td>Gary Bradski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3221).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3605,7 +3605,7 @@
             <td>John Allspaw</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3222).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3614,7 +3614,7 @@
             <td>chromatic</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3223).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3623,7 +3623,7 @@
             <td>Peter Morville</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3224).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3632,7 +3632,7 @@
             <td>Subbu Allamaraju</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3225).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3641,7 +3641,7 @@
             <td>Matt Wolfe</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3226).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3650,7 +3650,7 @@
             <td>Craig Witherspoon</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3227).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3659,7 +3659,7 @@
             <td>Thomas Schenk</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3228).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3668,7 +3668,7 @@
             <td>Andrew Watt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3229).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3677,7 +3677,7 @@
             <td>Atul Apte</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3230).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3686,7 +3686,7 @@
             <td>Clinton Pierce</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3231).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3695,7 +3695,7 @@
             <td>Michael McCallister</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3232).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3704,7 +3704,7 @@
             <td>Rand Morimoto</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3233).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3713,7 +3713,7 @@
             <td>Rand Morimoto</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3234).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3722,7 +3722,7 @@
             <td>Kevin Hoffman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3235).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3731,7 +3731,7 @@
             <td>Shivani Karwal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3236).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3740,7 +3740,7 @@
             <td>Ed Bott</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3237).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3749,7 +3749,7 @@
             <td>Kenn Scribner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3238).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3758,7 +3758,7 @@
             <td>Microsoft</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3239).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3767,7 +3767,7 @@
             <td>Mitch Tulloch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3240).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3776,7 +3776,7 @@
             <td>Eric A. Meyer</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3241).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3785,7 +3785,7 @@
             <td>Lydia Parziale</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3242).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3794,7 +3794,7 @@
             <td>Chris Almond</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3243).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3803,7 +3803,7 @@
             <td>Wolfgang F. Engel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3244).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3812,7 +3812,7 @@
             <td>Justin Couch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3245).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3821,7 +3821,7 @@
             <td>Alan Simpson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3246).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3830,7 +3830,7 @@
             <td>Cary N. Prague</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3247).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3839,7 +3839,7 @@
             <td>Bud E. Smith</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3248).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3848,7 +3848,7 @@
             <td>Barry Burd</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3249).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3857,7 +3857,7 @@
             <td>Thearon Willis</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3250).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3866,7 +3866,7 @@
             <td>Gary Rosenzweig</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3251).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3875,7 +3875,7 @@
             <td>Jack Minker</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3252).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3884,7 +3884,7 @@
             <td>Winfred Arthur, Jr.</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3253).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3893,7 +3893,7 @@
             <td>Judy L. Walker</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3254).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3902,7 +3902,7 @@
             <td>Mo Jamshidi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3255).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3911,7 +3911,7 @@
             <td>Guido van Rossum</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3256).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3920,7 +3920,7 @@
             <td>Ivo Jansch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3257).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3929,7 +3929,7 @@
             <td>James Edwards</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3258).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3938,7 +3938,7 @@
             <td>Ian Lloyd</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3259).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3947,7 +3947,7 @@
             <td>Cameron Adams</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3260).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3956,7 +3956,7 @@
             <td>Rachel Andrew</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3261).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3965,7 +3965,7 @@
             <td>Cameron Adams</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3262).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3974,7 +3974,7 @@
             <td>Tommy Olsson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3263).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3983,7 +3983,7 @@
             <td>Rachel Andrew</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3264).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -3992,7 +3992,7 @@
             <td>Ian Lloyd</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3265).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4001,7 +4001,7 @@
             <td>Mark L. Murphy</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3266).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4010,7 +4010,7 @@
             <td>Wikibooks.org</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3267).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4019,7 +4019,7 @@
             <td>Earle Castledine</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3268).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4028,7 +4028,7 @@
             <td>Ari Lerner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3269).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4037,7 +4037,7 @@
             <td>Tiffany B. Brown</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3270).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4046,7 +4046,7 @@
             <td>Luke Hay</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3271).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4055,7 +4055,7 @@
             <td>Ben Coleman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3272).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4064,7 +4064,7 @@
             <td>Joseph Hogue</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3273).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4073,7 +4073,7 @@
             <td>Shmuel Tomi Klein</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3274).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4082,7 +4082,7 @@
             <td>Diane Zak</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3275).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4091,7 +4091,7 @@
             <td>Derek James</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3276).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4100,7 +4100,7 @@
             <td>Benjamin Perkins</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3277).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4109,7 +4109,7 @@
             <td>Michael Rohde</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3278).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4118,7 +4118,7 @@
             <td>Bill Sempf</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3279).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4127,7 +4127,7 @@
             <td>Judith Hurwitz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3280).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4136,7 +4136,7 @@
             <td>David Karlins</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3281).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4145,7 +4145,7 @@
             <td>Judith Hurwitz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3282).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4154,7 +4154,7 @@
             <td>Derek Molloy</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3283).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4163,7 +4163,7 @@
             <td>Christopher Negus</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3284).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4172,7 +4172,7 @@
             <td>Christine Bresnahan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3285).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4181,7 +4181,7 @@
             <td>Doug Lowe</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3286).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4190,7 +4190,7 @@
             <td>Barry Burd</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3287).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4199,7 +4199,7 @@
             <td>William Panek</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3288).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4208,7 +4208,7 @@
             <td>Mike McShaffry</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3289).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4217,7 +4217,7 @@
             <td>Christopher W. Totten</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3290).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4226,7 +4226,7 @@
             <td>Yair Amichai</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3291).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4235,7 +4235,7 @@
             <td>William Turner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3292).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4244,7 +4244,7 @@
             <td>Doris C. Rusch </td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3293).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4253,7 +4253,7 @@
             <td>Marti Gold</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3294).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4262,7 +4262,7 @@
             <td>Andrew Williams</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3295).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4271,7 +4271,7 @@
             <td>Penny de Byl</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3296).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4280,7 +4280,7 @@
             <td>Luke Ahearn</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3297).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4289,7 +4289,7 @@
             <td>Kathy Sierra</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3298).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4298,7 +4298,7 @@
             <td>Robin D. Turner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3299).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4307,7 +4307,7 @@
             <td>Timothy Wright</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3300).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4316,7 +4316,7 @@
             <td>Premchand S. Nair</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3301).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4325,7 +4325,7 @@
             <td>Randall L. Eubank</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3302).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4334,7 +4334,7 @@
             <td>Dave Mark</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3303).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4343,7 +4343,7 @@
             <td>Mark Dalrymple</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3304).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4352,7 +4352,7 @@
             <td>Harry J. Foxwell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3305).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4361,7 +4361,7 @@
             <td>Jorg Krause</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3306).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4370,7 +4370,7 @@
             <td>Carl Dea</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3307).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4379,7 +4379,7 @@
             <td>Marco Casario</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3308).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4388,7 +4388,7 @@
             <td>Jeff Friesen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3309).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4397,7 +4397,7 @@
             <td>Jonathan S. Harbour</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3310).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4406,7 +4406,7 @@
             <td>Frederic Magoules</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3311).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4415,7 +4415,7 @@
             <td>Peter Jay Salzman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3312).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4424,7 +4424,7 @@
             <td>Angelos D. Keromytis</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3313).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4433,7 +4433,7 @@
             <td>Tom Marrs</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3314).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4442,7 +4442,7 @@
             <td>J. David Eisenberg</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3315).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4451,7 +4451,7 @@
             <td>Josh Long</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3316).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4460,7 +4460,7 @@
             <td>William J. Tastle</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3317).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4469,7 +4469,7 @@
             <td>Gregory O Toole</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3318).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4478,7 +4478,7 @@
             <td>Marie Francine Moens</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3319).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4487,7 +4487,7 @@
             <td>Antonio Ruiz Martinez</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3320).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4496,7 +4496,7 @@
             <td>V. Santhi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3321).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4505,7 +4505,7 @@
             <td>Robert Ghanea Hercock</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3322).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4514,7 +4514,7 @@
             <td>Soumen Chakrabarti</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3323).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4523,7 +4523,7 @@
             <td>Dave Smith</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3324).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4532,7 +4532,7 @@
             <td>Rehan Zaidi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3325).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4541,7 +4541,7 @@
             <td>Kasun Indrasiri</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3326).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4550,7 +4550,7 @@
             <td>Mark J. Collins</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3327).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4559,7 +4559,7 @@
             <td>Anto Aravinth</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3328).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4568,7 +4568,7 @@
             <td>Vinit Yadav</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3329).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4577,7 +4577,7 @@
             <td>Terry Caelli</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3330).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4586,7 +4586,7 @@
             <td>Shan Suthaharan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3331).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4595,7 +4595,7 @@
             <td>Claude Sammut</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3332).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4604,7 +4604,7 @@
             <td>Amelia Bellamy Royds</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3333).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4613,7 +4613,7 @@
             <td>Michael R. Brzustowicz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3334).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4622,7 +4622,7 @@
             <td>Chris Griffith</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3335).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4631,7 +4631,7 @@
             <td>Nicolas Bevacqua</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3336).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4640,7 +4640,7 @@
             <td>Pamela Pavliscak</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3337).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4649,7 +4649,7 @@
             <td>Kathryn McElroy</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3338).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4658,7 +4658,7 @@
             <td>Kirupa Chinnathambi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3339).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4667,7 +4667,7 @@
             <td>Raymond Camden</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3340).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4676,7 +4676,7 @@
             <td>Joseph Albahari</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3341).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4685,7 +4685,7 @@
             <td>Alan Thorn</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3342).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4694,7 +4694,7 @@
             <td>Roberto Dillon</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3343).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4703,7 +4703,7 @@
             <td>Tanya X. Short</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3344).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4712,7 +4712,7 @@
             <td>Charles Severance</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3345).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4721,7 +4721,7 @@
             <td>Ikram Hawramani</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3346).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4730,7 +4730,7 @@
             <td>Van Nguyen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3347).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4739,7 +4739,7 @@
             <td>Singularity Now!</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3348).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4748,7 +4748,7 @@
             <td>Mr Kotiyana</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3349).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4757,7 +4757,7 @@
             <td>Shiv Kumar Goyal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3350).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4766,7 +4766,7 @@
             <td>Knowledge Powerhouse</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3351).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4775,7 +4775,7 @@
             <td>Eliel Carvalho</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3352).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4784,7 +4784,7 @@
             <td>Anonymous</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3353).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4793,7 +4793,7 @@
             <td>Nathan Clark</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3354).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4802,7 +4802,7 @@
             <td>Anonymous</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3355).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4811,7 +4811,7 @@
             <td>Arnold de Vries</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3356).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4820,7 +4820,7 @@
             <td>Stephen Haney</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3357).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4829,7 +4829,7 @@
             <td>Hemant Jain</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3358).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4838,7 +4838,7 @@
             <td>Wolfgang Engel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3359).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4847,7 +4847,7 @@
             <td>Riaz Ahmed</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3360).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4856,7 +4856,7 @@
             <td>shivani karwal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3361).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4865,7 +4865,7 @@
             <td>Matt Cole</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3362).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4874,7 +4874,7 @@
             <td>Isaac D. Cody</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3363).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4883,7 +4883,7 @@
             <td>Charlie Masterson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3364).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4892,7 +4892,7 @@
             <td>Bruce Berke</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3365).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4901,7 +4901,7 @@
             <td>Greg Lim</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3366).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4910,7 +4910,7 @@
             <td>F. Marques</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3367).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4919,7 +4919,7 @@
             <td>Charlie Masterson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3368).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4928,7 +4928,7 @@
             <td>Daniel Jones</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3369).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4937,7 +4937,7 @@
             <td>K. Taylor</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3370).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4946,7 +4946,7 @@
             <td>William Rowley</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3371).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4955,7 +4955,7 @@
             <td>Mark Smart</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3372).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4964,7 +4964,7 @@
             <td>Joshua Cody</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3373).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4973,7 +4973,7 @@
             <td>Daniel Jones</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3374).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4982,7 +4982,7 @@
             <td>Dr. Andy Williams</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3375).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -4991,7 +4991,7 @@
             <td>Anonymous</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3376).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5000,7 +5000,7 @@
             <td>J. Smith</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3377).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5009,7 +5009,7 @@
             <td>J. Smith</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3378).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5018,7 +5018,7 @@
             <td>J. Smith</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3379).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5027,7 +5027,7 @@
             <td>Mohan J. Menon</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3380).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5036,7 +5036,7 @@
             <td>Sunny Chanday</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3381).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5045,7 +5045,7 @@
             <td>Niko Guruli</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3382).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5054,7 +5054,7 @@
             <td>Jason Gregory</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3383).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5063,7 +5063,7 @@
             <td>Eric Lengyel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3384).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5072,7 +5072,7 @@
             <td>Roberto Dillon</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3385).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5081,7 +5081,7 @@
             <td>Carol Woodbury</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3386).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5090,7 +5090,7 @@
             <td>Andrew kirmse</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3387).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5099,7 +5099,7 @@
             <td>Martin Brownlow</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3388).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5108,7 +5108,7 @@
             <td>Steven Goodwin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3389).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5117,7 +5117,7 @@
             <td>Erik M. Keller</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3390).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5126,7 +5126,7 @@
             <td>Mike Mostafavi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3391).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5135,7 +5135,7 @@
             <td>David Perry</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3392).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5144,7 +5144,7 @@
             <td>Meiqing Wang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3393).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5153,7 +5153,7 @@
             <td>L.C. Jain</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3394).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5162,7 +5162,7 @@
             <td>J. Breuker</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3395).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5171,7 +5171,7 @@
             <td>Brian Sam</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3396).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5180,7 +5180,7 @@
             <td>Jeni Tennison</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3397).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5189,7 +5189,7 @@
             <td>Keir Thomas</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3398).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5198,7 +5198,7 @@
             <td>Grant Palmer</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3399).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5207,7 +5207,7 @@
             <td>Seth Ladd</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3400).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5216,7 +5216,7 @@
             <td>Jeff Friesen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3401).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5225,7 +5225,7 @@
             <td>Raymond Yee</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3402).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5234,7 +5234,7 @@
             <td>Rezaul Begg</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3403).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5243,7 +5243,7 @@
             <td>Christopher Tremblay</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3404).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5252,7 +5252,7 @@
             <td>John P. Flynt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3405).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5261,7 +5261,7 @@
             <td>Jim Adams</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3406).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5270,7 +5270,7 @@
             <td>Brent Fox</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3407).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5279,7 +5279,7 @@
             <td>Wallace Wang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3408).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5288,7 +5288,7 @@
             <td>John Ross</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3409).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5297,7 +5297,7 @@
             <td>Parag K. Lala</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3410).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5306,7 +5306,7 @@
             <td>Kenneth C. Finney</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3411).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5315,7 +5315,7 @@
             <td>Rudy Cortes</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3412).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5324,7 +5324,7 @@
             <td>John P. Flynt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3413).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5333,7 +5333,7 @@
             <td>Wendy Jones</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3414).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5342,7 +5342,7 @@
             <td>Robin D. Turner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3415).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5351,7 +5351,7 @@
             <td>Martin Dunmore</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3416).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5360,7 +5360,7 @@
             <td>Chryssis Georgiou</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3417).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5369,7 +5369,7 @@
             <td>Boris Igelnik</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3418).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5378,7 +5378,7 @@
             <td>De Gruyter</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3419).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5387,7 +5387,7 @@
             <td>Olaf Hartig</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3420).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5396,7 +5396,7 @@
             <td>F. Carminati</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3421).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5405,7 +5405,7 @@
             <td>Rob Collie</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3422).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5414,7 +5414,7 @@
             <td>Peter Harrington</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3423).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5423,7 +5423,7 @@
             <td>Justin Richer</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3424).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5432,7 +5432,7 @@
             <td>Peter Sbarski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3425).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5441,7 +5441,7 @@
             <td>Xin Biao Lu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3426).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5450,7 +5450,7 @@
             <td>Tat Jun Chin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3427).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5459,7 +5459,7 @@
             <td>Yoav Goldberg</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3428).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5468,7 +5468,7 @@
             <td>Kenton O Hara</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3429).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5477,7 +5477,7 @@
             <td>Graeme Hirst</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3430).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5486,7 +5486,7 @@
             <td>Ninghui Li</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3431).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5495,7 +5495,7 @@
             <td>Mary Lou Maher</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3432).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5504,7 +5504,7 @@
             <td>Ken Anjyo</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3433).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5513,7 +5513,7 @@
             <td>Walter J. Scheirer</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3434).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5522,7 +5522,7 @@
             <td>Kamran Sedig</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3435).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5531,7 +5531,7 @@
             <td>Marcelo Kallmann</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3436).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5540,7 +5540,7 @@
             <td>Horacio Saggion</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3437).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5549,7 +5549,7 @@
             <td>Reagan W. Moore</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3438).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5558,7 +5558,7 @@
             <td>Emanuel Delgado</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3439).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5567,7 +5567,7 @@
             <td>Oswald Campesato</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3440).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5576,7 +5576,7 @@
             <td>William McAllister</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3441).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5585,7 +5585,7 @@
             <td>Pawel Kozlowski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3442).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5594,7 +5594,7 @@
             <td>David Herron</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3443).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5603,7 +5603,7 @@
             <td>Wolf Halton</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3444).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5612,7 +5612,7 @@
             <td>Luca Dentella</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3445).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5621,7 +5621,7 @@
             <td>Natalie Denmeade</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3446).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5630,7 +5630,7 @@
             <td>Rich Helton</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3447).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5639,7 +5639,7 @@
             <td>Alexey Grigorev</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3448).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5648,7 +5648,7 @@
             <td>Chris Beeley</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3449).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5657,7 +5657,7 @@
             <td>Peter Egerton</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3450).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5666,7 +5666,7 @@
             <td>Rishabh Das</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3451).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5675,7 +5675,7 @@
             <td>Vandana Pal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3452).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5684,7 +5684,7 @@
             <td>Steve Santello</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3453).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5693,7 +5693,7 @@
             <td>Julian Villafuerte</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3454).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5702,7 +5702,7 @@
             <td>Daniela Cristiana Docan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3455).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5711,7 +5711,7 @@
             <td>Luca Dentella</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3456).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5720,7 +5720,7 @@
             <td>Erik Hommel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3457).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5729,7 +5729,7 @@
             <td>Nazmus Saquib</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3458).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5738,7 +5738,7 @@
             <td>Sufyan bin Uzayr</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3459).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5747,7 +5747,7 @@
             <td>Ashish Gupta</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3460).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5756,7 +5756,7 @@
             <td>Arun Chinnachamy</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3461).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5765,7 +5765,7 @@
             <td>Bass Jobsen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3462).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5774,7 +5774,7 @@
             <td>Bret Williams</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3463).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5783,7 +5783,7 @@
             <td>Stephen Haney</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3464).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5792,7 +5792,7 @@
             <td>Doel Sengupta</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3465).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5801,7 +5801,7 @@
             <td>Siddharth Shekar</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3466).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5810,7 +5810,7 @@
             <td>Simon Jackson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3467).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5819,7 +5819,7 @@
             <td>Paul Crickard III</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3468).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5828,7 +5828,7 @@
             <td>Loiane Groner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3469).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5837,7 +5837,7 @@
             <td>Raymond Camden</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3470).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5846,7 +5846,7 @@
             <td>Venita Pereira</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3471).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5855,7 +5855,7 @@
             <td>Sai Srinivas Sriparasa</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3472).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5864,7 +5864,7 @@
             <td>John Ewart</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3473).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5873,7 +5873,7 @@
             <td>Sujoy Acharya</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3474).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5882,7 +5882,7 @@
             <td>Prabath Siriwardena</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3475).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5891,7 +5891,7 @@
             <td>Bilal Shahid</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3476).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5900,7 +5900,7 @@
             <td>Marco Schwartz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3477).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5909,7 +5909,7 @@
             <td>Marco Schwartz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3478).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5918,7 +5918,7 @@
             <td>Sanjay Shah</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3479).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5927,7 +5927,7 @@
             <td>Lorenzo Anardu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3480).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5936,7 +5936,7 @@
             <td>Kingston Smiler. S</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3481).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5945,7 +5945,7 @@
             <td>Yuxian</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3482).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5954,7 +5954,7 @@
             <td>Hans Jurgen Schonig</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3483).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5963,7 +5963,7 @@
             <td>Charit Mishra</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3484).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5972,7 +5972,7 @@
             <td>Yogesh Chavan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3485).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5981,7 +5981,7 @@
             <td>Ben Trengrove</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3486).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5990,7 +5990,7 @@
             <td>Rahat Khanna</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3487).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -5999,7 +5999,7 @@
             <td>Rahul Rajat Singh</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3488).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6008,7 +6008,7 @@
             <td>Matt Smith</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3489).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6017,7 +6017,7 @@
             <td>Krishna Sankar</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3490).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6026,7 +6026,7 @@
             <td>Karan Singh</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3491).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6035,7 +6035,7 @@
             <td>Siddharth Shekar</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3492).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6044,7 +6044,7 @@
             <td>Rajesh Gunasundaram</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3493).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6053,7 +6053,7 @@
             <td>Katax Emperore</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3494).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6062,7 +6062,7 @@
             <td>Michael Solberg</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3495).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6071,7 +6071,7 @@
             <td>Vladimir Vivien</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3496).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6080,7 +6080,7 @@
             <td>Austin Scott</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3497).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6089,7 +6089,7 @@
             <td>Gunnar Liljas</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3498).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6098,7 +6098,7 @@
             <td>Ken Doman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3499).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6107,7 +6107,7 @@
             <td>Bostjan Kaluza</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3500).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6116,7 +6116,7 @@
             <td>Mohsin Shafique Hijazee</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3501).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6125,7 +6125,7 @@
             <td>David Schissler</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3502).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6134,7 +6134,7 @@
             <td>Michael Peacock</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3503).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6143,7 +6143,7 @@
             <td>Francesco Sapio</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3504).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6152,7 +6152,7 @@
             <td>Joanna Lee</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3505).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6161,7 +6161,7 @@
             <td>Humble Devassy Chirammal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3506).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6170,7 +6170,7 @@
             <td>Sunila Gollapudi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3507).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6179,7 +6179,7 @@
             <td>Kyle Langley</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3508).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6188,7 +6188,7 @@
             <td>Harry Cummings</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3509).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6197,7 +6197,7 @@
             <td>Richard M. Reese</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3510).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6206,7 +6206,7 @@
             <td>Suyog Sarda</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3511).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6215,7 +6215,7 @@
             <td>James Cook</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3512).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6224,7 +6224,7 @@
             <td>Alejandro Rodas de Paz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3513).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6233,7 +6233,7 @@
             <td>Saleem Ansari</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3514).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6242,7 +6242,7 @@
             <td>Matteo Bortolu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3515).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6251,7 +6251,7 @@
             <td>Vyacheslav Fadyushin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3516).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6260,7 +6260,7 @@
             <td>Benjamin Cane</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3517).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6269,7 +6269,7 @@
             <td>Shantanu Kumar</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3518).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6278,7 +6278,7 @@
             <td>Samanyu Chopra</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3519).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6287,7 +6287,7 @@
             <td>Ram Kulkarni</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3520).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6296,7 +6296,7 @@
             <td>Loiane Groner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3521).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6305,7 +6305,7 @@
             <td>Varun Nagpal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3522).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6314,7 +6314,7 @@
             <td>Alok Shrivastwa</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3523).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6323,7 +6323,7 @@
             <td>Gaurav Saini</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3524).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6332,7 +6332,7 @@
             <td>Raimon Rafols Montane</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3525).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6341,7 +6341,7 @@
             <td>Tajinder Kalsi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3526).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6350,7 +6350,7 @@
             <td>Ed Snider</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3527).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6359,7 +6359,7 @@
             <td>Greg Lukosek</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3528).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6368,7 +6368,7 @@
             <td>Gregory Boyce</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3529).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6377,7 +6377,7 @@
             <td>Sebastian Di Giuseppe</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3530).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6386,7 +6386,7 @@
             <td>Silvio Moreto</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3531).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6395,7 +6395,7 @@
             <td>Kai Nacke</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3532).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6404,7 +6404,7 @@
             <td>Erik Westra</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3533).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6413,7 +6413,7 @@
             <td>Vishal Shukla</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3534).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6422,7 +6422,7 @@
             <td>Ben Mearns</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3535).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6431,7 +6431,7 @@
             <td>Kevin Greene</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3536).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6440,7 +6440,7 @@
             <td>Gilles Crettenand</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3537).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6449,7 +6449,7 @@
             <td>Amuthan Ganeshan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3538).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6458,7 +6458,7 @@
             <td>Shravan Kumar Kasagoni</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3539).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6467,7 +6467,7 @@
             <td>Alan Thorn</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3540).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6476,7 +6476,7 @@
             <td>Gabriel Guarino</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3541).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6485,7 +6485,7 @@
             <td>Scott Faranello</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3542).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6494,7 +6494,7 @@
             <td>Matthias Templ</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3543).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6503,7 +6503,7 @@
             <td>Matt Frisbie</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3544).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6512,7 +6512,7 @@
             <td>Jalem Raj Rohit</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3545).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6521,7 +6521,7 @@
             <td>Simon Timms</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3546).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6530,7 +6530,7 @@
             <td>Antonio Esposito</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3547).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6539,7 +6539,7 @@
             <td>Adam Boduch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3548).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6548,7 +6548,7 @@
             <td>Kassandra Perch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3549).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6557,7 +6557,7 @@
             <td>Christoph Korner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3550).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6566,7 +6566,7 @@
             <td>Jordan Krause</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3551).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6575,7 +6575,7 @@
             <td>Marino Posadas</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3552).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6584,7 +6584,7 @@
             <td>Jobin Kuruvilla</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3553).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6593,7 +6593,7 @@
             <td>Eric Masiello</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3554).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6602,7 +6602,7 @@
             <td>Javier Fernandez Gonzalez</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3555).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6611,7 +6611,7 @@
             <td>Amos Q. Haviv</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3556).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6620,7 +6620,7 @@
             <td>Branko Ajzele</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3557).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6629,7 +6629,7 @@
             <td>Andrea Isoni</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3558).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6638,7 +6638,7 @@
             <td>Dale Green</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3559).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6647,7 +6647,7 @@
             <td>Allan Espinosa</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3560).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6656,7 +6656,7 @@
             <td>Ray Bogman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3561).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6665,7 +6665,7 @@
             <td>Junade Ali</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3562).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6674,7 +6674,7 @@
             <td>Jorge Jordan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3563).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6683,7 +6683,7 @@
             <td>Gaurav Kumar Aroraa</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3564).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6692,7 +6692,7 @@
             <td>John Brett</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3565).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6701,7 +6701,7 @@
             <td>Wasim Ahmed</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3566).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6710,7 +6710,7 @@
             <td>Kingston Smiler. S</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3567).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6719,7 +6719,7 @@
             <td>Alan Thorn</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3568).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6728,7 +6728,7 @@
             <td>Jamie Dixon</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3569).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6737,7 +6737,7 @@
             <td>Fernando Monteiro</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3570).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6746,7 +6746,7 @@
             <td>Douglas Reynolds</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3571).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6755,7 +6755,7 @@
             <td>Tejaswini Mandar Jog</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3572).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6764,7 +6764,7 @@
             <td>Scott Gallagher</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3573).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6773,7 +6773,7 @@
             <td>Ajdin Imsirovic</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3574).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6782,7 +6782,7 @@
             <td>Dr. Edward Lavieri</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3575).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6791,7 +6791,7 @@
             <td>Jack Donovan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3576).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6800,7 +6800,7 @@
             <td>Tomasz Dyl</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3577).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6809,7 +6809,7 @@
             <td>Rodolfo Giometti</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3578).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6818,7 +6818,7 @@
             <td>Alfred Nutile</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3579).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6827,7 +6827,7 @@
             <td>Gaston C. Hillar</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3580).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6836,7 +6836,7 @@
             <td>Susan Smith Nash</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3581).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6845,7 +6845,7 @@
             <td>Erich de Souza Oliveira</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3582).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6854,7 +6854,7 @@
             <td>Ashley Godbold</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3583).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6863,7 +6863,7 @@
             <td>Jos Dirksen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3584).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6872,7 +6872,7 @@
             <td>Samuli Thomasson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3585).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6881,7 +6881,7 @@
             <td>Valentino Zocca</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3586).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6890,7 +6890,7 @@
             <td>Christian Baxter</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3587).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6899,7 +6899,7 @@
             <td>Md. Ziaul Haq</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3588).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6908,7 +6908,7 @@
             <td>Adam Boduch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3589).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6917,7 +6917,7 @@
             <td>Praseed Pai</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3590).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6926,7 +6926,7 @@
             <td>Rajesh RV</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3591).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6935,7 +6935,7 @@
             <td>Florian Klaffenbach</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3592).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6944,7 +6944,7 @@
             <td>Andrea Passaglia</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3593).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6953,7 +6953,7 @@
             <td>Peter Verhas</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3594).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6962,7 +6962,7 @@
             <td>Nathan Rozentals</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3595).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6971,7 +6971,7 @@
             <td>Raimondas Pupius</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3596).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6980,7 +6980,7 @@
             <td>Olga Filipova</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3597).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6989,7 +6989,7 @@
             <td>Gaston C. Hillar</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3598).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -6998,7 +6998,7 @@
             <td>Randall Smith</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3599).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7007,7 +7007,7 @@
             <td>Rushdi Shams</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3600).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7016,7 +7016,7 @@
             <td>Micheal Lanham</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3601).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7025,7 +7025,7 @@
             <td>Thoriq Firdaus</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3602).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7034,7 +7034,7 @@
             <td>Dusty Phillips</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3603).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7043,7 +7043,7 @@
             <td>Minko Gechev</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3604).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7052,7 +7052,7 @@
             <td>Stephen Samuel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3605).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7061,7 +7061,7 @@
             <td>Rakhitha Nimesh Ratnayake</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3606).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7070,7 +7070,7 @@
             <td>Lucas Chan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3607).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7079,7 +7079,7 @@
             <td>Dirk Strauss</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3608).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7088,7 +7088,7 @@
             <td>Micheal Lanham</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3609).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7097,7 +7097,7 @@
             <td>Luca Stancapiano</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3610).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7106,7 +7106,7 @@
             <td>Fabian Vogelsteller</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3611).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7115,7 +7115,7 @@
             <td>Brenton J.W. Blawat</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3612).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7124,7 +7124,7 @@
             <td>Mohit</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3613).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7133,7 +7133,7 @@
             <td>Tadas Subonis</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3614).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7142,7 +7142,7 @@
             <td>Victor Savkin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3615).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7151,7 +7151,7 @@
             <td>Konstantin Ivanov</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3616).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7160,7 +7160,7 @@
             <td>Thomas Uphill</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3617).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7169,7 +7169,7 @@
             <td>Mike McGrath</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3618).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7178,7 +7178,7 @@
             <td>Mike McGrath</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3619).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7187,7 +7187,7 @@
             <td>Biswajit Sarkar</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3620).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7196,7 +7196,7 @@
             <td>Daniel Thalmann</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3621).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7205,7 +7205,7 @@
             <td>Jan Holub</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/tsa-lectures-1.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7214,7 +7214,7 @@
             <td>Zheng Hua Tan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3622).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7223,7 +7223,7 @@
             <td>Satchidananda Dehuri</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3623).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7232,7 +7232,7 @@
             <td>Christoph Lang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3624).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7241,7 +7241,7 @@
             <td>Nicholas Freear</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3625).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7250,7 +7250,7 @@
             <td>Francesco Marchioni</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3626).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7259,7 +7259,7 @@
             <td>Thomas Finnegan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3627).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7268,7 +7268,7 @@
             <td>Jamie Dean</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3628).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7277,7 +7277,7 @@
             <td>Anne Prince</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3629).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7286,7 +7286,7 @@
             <td>Dimitry Vostokov</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3630).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7295,7 +7295,7 @@
             <td>Thomas Petchel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3631).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7304,7 +7304,7 @@
             <td>Andrew Kirmse</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3632).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7313,7 +7313,7 @@
             <td>Mark Szymczyk</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3633).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7322,7 +7322,7 @@
             <td>Ron Penton</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3634).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7331,7 +7331,7 @@
             <td>James C. Foster</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3635).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7340,7 +7340,7 @@
             <td>Paul Boag</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3636).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7349,7 +7349,7 @@
             <td>Philip Conrod</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3637).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7358,7 +7358,7 @@
             <td>Sam Ruby</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3638).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7367,7 +7367,7 @@
             <td>Jarett Kobek</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3639).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7376,7 +7376,7 @@
             <td>Matthijs Hollemans</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3640).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7385,7 +7385,7 @@
             <td>Julian Shun</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3641).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7394,7 +7394,7 @@
             <td>Sharon Oviatt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3642).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7403,7 +7403,7 @@
             <td>Animesh Adhikari</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3643).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7412,7 +7412,7 @@
             <td>Angel P. del Pobil</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3644).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7421,7 +7421,7 @@
             <td>Gilles Dowek (Ed.)</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3645).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7430,7 +7430,7 @@
             <td>Enrico Formenti</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3646).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7439,7 +7439,7 @@
             <td>De Shuang Huang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3647).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7448,7 +7448,7 @@
             <td>Martin Hepp</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3648).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7457,7 +7457,7 @@
             <td>David Fleet</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3649).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7466,7 +7466,7 @@
             <td>Dosam Hwang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3650).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7475,7 +7475,7 @@
             <td>Satoshi Murata</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3651).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7484,7 +7484,7 @@
             <td>Ligang Wu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3652).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7493,7 +7493,7 @@
             <td>Laurent Besacier</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3653).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7502,7 +7502,7 @@
             <td>Logics in Artificial Intelligence</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3654).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7511,7 +7511,7 @@
             <td>Pierrick Legrand</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3655).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7520,7 +7520,7 @@
             <td>Boualem Benatallah</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3656).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7529,7 +7529,7 @@
             <td>Alessandro De Gloria (Ed.)</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3657).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7538,7 +7538,7 @@
             <td>Eduardo Bayro Corrochano</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3658).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7547,7 +7547,7 @@
             <td>Willi Meier</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3659).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7556,7 +7556,7 @@
             <td>Ramon Hervas</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3660).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7565,7 +7565,7 @@
             <td>Juan Luis Navarro Mesa</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3661).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7574,7 +7574,7 @@
             <td>Shin Ming Cheng</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3662).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7583,7 +7583,7 @@
             <td>Rodrigo C. Barros</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3663).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7592,7 +7592,7 @@
             <td>George Bebis et al</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3664).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7601,7 +7601,7 @@
             <td>Xue Cheng Tai</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3665).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7610,7 +7610,7 @@
             <td>Sumit Ganguly</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3666).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7619,7 +7619,7 @@
             <td>Raja Natarajan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3667).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7628,7 +7628,7 @@
             <td>Walfredo Cirne</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3668).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7637,7 +7637,7 @@
             <td>Bogumil Kaminski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3669).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7646,7 +7646,7 @@
             <td>Tamas Kenesei</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3670).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7655,7 +7655,7 @@
             <td>Zhuo Lu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3671).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7664,7 +7664,7 @@
             <td>Kamalika Chaudhuri</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3672).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7673,7 +7673,7 @@
             <td>Konstantinos Chorianopoulos</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3673).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7682,7 +7682,7 @@
             <td>Juanzi Li</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3674).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7691,7 +7691,7 @@
             <td>Leszek Borzemski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3675).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7700,7 +7700,7 @@
             <td>Qing Yang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3676).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7709,7 +7709,7 @@
             <td>Arvin Agah</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3677).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7718,7 +7718,7 @@
             <td>Michael Emmerich</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3678).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7727,7 +7727,7 @@
             <td>Gerrit Meixner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3679).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7736,7 +7736,7 @@
             <td>Sundarapandian Vaidyanathan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3680).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7745,7 +7745,7 @@
             <td>Chengjun Liu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3681).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7754,7 +7754,7 @@
             <td>Margarita N. Favorskaya</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3682).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7763,7 +7763,7 @@
             <td>Thomas G. Robertazzi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3683).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7772,7 +7772,7 @@
             <td>Begona Vitoriano</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3684).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7781,7 +7781,7 @@
             <td>Viktor V. Krasnoproshin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3685).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7790,7 +7790,7 @@
             <td>Sofia Ceppi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3686).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7799,7 +7799,7 @@
             <td>Mojtaba Vaezi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3687).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7808,7 +7808,7 @@
             <td>Nick Antonopoulos</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3688).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7817,7 +7817,7 @@
             <td>Ramy Harik</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3689).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7826,7 +7826,7 @@
             <td>Charu C. Aggarwal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3690).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7835,7 +7835,7 @@
             <td>Anis Koubaa</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3691).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7844,7 +7844,7 @@
             <td>Hans Petter Langtangen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3692).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7853,7 +7853,7 @@
             <td>Roberto Gorrieri</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3693).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7862,7 +7862,7 @@
             <td>Joao Correia</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3694).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7871,7 +7871,7 @@
             <td>Giovanni Squillero</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3695).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7880,7 +7880,7 @@
             <td>William Sims Bainbridge</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3696).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7889,7 +7889,7 @@
             <td>KwangSoo Yang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3697).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7898,7 +7898,7 @@
             <td>John Seiffertt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3698).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7907,7 +7907,7 @@
             <td>Andreas Braun</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3699).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7916,7 +7916,7 @@
             <td>Ivan Dimov</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3700).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7925,7 +7925,7 @@
             <td>Sankar K. Pal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3701).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7934,7 +7934,7 @@
             <td>Leonid Kalinichenko</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3702).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7943,7 +7943,7 @@
             <td>Jiuwen Cao</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3703).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7952,7 +7952,7 @@
             <td>Dimitris Fotakis</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3704).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7961,7 +7961,7 @@
             <td>Andrzej Jankowski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3705).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7970,7 +7970,7 @@
             <td>Gerard O Regan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3706).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7979,7 +7979,7 @@
             <td>Margarita</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3707).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7988,7 +7988,7 @@
             <td>Patrick Brezillon</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3708).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -7997,7 +7997,7 @@
             <td>Michael Felderer</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3709).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8006,7 +8006,7 @@
             <td>Andrew T. Duchowski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3710).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8015,7 +8015,7 @@
             <td>Radek Matousek</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3711).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8024,7 +8024,7 @@
             <td>Rodrigo Reyes Levalle</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3712).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8033,7 +8033,7 @@
             <td>Miroslaw Staron</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3713).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8042,7 +8042,7 @@
             <td>Julian M</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3714).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8051,7 +8051,7 @@
             <td>Jarkko Kari</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3715).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8060,7 +8060,7 @@
             <td>Frederic Desprez</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3716).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8069,7 +8069,7 @@
             <td>Alvaro Rocha</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3717).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8078,7 +8078,7 @@
             <td>Fengyu Cong</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3718).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8087,7 +8087,7 @@
             <td>Khalid Saeed</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3719).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8096,7 +8096,7 @@
             <td>Valentin E. Brimkov</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3720).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8105,7 +8105,7 @@
             <td>Alexander Maedche</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3721).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8114,7 +8114,7 @@
             <td>Friedrich Eisenbrand</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3722).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8123,7 +8123,7 @@
             <td>Jiuping Xu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3723).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8132,7 +8132,7 @@
             <td>Vicenc Torra</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3724).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8141,7 +8141,7 @@
             <td>Gordan Jezic</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3725).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8150,7 +8150,7 @@
             <td>Wojciech Zamojski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3726).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8159,7 +8159,7 @@
             <td>Ireneusz Czarnowski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3727).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8168,7 +8168,7 @@
             <td>Ireneusz Czarnowski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3728).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8177,7 +8177,7 @@
             <td>Faisal Saeed</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3729).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8186,7 +8186,7 @@
             <td>Leonard Barolli</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3730).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8195,7 +8195,7 @@
             <td>Giuseppe De Pietro</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3731).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8204,7 +8204,7 @@
             <td>Enrique Alba</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3732).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8213,7 +8213,7 @@
             <td>Yuanxiong Guo</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3733).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8222,7 +8222,7 @@
             <td>Zhipeng Cai</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3734).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8231,7 +8231,7 @@
             <td>Mingyu Xiao</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3735).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8240,7 +8240,7 @@
             <td>Amr El Abbadi</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3736).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8249,7 +8249,7 @@
             <td>Jose Manuel Ferrandez Vicente</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3737).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8258,7 +8258,7 @@
             <td>Jean Marie Jacquet</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3738).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8267,7 +8267,7 @@
             <td>Annette ten Teije</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3739).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8276,7 +8276,7 @@
             <td>Piotr Gaj</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3740).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8285,7 +8285,7 @@
             <td>Jose Manuel Ferrandez Vicente</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3741).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8294,7 +8294,7 @@
             <td>Domenico Salvagnin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3742).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8303,7 +8303,7 @@
             <td>Chunxiao Xing</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3743).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8312,7 +8312,7 @@
             <td>Stefka Fidanova</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3744).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8321,7 +8321,7 @@
             <td>Fakhri Karray</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3745).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8330,7 +8330,7 @@
             <td>Jorge Gracia</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3746).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8339,7 +8339,7 @@
             <td>Iain Phillips</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3747).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8348,7 +8348,7 @@
             <td>Schahram Dustdar</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3748).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8357,7 +8357,7 @@
             <td>Liran Ma</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3749).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8366,7 +8366,7 @@
             <td>Jordi Cabot</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3750).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8375,7 +8375,7 @@
             <td>Roger Lee</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3751).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8384,7 +8384,7 @@
             <td>Alexander P. Sukhodolov</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3752).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8393,7 +8393,7 @@
             <td>Marzena Kryszkiewicz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3753).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8402,7 +8402,7 @@
             <td>Haya Shajaiah</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3754).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8411,7 +8411,7 @@
             <td>Johann Blieberger</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3755).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8420,7 +8420,7 @@
             <td>Dennis Beck</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3756).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8429,7 +8429,7 @@
             <td>Ronald Laurids Boring</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3757).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8438,7 +8438,7 @@
             <td>Phayung Meesad</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3758).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8447,7 +8447,7 @@
             <td>Wojciech Mitkowski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3759).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8456,7 +8456,7 @@
             <td>Lucio Tommaso De Paolis</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3760).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8465,7 +8465,7 @@
             <td>Lucio Tommaso De Paolis</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3761).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8474,7 +8474,7 @@
             <td>Giovambattista Ianni</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3762).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8483,7 +8483,7 @@
             <td>Yoshinori Hara</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3763).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8492,7 +8492,7 @@
             <td>Raffaele Gravina</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3764).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8501,7 +8501,7 @@
             <td>Robert Koprowski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3765).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8510,7 +8510,7 @@
             <td>Nigel Thomas</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3766).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8519,7 +8519,7 @@
             <td>Clement Gosselin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3767).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8528,7 +8528,7 @@
             <td>Nora Cuppens Boulahia</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3768).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8537,7 +8537,7 @@
             <td>Annalisa Appice</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3769).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8546,7 +8546,7 @@
             <td>Sergio Flesca</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3770).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8555,7 +8555,7 @@
             <td>Jose Angel Banares</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3771).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8564,7 +8564,7 @@
             <td>Roger Lee</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3772).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8573,7 +8573,7 @@
             <td>Herman Geuvers</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3773).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8582,7 +8582,7 @@
             <td>Sigeru Omatu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3774).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8591,7 +8591,7 @@
             <td>Petra Perner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3775).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8600,7 +8600,7 @@
             <td>Petra Perner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3776).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8609,7 +8609,7 @@
             <td>Carl Gutwin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3777).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8618,7 +8618,7 @@
             <td>Roger Lee</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3778).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8627,7 +8627,7 @@
             <td>Petteri Kaski</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3779).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8636,7 +8636,7 @@
             <td>Wudhichai Assawinchaichote</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3780).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8645,7 +8645,7 @@
             <td>Mikael Johansson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3781).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8654,7 +8654,7 @@
             <td>Keshav P. Dahal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3782).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8663,7 +8663,7 @@
             <td>Jorg Peters</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3783).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8672,7 +8672,7 @@
             <td>Dominik Kuropka</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3784).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8681,7 +8681,7 @@
             <td>Cas Cremers</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3785).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8690,7 +8690,7 @@
             <td>Arie M.C.A. Koster</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3786).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8699,7 +8699,7 @@
             <td>ZongWoo Geem</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3787).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8708,7 +8708,7 @@
             <td>Catarina Silva</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3788).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8717,7 +8717,7 @@
             <td>Benedikt Stockebrand</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3789).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8726,7 +8726,7 @@
             <td>Ihab Samy</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3790).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8735,7 +8735,7 @@
             <td>Klaus Pohl</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3791).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8744,7 +8744,7 @@
             <td>Kun Mao Chao</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3792).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8753,7 +8753,7 @@
             <td>Giorgio Ausiello</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3793).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8762,7 +8762,7 @@
             <td>Nachum Dershowitz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3794).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8771,7 +8771,7 @@
             <td>Patrick Bose</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3795).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8780,7 +8780,7 @@
             <td>Zhigeng Pan</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3796).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8789,7 +8789,7 @@
             <td>Baoding Liu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3797).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8798,7 +8798,7 @@
             <td>Patrick Wong</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3798).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8807,7 +8807,7 @@
             <td>Niels Streekmann</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3799).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8816,7 +8816,7 @@
             <td>Lars Vogel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3800).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8825,7 +8825,7 @@
             <td>Floribert Baudet</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3801).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8834,7 +8834,7 @@
             <td>Rajesh Singh</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3802).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8843,7 +8843,7 @@
             <td>David Zhang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3803).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8852,7 +8852,7 @@
             <td>K.C. Santosh</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3804).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8861,7 +8861,7 @@
             <td>Shuai Li</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3805).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8870,7 +8870,7 @@
             <td>Muhammad Summair Raza</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3806).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8879,7 +8879,7 @@
             <td>Chan Hyun Youn</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3807).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8888,7 +8888,7 @@
             <td>Amita Pal</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3808).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8897,7 +8897,7 @@
             <td>Abhi Android</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/Master Android App Development eBook Version 1.2.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8906,7 +8906,7 @@
             <td>Michael Hugos</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3000.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8915,7 +8915,7 @@
             <td>Bernard Golden</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3001.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8924,7 +8924,7 @@
             <td>Thomas Erl</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3002.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8933,7 +8933,7 @@
             <td>Judith Hurwitz</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3003.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8942,7 +8942,7 @@
             <td>Katie Hafner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3004.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8951,7 +8951,7 @@
             <td>Borko Furht</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3005.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8960,7 +8960,7 @@
             <td>Kelly Goetsch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3006.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8969,7 +8969,7 @@
             <td> The Art of Service</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3007.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8978,7 +8978,7 @@
             <td> Aidan Finn</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3008.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8987,7 +8987,7 @@
             <td> Gordon Brebner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3009.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -8996,7 +8996,7 @@
             <td>Kevin Beaver</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/Hacking for Dummies.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
@@ -9005,26 +9005,9 @@
             <td>Kevin Mitnick</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/GhostintheWiresByKevinMitnick.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> <i class="fa fa-download" aria-hidden="true"></i> </span></center>
+                    <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
         </tr>
     </tbody>
 </table>
-<script>
-    $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {
-        var min = parseInt($('#min').val(), 10);
-        var max = parseInt($('#max').val(), 10);
-        var age = parseFloat(data[3]) || 0;
-        if ((isNaN(min) && isNaN(max)) || (isNaN(min) && age <= max) || (min <= age && isNaN(max)) || (min <= age && age <= max)) {
-            return true;
-        }
-        return false;
-    });
-    $(document).ready(function() {
-        var table = $('#example').DataTable();
-        $('#min, #max').keyup(function() {
-            table.draw();
-        });
-    });
-</script>
