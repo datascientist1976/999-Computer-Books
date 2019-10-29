@@ -955,8 +955,8 @@
             </td>
         </tr>
         <tr>
-            <td>Evolutionary and Biologically Inspired Music, Sound, Art and Design</td>
-            <td>Colin Johnson</td>
+            <td>A Course in Machine Learning</td>
+            <td>Hal Daumé III</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2942).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -964,8 +964,8 @@
             </td>
         </tr>
         <tr>
-            <td>Computer Vision ACCV 2014 Part II</td>
-            <td>Daniel Cremers</td>
+            <td>A First Course in Database Systems</td>
+            <td>Jeffrey D. Ullman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2943).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -973,8 +973,8 @@
             </td>
         </tr>
         <tr>
-            <td>Computer Vision ACCV 2014 Part III</td>
-            <td>Daniel Cremers</td>
+            <td>Algorithms Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2944).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1117,8 +1117,8 @@
             </td>
         </tr>
         <tr>
-            <td>Green, Pervasive, and Cloud Computing</td>
-            <td>Man Ho Allen Au</td>
+            <td>Angular 2 Notes for Professionals</td>
+            <td>GoalKicker.com </td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2960).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1261,8 +1261,8 @@
             </td>
         </tr>
         <tr>
-            <td>Scale Space and Variational Methods in Computer Vision</td>
-            <td>Francois Lauze</td>
+            <td>Bash Notes for Professionals</td>
+            <td>GoalKicker.com </td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2976).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1279,8 +1279,8 @@
             </td>
         </tr>
         <tr>
-            <td>Advances in Neural Networks ISNN 2017 (Part I)</td>
-            <td>Fengyu Cong</td>
+            <td>C Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2978).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1297,8 +1297,8 @@
             </td>
         </tr>
         <tr>
-            <td>Collaborate Computing</td>
-            <td>Shangguang Wang</td>
+            <td>C++ Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2980).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1396,8 +1396,8 @@
             </td>
         </tr>
         <tr>
-            <td>Proceedings of Sixth International Conference on Soft Computing for Problem Solving</td>
-            <td>Kusum Deep</td>
+            <td>Recent Advances in Face Recognition</td>
+            <td>Kresimir Delac</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2991).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1486,8 +1486,8 @@
             </td>
         </tr>
         <tr>
-            <td>Microsoft Access 2013 Comprehensive</td>
-            <td>Mary Anne Poatsy</td>
+            <td>Git Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3000).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1504,8 +1504,8 @@
             </td>
         </tr>
         <tr>
-            <td>R for Everyone</td>
-            <td>Jared P. Lander</td>
+            <td>Introduction to Algorithms</td>
+            <td>Thomas H. Cormen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3002).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1621,8 +1621,8 @@
             </td>
         </tr>
         <tr>
-            <td>Teach Yourself Visually Excel 2007</td>
-            <td>Nancy C. Muir</td>
+            <td>Learn C the Hard Way</td>
+            <td>Zed Shaw</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3015).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1630,8 +1630,8 @@
             </td>
         </tr>
         <tr>
-            <td>Microsoft Office Excel 2007</td>
-            <td>Kathy Jacobs</td>
+            <td>Linux Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3016).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1675,8 +1675,8 @@
             </td>
         </tr>
         <tr>
-            <td>Sams Teach Yourself T SQL in One Hour a Day</td>
-            <td>Alison Balter</td>
+            <td>MATLAB Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3021).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1729,8 +1729,8 @@
             </td>
         </tr>
         <tr>
-            <td>Microsoft Office 2010</td>
-            <td>Tom Bunzel</td>
+            <td>Oracle Database Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3027).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -1774,8 +1774,8 @@
             </td>
         </tr>
         <tr>
-            <td>Adobe Dreamweaver CC</td>
-            <td>Michael Arguin</td>
+            <td>PHP Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3032).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -2701,8 +2701,8 @@
             </td>
         </tr>
         <tr>
-            <td>Artificial Neural Networks and Machine Learning ICANN 2016 Part I</td>
-            <td>Alessandro E.P. Villa</td>
+            <td>PostgreSQL Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3135).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -2719,8 +2719,8 @@
             </td>
         </tr>
         <tr>
-            <td>Artificial Neural Networks and Machine Learning ICANN 2016 Part II</td>
-            <td>Alessandro E.P. Villa</td>
+            <td>PowerShell Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3137).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -3106,8 +3106,8 @@
             </td>
         </tr>
         <tr>
-            <td>Java 9 for Programmers: Fourth Edition</td>
-            <td>Paul Deitel</td>
+            <td>Ruby on Rails Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3172).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -3214,8 +3214,8 @@
             </td>
         </tr>
         <tr>
-            <td>Interactive Computer Graphics: A Top-Down Approach Using OpenGL, Fifth Edition</td>
-            <td>Edward Angel</td>
+            <td>Simply Logical: Intelligent Reasoning by Example</td>
+            <td>Peter A. Flach</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3184).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -3250,8 +3250,8 @@
             </td>
         </tr>
         <tr>
-            <td>Joomla Explained: Your Step-by-Step Guide</td>
-            <td>Stephen Burge</td>
+            <td>The Algorithm Design Manual</td>
+            <td>Steven S. Skiena</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3188).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -3277,8 +3277,8 @@
             </td>
         </tr>
         <tr>
-            <td>Android Wireless Application Development: Third Edition</td>
-            <td>Lauren Darcey</td>
+            <td>SQL Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3191).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -3340,8 +3340,8 @@
             </td>
         </tr>
         <tr>
-            <td>Handbook of Mathematical Models in Computer Vision</td>
-            <td>Nikos Paragios</td>
+            <td>Android Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3193).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -3394,8 +3394,8 @@
             </td>
         </tr>
         <tr>
-            <td>Microsoft Windows Vista: Visual Encyclopedia</td>
-            <td>Kate Shoup Welsh</td>
+            <td>CSS Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3199).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -3421,8 +3421,8 @@
             </td>
         </tr>
         <tr>
-            <td>Adobe Dreamweaver CS4 Bible</td>
-            <td>Joseph Lowery</td>
+            <td>Discrete Mathematics and Its Applications</td>
+            <td>Kenneth H. Rosen</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3202).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -3871,8 +3871,8 @@
             </td>
         </tr>
         <tr>
-            <td>Logic Based Artificial Intelligence</td>
-            <td>Jack Minker</td>
+            <td>HTML5 Canvas Notes for Professionals</td>
+            <td>GoalKicker.com </td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3252).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -3997,8 +3997,8 @@
             </td>
         </tr>
         <tr>
-            <td>The Busy Coder's Guide to Android Development</td>
-            <td>Mark L. Murphy</td>
+            <td>HTML5 Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3266).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -4114,8 +4114,8 @@
             </td>
         </tr>
         <tr>
-            <td>C# 5.0 All in One for Dummies</td>
-            <td>Bill Sempf</td>
+            <td>Java Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3279).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -4132,8 +4132,8 @@
             </td>
         </tr>
         <tr>
-            <td>HTML5 & CSS3 for Dummies</td>
-            <td>David Karlins</td>
+            <td>LaTeX Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3281).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
