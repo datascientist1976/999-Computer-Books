@@ -4267,8 +4267,8 @@
             </td>
         </tr>
         <tr>
-            <td>Holistic Game Development with Unity: 2nd Edition</td>
-            <td>Penny de Byl</td>
+            <td>Mining the Social Web</td>
+            <td>Matthew A. Russell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3296).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -4285,8 +4285,8 @@
             </td>
         </tr>
         <tr>
-            <td>OCA Java SE 8: Programmer 1 Exam Guide</td>
-            <td>Kathy Sierra</td>
+            <td>Python for Data Analysis</td>
+            <td>Wes McKinney</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3298).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
