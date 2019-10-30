@@ -9004,7 +9004,7 @@
             <td>Ghost in the Wires</td>
             <td>Kevin Mitnick</td>
             <td>
-                <a href="https://github.com/manjunath5496/50-Computer-Books/blob/master/GhostintheWiresByKevinMitnick.pdf" target="_blank" style="text-decoration:none">
+                <a href="https://github.com/manjunath5496/25-Computer-Books/blob/master/GhostintheWiresByKevinMitnick.pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
                 </a>
             </td>
