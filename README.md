@@ -1477,8 +1477,8 @@
             </td>
         </tr>
         <tr>
-            <td>Oracle Application Express (APEX)</td>
-            <td>Arie Geller</td>
+            <td>Python: Deeper Insights into Machine Learning</td>
+            <td>Sebastian Raschka</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2999).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -2494,8 +2494,8 @@
             </td>
         </tr>
         <tr>
-            <td>The Craft of Model Based Testing</td>
-            <td>Paul C. Jorgensen</td>
+            <td>Mastering Predictive Analytics with R</td>
+            <td>Rui Miguel Forte</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3112).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -5779,8 +5779,8 @@
             </td>
         </tr>
         <tr>
-            <td>Game Development with Swift</td>
-            <td>Stephen Haney</td>
+            <td>Python Machine Learning Blueprints</td>
+            <td>Alexander T. Combs</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3464).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
