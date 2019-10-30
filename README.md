@@ -3,9 +3,9 @@
 <table id="example" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <th>Book</th>
-            <th>Author</th>
-            <th>Download </th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp; </th>
         </tr>
     </thead>
     <tbody>
@@ -181,8 +181,8 @@
             </td>
         </tr>
         <tr>
-            <td>Handbook of Optical Sensors</td>
-            <td>J.L. Santos</td>
+            <td>The Art of Computer Programming : Fundamental Algorithms (Volume - 1) </td>
+            <td>Donald Knuth</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2856).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -190,8 +190,8 @@
             </td>
         </tr>
         <tr>
-            <td>Quantum Jump</td>
-            <td>W. R. Clement</td>
+            <td>Hacking: The Art of Exploitation</td>
+            <td>Jon Erickson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2857).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -226,8 +226,8 @@
             </td>
         </tr>
         <tr>
-            <td>Waves in the Ocean and Atmosphere</td>
-            <td>Joseph Pedlosky</td>
+            <td>Coding Projects in Scratch: A Step-by-Step Visual Guide to Coding Your Own Animations, Games, Simulations, a (Computer Coding for Kids) </td>
+            <td> Jon Woodcock </td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2861).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -235,8 +235,8 @@
             </td>
         </tr>
         <tr>
-            <td>Waves and Compressible Flow</td>
-            <td>Hilary Ockendon</td>
+            <td>The MMIX Supplement: Supplement to The Art of Computer Programming Volumes 1, 2, 3 </td>
+            <td>Donald E. Knuth</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2862).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -244,8 +244,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Technology in Mechanical Engineering</td>
-            <td>R.F. Ganiev</td>
+            <td>How to Design Programs: An Introduction to Programming and Computing</td>
+            <td>Robert Bruce Findler</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2863).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -253,8 +253,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Propagation and Group Velocity</td>
-            <td>Leon Brillouin</td>
+            <td>Concrete Mathematics</td>
+            <td>Donald Knuth</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2864).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -262,8 +262,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Propagation in Nanostructures</td>
-            <td>Srinivasan Gopalakrishnan</td>
+            <td>Coders at Work: Reflections on the Craft of Programming</td>
+            <td> Peter Seibel</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2865).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -271,8 +271,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Propagation Concepts For Near Future Telecommunication Systems</td>
-            <td>Sandra Costanzo</td>
+            <td>Think Like a Programmer</td>
+            <td>V. Anton Spraul</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2866).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -280,8 +280,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Fields In Real Media</td>
-            <td>J.M.Carcione</td>
+            <td>The Art of Assembly Language</td>
+            <td>Randall Hyde</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2867).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -289,8 +289,8 @@
             </td>
         </tr>
         <tr>
-            <td>Waves and Structures in Nonlinear Nondispersive Media</td>
-            <td>S.N. Gurbatov</td>
+            <td>PowerShell and Python Together: Targeting Digital Investigations</td>
+            <td>Chet Hosmer</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2868).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -298,8 +298,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Propagation in Solid and Porous Half Space Media</td>
-            <td>Hamid R. Hamidzadeh</td>
+            <td>Thinking as Computation: A First Course</td>
+            <td>Hector J. Levesque</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2869).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -307,8 +307,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Propagation Theories And Applications</td>
-            <td>Yi Zheng</td>
+            <td>Raspberry Pi For Kids For Dummies</td>
+            <td>Richard Wentk</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2870).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -316,8 +316,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Processes In Classical And New Solids</td>
-            <td>Pasquale Giovine</td>
+            <td>The Clean Coder: A Code of Conduct for Professional Programmers</td>
+            <td>Robert Cecil Martin</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2871).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -325,8 +325,8 @@
             </td>
         </tr>
         <tr>
-            <td>Waves In Fluids And Solids</td>
-            <td>R.P. Vila</td>
+            <td>Bad Programming Practices 101: Become a Better Coder by Learning How (Not) to Program</td>
+            <td>Karl Beecher</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2872).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -334,8 +334,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Propagation and Underwater Acoustics</td>
-            <td>Joseph B. Keller</td>
+            <td>Working with Coders: A Guide to Software Development for the Perplexed Non-Techie</td>
+            <td>Patrick Gleeson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2873).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -343,8 +343,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Energy Conversion And Ocean Thermal Energy Conversion Potential In Developing Member Countries</td>
-            <td>Asian Development Bank</td>
+            <td>Cracking Codes & Cryptograms For Dummies</td>
+            <td>Denise Sutherland</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2874).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -352,8 +352,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Propagation in Fluids</td>
-            <td>Vincent Guinot</td>
+            <td>Coders: Who They Are, What They Think and How They Are Changing Our World</td>
+            <td>Clive Thompson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2875).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -361,8 +361,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wave Physics</td>
-            <td>Stephen Nettel</td>
+            <td>Cracking the Code</td>
+            <td>Better Book & Cassette of America Publishers</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2876).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -451,8 +451,8 @@
             </td>
         </tr>
         <tr>
-            <td>CompTIA A+ Certification</td>
-            <td>Judi Kling, Andy LaPage</td>
+            <td>Cracking the Coding Interview: 150 Programing Questions and Solutions</td>
+            <td>Gayle Laakmann </td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2886).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
