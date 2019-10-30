@@ -3,9 +3,9 @@
 <table id="example" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp; </th>
+            <th>Book</th>
+            <th>Author</th>
+            <th>Download </th>
         </tr>
     </thead>
     <tbody>
@@ -19,8 +19,8 @@
             </td>
         </tr>
         <tr>
-            <td>Basic English Premium</td>
-            <td>Julie Lachance</td>
+            <td>Machine Learning in Computer Vision</td>
+            <td>Ashutosh Garg</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2838).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -28,8 +28,8 @@
             </td>
         </tr>
         <tr>
-            <td>Expression in Speech</td>
-            <td>Mark Tatham</td>
+            <td>Computer Vision and Applications: A Guide for Students and Practitioners</td>
+            <td>Bernd J&auml;hne</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2839).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -37,8 +37,8 @@
             </td>
         </tr>
         <tr>
-            <td>Interfaces on Trial 2.0</td>
-            <td>Jonathan Band, Masanobu Katoh</td>
+            <td>Deep Learning</td>
+            <td>Ian Goodfellow</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2840).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -91,8 +91,8 @@
             </td>
         </tr>
         <tr>
-            <td>Quantum Gravity</td>
-            <td>Rodrigo Sobreiro</td>
+            <td>Programming Computer Vision with Python</td>
+            <td>Jan Erik Solem</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2846).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -100,8 +100,8 @@
             </td>
         </tr>
         <tr>
-            <td>Quantum Dots Theory and Applications</td>
-            <td>Vasilios N. Stavrou</td>
+            <td>Natural Image Statistics: A Probabilistic Approach to Early Computational Vision</td>
+            <td>Jarmo Hurri</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2847).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -109,8 +109,8 @@
             </td>
         </tr>
         <tr>
-            <td>Quantum Dots</td>
-            <td>Alexander Tartakovskii</td>
+            <td>Introduction to Computer Graphics</td>
+            <td>David J. Eck</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2848).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -118,8 +118,8 @@
             </td>
         </tr>
         <tr>
-            <td>Quantum Optics And Laser Experiments</td>
-            <td>Sergiy Lyagushyn</td>
+            <td>Computer Graphics, C Version</td>
+            <td> Donald Hearn </td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2849).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -127,8 +127,8 @@
             </td>
         </tr>
         <tr>
-            <td>Quantum Physics For Scientists And Technologists</td>
-            <td>Paul Sanghera</td>
+            <td>Schaum's outline of theory and problems of computer graphics</td>
+            <td>Zhigang Xiang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2850).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -136,8 +136,8 @@
             </td>
         </tr>
         <tr>
-            <td>Quantum Chemistry Molecules For Innovations</td>
-            <td>Tomofumi Tada</td>
+            <td>Help Your Kids with Computer Coding: A Unique Step-by-Step Visual Guide, from Binary Code to Building Games</td>
+            <td>DK Publishing</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2851).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -145,8 +145,8 @@
             </td>
         </tr>
         <tr>
-            <td>Quantum Cascade Lasers</td>
-            <td>Vasilios N. Stavrou</td>
+            <td>Computer Graphics and Multimedia: Applications, Problems and Solutions</td>
+            <td>John DiMarco</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2852).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -154,8 +154,8 @@
             </td>
         </tr>
         <tr>
-            <td>Quantum Computation and Quantum Information</td>
-            <td>Michael A. Nielsen</td>
+            <td> The Art of Computer Programming, Volume 2: Seminumerical Algorithms</td>
+            <td>Donald Knuth</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2853).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
