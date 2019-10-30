@@ -1792,7 +1792,7 @@
             </td>
         </tr>
         <tr>
-            <td>The Web Application Hackerâ€™s Handbook</td>
+            <td>The Web Application Hacker's Handbook</td>
             <td>Dafydd Stuttard</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3034).pdf" target="_blank" style="text-decoration:none">
@@ -2827,7 +2827,7 @@
             </td>
         </tr>
         <tr>
-            <td>PHP A Beginnerâ€™s Guide</td>
+            <td>PHP A Beginnerâs Guide</td>
             <td>Vikram Vaswani</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3141).pdf" target="_blank" style="text-decoration:none">
@@ -2854,7 +2854,7 @@
             </td>
         </tr>
         <tr>
-            <td>JavaFX: A Beginnerâ€™s Guide</td>
+            <td>JavaFX: A Beginnerâs Guide</td>
             <td>J. F. DiMarzio</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3144).pdf" target="_blank" style="text-decoration:none">
@@ -2890,7 +2890,7 @@
             </td>
         </tr>
         <tr>
-            <td>UNIX System Administration: A Beginnerâ€™s Guide</td>
+            <td>UNIX System Administration: A Beginnerâs Guide</td>
             <td>Steve Maxwell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3148).pdf" target="_blank" style="text-decoration:none">
@@ -2899,7 +2899,7 @@
             </td>
         </tr>
         <tr>
-            <td>Red Hat Linux Administration: A Beginnerâ€™s Guide</td>
+            <td>Red Hat Linux Administration: A Beginnerâs Guide</td>
             <td>Michael Turner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3149).pdf" target="_blank" style="text-decoration:none">
@@ -2917,7 +2917,7 @@
             </td>
         </tr>
         <tr>
-            <td>Java A Beginnerâ€™s Guide: Third Edition</td>
+            <td>Java A Beginnerâs Guide: Third Edition</td>
             <td>Herbert Schildt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3151).pdf" target="_blank" style="text-decoration:none">
@@ -2944,7 +2944,7 @@
             </td>
         </tr>
         <tr>
-            <td>Java A Beginnerâ€™s Guide Fourth Edition</td>
+            <td>Java A Beginnerâs Guide Fourth Edition</td>
             <td>Herbert Schildt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3154).pdf" target="_blank" style="text-decoration:none">
@@ -3916,7 +3916,7 @@
             </td>
         </tr>
         <tr>
-            <td>php: Architectâ€™s Guide to Enterprise PHP Development</td>
+            <td>php: Architectâs Guide to Enterprise PHP Development</td>
             <td>Ivo Jansch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3257).pdf" target="_blank" style="text-decoration:none">
@@ -4798,7 +4798,7 @@
             </td>
         </tr>
         <tr>
-            <td>WordPress: Beginnerâ€™s Guide to Mastering WordPress</td>
+            <td>WordPress: Beginnerâs Guide to Mastering WordPress</td>
             <td>Anonymous</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3355).pdf" target="_blank" style="text-decoration:none">
@@ -4888,7 +4888,7 @@
             </td>
         </tr>
         <tr>
-            <td>Learn Java: The Complete Beginnerâ€™s Guide To Learn Java Programming</td>
+            <td>Learn Java: The Complete Beginnerâs Guide To Learn Java Programming</td>
             <td>Bruce Berke</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3365).pdf" target="_blank" style="text-decoration:none">
@@ -4924,7 +4924,7 @@
             </td>
         </tr>
         <tr>
-            <td>JavaScript: The Ultimate Beginnerâ€™s Guide to Learn JS Effectively</td>
+            <td>JavaScript: The Ultimate Beginnerâs Guide to Learn JS Effectively</td>
             <td>Daniel Jones</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3369).pdf" target="_blank" style="text-decoration:none">
@@ -5095,8 +5095,8 @@
             </td>
         </tr>
         <tr>
-            <td>Game Programming Golden Rules</td>
-            <td>Martin Brownlow</td>
+            <td>6 JavaScript Projects</td>
+            <td>SitePoint</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3388).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -5275,8 +5275,8 @@
             </td>
         </tr>
         <tr>
-            <td>Visual Basic 2005 Express</td>
-            <td>Wallace Wang</td>
+            <td>Agile Data Science</td>
+            <td>Russell Jurney</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3408).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -5302,8 +5302,8 @@
             </td>
         </tr>
         <tr>
-            <td>3D Game Programming, All in One: Second Edition</td>
-            <td>Kenneth C. Finney</td>
+            <td>Deep Learning with Keras</td>
+            <td>Antonio Gulli</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3411).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -5392,8 +5392,8 @@
             </td>
         </tr>
         <tr>
-            <td>Grid & Cloud Computing: Concepts & Practical Applications</td>
-            <td>F. Carminati</td>
+            <td>Deep Learning with TensorFlow</td>
+            <td>Giancarlo Zaccone</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3421).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -6463,8 +6463,8 @@
             </td>
         </tr>
         <tr>
-            <td>Mastering Unity 5.x</td>
-            <td>Alan Thorn</td>
+            <td>Financial Signal Processing and Machine Learning</td>
+            <td>Ali N. Akansu</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3540).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -6472,8 +6472,8 @@
             </td>
         </tr>
         <tr>
-            <td>Magento 2 Beginners Guide</td>
-            <td>Gabriel Guarino</td>
+            <td>Eloquent JavaScript: A Modern Introduction to Programming</td>
+            <td>Marijn Haverbeke</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3541).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -6805,8 +6805,8 @@
             </td>
         </tr>
         <tr>
-            <td>GNU/Linux Rapid Embedded Programming</td>
-            <td>Rodolfo Giometti</td>
+            <td>Getting Started with TensorFlow</td>
+            <td>Giancarlo Zaccone</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3578).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -6850,8 +6850,8 @@
             </td>
         </tr>
         <tr>
-            <td>Mastering Unity 2D Game Development: 2nd Edition</td>
-            <td>Ashley Godbold</td>
+            <td>Practical Statistics for Data Scientists: 50 Essential Concepts</td>
+            <td>Peter Bruce</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3583).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -6931,8 +6931,8 @@
             </td>
         </tr>
         <tr>
-            <td>Implementing Azure Solutions</td>
-            <td>Florian Klaffenbach</td>
+            <td>Principles of Data Science</td>
+            <td>Sinan Ozdemir</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3592).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7273,7 +7273,7 @@
             </td>
         </tr>
         <tr>
-            <td>MurachÃ¢â‚¬â„¢s Beginning Visual Basic .NET</td>
+            <td>MurachĂ˘âŹâ˘s Beginning Visual Basic .NET</td>
             <td>Anne Prince</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3629).pdf" target="_blank" style="text-decoration:none">
@@ -7327,7 +7327,7 @@
             </td>
         </tr>
         <tr>
-            <td>ProgrammerÃ¢â‚¬â„¢s Ultimate Security DeskRef</td>
+            <td>ProgrammerĂ˘âŹâ˘s Ultimate Security DeskRef</td>
             <td>James C. Foster</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3635).pdf" target="_blank" style="text-decoration:none">
@@ -7390,8 +7390,8 @@
             </td>
         </tr>
         <tr>
-            <td>The Handbook of Multimodal Multisensor Interfaces, Volume 1</td>
-            <td>Sharon Oviatt</td>
+            <td>Machine Learning Algorithms</td>
+            <td>Giuseppe Bonaccorso</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3642).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7453,8 +7453,8 @@
             </td>
         </tr>
         <tr>
-            <td>Computer Vision ECCV 2014</td>
-            <td>David Fleet</td>
+            <td>Machine Learning for OpenCV</td>
+            <td>Michael Beyeler</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3649).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7525,8 +7525,8 @@
             </td>
         </tr>
         <tr>
-            <td>Games and Learning Alliance</td>
-            <td>Alessandro De Gloria (Ed.)</td>
+            <td>Learning TensorFlow: A Guide to Building Deep Learning Systems</td>
+            <td>Tom Hope</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3657).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7534,8 +7534,8 @@
             </td>
         </tr>
         <tr>
-            <td>Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications</td>
-            <td>Eduardo Bayro Corrochano</td>
+            <td>Objective-C Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3658).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7588,8 +7588,8 @@
             </td>
         </tr>
         <tr>
-            <td>Advances in Visual Computing</td>
-            <td>George Bebis et al</td>
+            <td>JavaScript: Best Practice</td>
+            <td>SitePoint</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3664).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7597,8 +7597,8 @@
             </td>
         </tr>
         <tr>
-            <td>Energy Minimization Methods in Computer Vision and Pattern Recognition</td>
-            <td>Xue Cheng Tai</td>
+            <td>Hands-On Machine Learning with Scikit-Learn and TensorFlow</td>
+            <td>Aur&eacute;lien G&eacute;ron</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3665).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7669,8 +7669,8 @@
             </td>
         </tr>
         <tr>
-            <td>Entertainment Computing: ICEC 2015</td>
-            <td>Konstantinos Chorianopoulos</td>
+            <td>Modern JavaScript Tools & Skills</td>
+            <td>SitePoint</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3673).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7678,8 +7678,8 @@
             </td>
         </tr>
         <tr>
-            <td>Natural Language Processing & Chinese Computing</td>
-            <td>Juanzi Li</td>
+            <td>Reinforcement Learning: An Introduction</td>
+            <td>Richard S. Sutton</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3674).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7696,8 +7696,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wireless Algorithms, Systems, and Applications</td>
-            <td>Qing Yang</td>
+            <td>Practical ES6</td>
+            <td>SitePoint</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3676).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7705,8 +7705,8 @@
             </td>
         </tr>
         <tr>
-            <td>Social Robotics: ICSR 2016</td>
-            <td>Arvin Agah</td>
+            <td>React Native Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3677).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8245,8 +8245,8 @@
             </td>
         </tr>
         <tr>
-            <td>Natural & Artificial Computation for Biomedicine & Neuroscience: IWINAC 2017, Part I</td>
-            <td>Jose Manuel Ferrandez Vicente</td>
+            <td>Doing Data Science</td>
+            <td>Rachel Schutt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3737).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8281,8 +8281,8 @@
             </td>
         </tr>
         <tr>
-            <td>Biomedical Applications Based on Natural & Artificial Computing: IWINAC 2017, Part II</td>
-            <td>Jose Manuel Ferrandez Vicente</td>
+            <td>Encyclopedia of Machine Learning and Data Mining</td>
+            <td>Claude Sammut</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3741).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8317,8 +8317,8 @@
             </td>
         </tr>
         <tr>
-            <td>Image Analysis and Recognition: ICIAR 2017</td>
-            <td>Fakhri Karray</td>
+            <td>Visual Basic.NET Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3745).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8353,8 +8353,8 @@
             </td>
         </tr>
         <tr>
-            <td>Wireless Algorithms, Systems, & Applications: WASA 2017</td>
-            <td>Liran Ma</td>
+            <td>JavaScript Notes for Professionals</td>
+            <td>GoalKicker.com</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3749).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8713,7 +8713,7 @@
             </td>
         </tr>
         <tr>
-            <td>IPv6 in Practice: A UnixerÃ¢â‚¬â„¢s Guide to the Next Generation Internet</td>
+            <td>IPv6 in Practice: A UnixerĂ˘âŹâ˘s Guide to the Next Generation Internet</td>
             <td>Benedikt Stockebrand</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3789).pdf" target="_blank" style="text-decoration:none">
