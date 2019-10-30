@@ -2827,7 +2827,7 @@
             </td>
         </tr>
         <tr>
-            <td>PHP A Beginnerâs Guide</td>
+            <td>PHP A Beginner's Guide</td>
             <td>Vikram Vaswani</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3141).pdf" target="_blank" style="text-decoration:none">
@@ -2854,7 +2854,7 @@
             </td>
         </tr>
         <tr>
-            <td>JavaFX: A Beginnerâs Guide</td>
+            <td>JavaFX: A Beginner's Guide</td>
             <td>J. F. DiMarzio</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3144).pdf" target="_blank" style="text-decoration:none">
@@ -2890,7 +2890,7 @@
             </td>
         </tr>
         <tr>
-            <td>UNIX System Administration: A Beginnerâs Guide</td>
+            <td>UNIX System Administration: A Beginner's Guide</td>
             <td>Steve Maxwell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3148).pdf" target="_blank" style="text-decoration:none">
@@ -2899,7 +2899,7 @@
             </td>
         </tr>
         <tr>
-            <td>Red Hat Linux Administration: A Beginnerâs Guide</td>
+            <td>Red Hat Linux Administration: A Beginner's Guide</td>
             <td>Michael Turner</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3149).pdf" target="_blank" style="text-decoration:none">
@@ -2917,7 +2917,7 @@
             </td>
         </tr>
         <tr>
-            <td>Java A Beginnerâs Guide: Third Edition</td>
+            <td>Java A Beginner's Guide: Third Edition</td>
             <td>Herbert Schildt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3151).pdf" target="_blank" style="text-decoration:none">
@@ -2944,7 +2944,7 @@
             </td>
         </tr>
         <tr>
-            <td>Java A Beginnerâs Guide Fourth Edition</td>
+            <td>Java A Beginner's Guide Fourth Edition</td>
             <td>Herbert Schildt</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3154).pdf" target="_blank" style="text-decoration:none">
@@ -3916,7 +3916,7 @@
             </td>
         </tr>
         <tr>
-            <td>php: Architectâs Guide to Enterprise PHP Development</td>
+            <td>php: Architect's Guide to Enterprise PHP Development</td>
             <td>Ivo Jansch</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3257).pdf" target="_blank" style="text-decoration:none">
@@ -4798,7 +4798,7 @@
             </td>
         </tr>
         <tr>
-            <td>WordPress: Beginnerâs Guide to Mastering WordPress</td>
+            <td>WordPress: Beginner's Guide to Mastering WordPress</td>
             <td>Anonymous</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3355).pdf" target="_blank" style="text-decoration:none">
@@ -4888,7 +4888,7 @@
             </td>
         </tr>
         <tr>
-            <td>Learn Java: The Complete Beginnerâs Guide To Learn Java Programming</td>
+            <td>Learn Java: The Complete Beginner's Guide To Learn Java Programming</td>
             <td>Bruce Berke</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3365).pdf" target="_blank" style="text-decoration:none">
@@ -4924,7 +4924,7 @@
             </td>
         </tr>
         <tr>
-            <td>JavaScript: The Ultimate Beginnerâs Guide to Learn JS Effectively</td>
+            <td>JavaScript: The Ultimate Beginner's Guide to Learn JS Effectively</td>
             <td>Daniel Jones</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3369).pdf" target="_blank" style="text-decoration:none">
@@ -7273,7 +7273,7 @@
             </td>
         </tr>
         <tr>
-            <td>MurachĂ˘âŹâ˘s Beginning Visual Basic .NET</td>
+            <td>Murach's Beginning Visual Basic .NET</td>
             <td>Anne Prince</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3629).pdf" target="_blank" style="text-decoration:none">
@@ -7327,7 +7327,7 @@
             </td>
         </tr>
         <tr>
-            <td>ProgrammerĂ˘âŹâ˘s Ultimate Security DeskRef</td>
+            <td>Programmer's Ultimate Security DeskRef</td>
             <td>James C. Foster</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3635).pdf" target="_blank" style="text-decoration:none">
@@ -8713,7 +8713,7 @@
             </td>
         </tr>
         <tr>
-            <td>IPv6 in Practice: A UnixerĂ˘âŹâ˘s Guide to the Next Generation Internet</td>
+            <td>IPv6 in Practice: A Unixer's Guide to the Next Generation Internet</td>
             <td>Benedikt Stockebrand</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3789).pdf" target="_blank" style="text-decoration:none">
@@ -8767,8 +8767,8 @@
             </td>
         </tr>
         <tr>
-            <td>Fuzziness in Database Management Systems</td>
-            <td>Patrick Bose</td>
+            <td>Mining of Massive Datasets</td>
+            <td>Anand Rajaraman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3795).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8848,8 +8848,8 @@
             </td>
         </tr>
         <tr>
-            <td>Recent Trends in Image Processing & Pattern Recognition: RTIP2R 2016</td>
-            <td>K.C. Santosh</td>
+            <td>Python Data Science Essentials</td>
+            <td>Alberto Boschetti</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3804).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
