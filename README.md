@@ -7813,8 +7813,8 @@
             </td>
         </tr>
         <tr>
-            <td>Product Lifecycle Management for Digital Transformation of Industries: PLM 2016</td>
-            <td>Ramy Harik</td>
+            <td>Think Stats: Exploratory Data Analysis in Python</td>
+            <td>Allen B. Downey</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3689).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7858,8 +7858,8 @@
             </td>
         </tr>
         <tr>
-            <td>Computational Intelligence in Music, Sound, Art and Design: EvoMUSART 2017</td>
-            <td>Joao Correia</td>
+            <td>Think Python: How to Think Like a Computer Scientist</td>
+            <td>Allen Downey</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3694).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7867,8 +7867,8 @@
             </td>
         </tr>
         <tr>
-            <td>Applications of Evolutionary Computation: EvoApplications 2017, Part I</td>
-            <td>Giovanni Squillero</td>
+            <td>Programming Collective Intelligence</td>
+            <td>Toby Segaran</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3695).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -7912,8 +7912,8 @@
             </td>
         </tr>
         <tr>
-            <td>Numerical Analysis & Its Applications: NAA 2016</td>
-            <td>Ivan Dimov</td>
+            <td>The Art of Data Science: A Guide for Anyone Who Works with Data</td>
+            <td>Roger D. Peng</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3700).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8056,8 +8056,8 @@
             </td>
         </tr>
         <tr>
-            <td>Euro Par 2016: Parallel Processing Workshops</td>
-            <td>Frederic Desprez</td>
+            <td>The Elements of Data Analytic Style</td>
+            <td>Jeff Leek</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3716).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8083,8 +8083,8 @@
             </td>
         </tr>
         <tr>
-            <td>Computer Information Systems and Industrial Management: CISIM 2017</td>
-            <td>Khalid Saeed</td>
+            <td>The Elements of Statistical Learning</td>
+            <td>Trevor Hastie</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3719).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8101,8 +8101,8 @@
             </td>
         </tr>
         <tr>
-            <td>Designing the Digital Transformation: DESRIST 2017</td>
-            <td>Alexander Maedche</td>
+            <td>Think Bayes: Bayesian Statistics Made Simple</td>
+            <td>Allen B. Downey</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3721).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8119,8 +8119,8 @@
             </td>
         </tr>
         <tr>
-            <td>Proceedings of the 11nth International Conference on Mgmt Science & Engg Mgmt</td>
-            <td>Jiuping Xu</td>
+            <td>Pattern Recognition and Machine Learning</td>
+            <td>Christopher M. Bishop</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3723).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8146,8 +8146,8 @@
             </td>
         </tr>
         <tr>
-            <td>Advances in Dependability Engineering of Complex Systems: DepCoS RELCOMEX 2017</td>
-            <td>Wojciech Zamojski</td>
+            <td>Natural Language Processing with Python</td>
+            <td>Steven Bird</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3726).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8173,8 +8173,8 @@
             </td>
         </tr>
         <tr>
-            <td>Recent Trends in Information and Communication Technology: IRICT 2017</td>
-            <td>Faisal Saeed</td>
+            <td>Linear Algebra and its Applications</td>
+            <td>Gilbert Strang</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3729).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8182,8 +8182,8 @@
             </td>
         </tr>
         <tr>
-            <td>Advances in Internetworking, Data & Web Technologies: EIDWT-2017</td>
-            <td>Leonard Barolli</td>
+            <td>An Introduction to Statistical Learning: with Applications in R</td>
+            <td>Gareth James</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3730).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8191,8 +8191,8 @@
             </td>
         </tr>
         <tr>
-            <td>Intelligent Interactive Multimedia Systems & Services 2017, Volume 76</td>
-            <td>Giuseppe De Pietro</td>
+            <td>Artificial Intelligence: A Modern Approach</td>
+            <td>Stuart J. Russell</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3731).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8218,8 +8218,8 @@
             </td>
         </tr>
         <tr>
-            <td>Bioinformatics Research & Applications: ISBRA 2017</td>
-            <td>Zhipeng Cai</td>
+            <td>Bayesian Reasoning and Machine Learning</td>
+            <td>David Barber</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3734).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8362,8 +8362,8 @@
             </td>
         </tr>
         <tr>
-            <td>Web Engineering: ICWE 2017</td>
-            <td>Jordi Cabot</td>
+            <td>Applied Predictive Modeling</td>
+            <td>Max Kuhn</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3750).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8416,8 +8416,8 @@
             </td>
         </tr>
         <tr>
-            <td>Immersive Learning Research Network: iLRN 2017</td>
-            <td>Dennis Beck</td>
+            <td>Financial Risk Forecasting: The Theory and Practice of Forecasting Market Risk with Implementation in R and Matlab</td>
+            <td>Jon Danielsson</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3756).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8452,8 +8452,8 @@
             </td>
         </tr>
         <tr>
-            <td>Augmented Reality, Virtual Reality, & Computer Graphics: AVR 2017, Part I</td>
-            <td>Lucio Tommaso De Paolis</td>
+            <td>Design and Analysis of Experiments</td>
+            <td>Douglas C. Montgomery</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3760).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8461,8 +8461,8 @@
             </td>
         </tr>
         <tr>
-            <td>Augmented Reality, Virtual Reality, & Computer Graphics: AVR 2017</td>
-            <td>Lucio Tommaso De Paolis</td>
+            <td>All of Statistics: A Concise Course in Statistical Inference</td>
+            <td>Larry A. Wasserman</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3761).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8515,8 +8515,8 @@
             </td>
         </tr>
         <tr>
-            <td>Cable Driven Parallel Robots: Volume 53</td>
-            <td>Clement Gosselin</td>
+            <td>Building Machine Learning Systems with Python</td>
+            <td>Luis Pedro Coelho</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3767).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
@@ -8569,8 +8569,8 @@
             </td>
         </tr>
         <tr>
-            <td>Intelligent Computer Mathematics: CICM 2017</td>
-            <td>Herman Geuvers</td>
+            <td>A First Course in Design and Analysis of Experiments</td>
+            <td>Gary W. Oehlert</td>
             <td>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3773).pdf" target="_blank" style="text-decoration:none">
                     <center><span style="font-size:16px; color:gray"> Download </span></center>
