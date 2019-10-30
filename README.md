@@ -3,9 +3,9 @@
 <table id="example" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <th>Book</th>
-            <th>Author</th>
-            <th>Download </th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp; </th>
         </tr>
     </thead>
     <tbody>
