@@ -1,9013 +1,9003 @@
 
-<table border="0" cellspacing="5" cellpadding="5"> </table>
-<table id="example" class="display" cellspacing="0" width="100%">
-    <thead>
-        <tr>
-            <th>&nbsp;</th>
-            <th>&nbsp;</th>
-            <th>&nbsp; </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>CompTIA A+ Certification Study Guide</td>
-            <td>Jane Holcombe</td>
-            <td>
+
+       
+            <p>CompTIA A+ Certification Study Guide</p>
+            <p>Jane Holcombe</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2837).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Machine Learning in Computer Vision</td>
-            <td>Ashutosh Garg</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Machine Learning in Computer Vision</p>
+            <p>Ashutosh Garg</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2838).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computer Vision and Applications: A Guide for Students and Practitioners</td>
-            <td>Bernd J&auml;hne</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computer Vision and Applications: A Guide for Students and Practitioners</p>
+            <p>Bernd J&auml;hne</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2839).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Deep Learning</td>
-            <td>Ian Goodfellow</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Deep Learning</p>
+            <p>Ian Goodfellow</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2840).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Intelligence Emerging</td>
-            <td>Keith L. Downing</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Intelligence Emerging</p>
+            <p>Keith L. Downing</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2841).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Common Sense, the Turing Test, and the Quest for Real AI</td>
-            <td>Hector J. Levesque</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Common Sense, the Turing Test, and the Quest for Real AI</p>
+            <p>Hector J. Levesque</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2842).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Core Animation</td>
-            <td>Marcus Zarra</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Core Animation</p>
+            <p>Marcus Zarra</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2843).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Excel 2007 For Dummies</td>
-            <td>Greg Harvey</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Excel 2007 For Dummies</p>
+            <p>Greg Harvey</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2844).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Service Oriented Modeling</td>
-            <td>Michael Bell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Service Oriented Modeling</p>
+            <p>Michael Bell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2845).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Programming Computer Vision with Python</td>
-            <td>Jan Erik Solem</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Programming Computer Vision with Python</p>
+            <p>Jan Erik Solem</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2846).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Natural Image Statistics: A Probabilistic Approach to Early Computational Vision</td>
-            <td>Jarmo Hurri</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Natural Image Statistics: A Probabilistic Approach to Early Computational Vision</p>
+            <p>Jarmo Hurri</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2847).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction to Computer Graphics</td>
-            <td>David J. Eck</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction to Computer Graphics</p>
+            <p>David J. Eck</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2848).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computer Graphics, C Version</td>
-            <td> Donald Hearn </td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computer Graphics, C Version</p>
+            <p> Donald Hearn </p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2849).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Schaum's outline of theory and problems of computer graphics</td>
-            <td>Zhigang Xiang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Schaum's outline of theory and problems of computer graphics</p>
+            <p>Zhigang Xiang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2850).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Help Your Kids with Computer Coding: A Unique Step-by-Step Visual Guide, from Binary Code to Building Games</td>
-            <td>DK Publishing</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Help Your Kids with Computer Coding: A Unique Step-by-Step Visual Guide, from Binary Code to Building Games</p>
+            <p>DK Publishing</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2851).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computer Graphics and Multimedia: Applications, Problems and Solutions</td>
-            <td>John DiMarco</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computer Graphics and Multimedia: Applications, Problems and Solutions</p>
+            <p>John DiMarco</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2852).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td> The Art of Computer Programming, Volume 2: Seminumerical Algorithms</td>
-            <td>Donald Knuth</td>
-            <td>
+            </p>
+       </br>
+       
+            <p> The Art of Computer Programming, Volume 2: Seminumerical Algorithms</p>
+            <p>Donald Knuth</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2853).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux for Beginners: Tips, Tricks, and Information to Use Linux Like a Pro</td>
-            <td>Rebecca Dwight</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux for Beginners: Tips, Tricks, and Information to Use Linux Like a Pro</p>
+            <p>Rebecca Dwight</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2854).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Practical Common Lisp</td>
-            <td>Peter Seibel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Practical Common Lisp</p>
+            <p>Peter Seibel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2855).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Art of Computer Programming : Fundamental Algorithms (Volume - 1) </td>
-            <td>Donald Knuth</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Art of Computer Programming : Fundamental Algorithms (Volume - 1) </p>
+            <p>Donald Knuth</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2856).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Hacking: The Art of Exploitation</td>
-            <td>Jon Erickson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Hacking: The Art of Exploitation</p>
+            <p>Jon Erickson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2857).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>SugarCRM For Dummies</td>
-            <td>Karen S. Fredricks</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>SugarCRM For Dummies</p>
+            <p>Karen S. Fredricks</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2858).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Connected Services</td>
-            <td>Paul Golding</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Connected Services</p>
+            <p>Paul Golding</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2859).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Secrets and Lies</td>
-            <td>Bruce Schneier</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Secrets and Lies</p>
+            <p>Bruce Schneier</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2860).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Coding Projects in Scratch: A Step-by-Step Visual Guide to Coding Your Own Animations, Games, Simulations, a (Computer Coding for Kids) </td>
-            <td> Jon Woodcock </td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Coding Projects in Scratch: A Step-by-Step Visual Guide to Coding Your Own Animations, Games, Simulations, a (Computer Coding for Kids) </p>
+            <p> Jon Woodcock </p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2861).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The MMIX Supplement: Supplement to The Art of Computer Programming Volumes 1, 2, 3 </td>
-            <td>Donald E. Knuth</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The MMIX Supplement: Supplement to The Art of Computer Programming Volumes 1, 2, 3 </p>
+            <p>Donald E. Knuth</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2862).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>How to Design Programs: An Introduction to Programming and Computing</td>
-            <td>Robert Bruce Findler</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>How to Design Programs: An Introduction to Programming and Computing</p>
+            <p>Robert Bruce Findler</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2863).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Concrete Mathematics</td>
-            <td>Donald Knuth</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Concrete Mathematics</p>
+            <p>Donald Knuth</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2864).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Coders at Work: Reflections on the Craft of Programming</td>
-            <td> Peter Seibel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Coders at Work: Reflections on the Craft of Programming</p>
+            <p> Peter Seibel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2865).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Think Like a Programmer</td>
-            <td>V. Anton Spraul</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Think Like a Programmer</p>
+            <p>V. Anton Spraul</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2866).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Art of Assembly Language</td>
-            <td>Randall Hyde</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Art of Assembly Language</p>
+            <p>Randall Hyde</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2867).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>PowerShell and Python Together: Targeting Digital Investigations</td>
-            <td>Chet Hosmer</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>PowerShell and Python Together: Targeting Digital Investigations</p>
+            <p>Chet Hosmer</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2868).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Thinking as Computation: A First Course</td>
-            <td>Hector J. Levesque</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Thinking as Computation: A First Course</p>
+            <p>Hector J. Levesque</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2869).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Raspberry Pi For Kids For Dummies</td>
-            <td>Richard Wentk</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Raspberry Pi For Kids For Dummies</p>
+            <p>Richard Wentk</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2870).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Clean Coder: A Code of Conduct for Professional Programmers</td>
-            <td>Robert Cecil Martin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Clean Coder: A Code of Conduct for Professional Programmers</p>
+            <p>Robert Cecil Martin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2871).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Bad Programming Practices 101: Become a Better Coder by Learning How (Not) to Program</td>
-            <td>Karl Beecher</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Bad Programming Practices 101: Become a Better Coder by Learning How (Not) to Program</p>
+            <p>Karl Beecher</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2872).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Working with Coders: A Guide to Software Development for the Perplexed Non-Techie</td>
-            <td>Patrick Gleeson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Working with Coders: A Guide to Software Development for the Perplexed Non-Techie</p>
+            <p>Patrick Gleeson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2873).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cracking Codes & Cryptograms For Dummies</td>
-            <td>Denise Sutherland</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cracking Codes & Cryptograms For Dummies</p>
+            <p>Denise Sutherland</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2874).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Coders: Who They Are, What They Think and How They Are Changing Our World</td>
-            <td>Clive Thompson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Coders: Who They Are, What They Think and How They Are Changing Our World</p>
+            <p>Clive Thompson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2875).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cracking the Code</td>
-            <td>Better Book & Cassette of America Publishers</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cracking the Code</p>
+            <p>Better Book & Cassette of America Publishers</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2876).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computer Science Distilled</td>
-            <td>Wladston Ferreira Filho</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computer Science Distilled</p>
+            <p>Wladston Ferreira Filho</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2877).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>MCSA Windows Server 2012 R2</td>
-            <td>William Panek</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>MCSA Windows Server 2012 R2</p>
+            <p>William Panek</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2878).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Software Project Estimation</td>
-            <td>Alain Abran</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Software Project Estimation</p>
+            <p>Alain Abran</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2879).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Functional Software Size Measurement Methodology with Effort Estimation and Performance Indication</td>
-            <td>Jasveer Singh</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Functional Software Size Measurement Methodology with Effort Estimation and Performance Indication</p>
+            <p>Jasveer Singh</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2880).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Certified Cloud Security Professional</td>
-            <td>Brian T.O. Hara</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Certified Cloud Security Professional</p>
+            <p>Brian T.O. Hara</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2881).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>VMware Software Defined Storage</td>
-            <td>Martin Hosken</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>VMware Software Defined Storage</p>
+            <p>Martin Hosken</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2882).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>ANSI Common Lisp</td>
-            <td>Paul Graham</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>ANSI Common Lisp</p>
+            <p>Paul Graham</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2883).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mining Multimedia Documents</td>
-            <td>Wahiba Ben Abdessalem Karaa</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mining Multimedia Documents</p>
+            <p>Wahiba Ben Abdessalem Karaa</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2884).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Guide to Networking Essentials</td>
-            <td>Greg Tomsho</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Guide to Networking Essentials</p>
+            <p>Greg Tomsho</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2885).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cracking the Coding Interview: 150 Programing Questions and Solutions</td>
-            <td>Gayle Laakmann </td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cracking the Coding Interview: 150 Programing Questions and Solutions</p>
+            <p>Gayle Laakmann </p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2886).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Why New Systems Fail</td>
-            <td>Phil Simon</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Why New Systems Fail</p>
+            <p>Phil Simon</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2887).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Shell Programming in Unix, Linux and OS X</td>
-            <td>Stephen G. Kochan </td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Shell Programming in Unix, Linux and OS X</p>
+            <p>Stephen G. Kochan </p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2888).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>ACS Without an Attitude</td>
-            <td>Harold L. Hallock</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>ACS Without an Attitude</p>
+            <p>Harold L. Hallock</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2889).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>An Introduction to Programming in Go</td>
-            <td>Caleb Doxsey</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>An Introduction to Programming in Go</p>
+            <p>Caleb Doxsey</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2890).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learn Ionic 2</td>
-            <td>Joyce Justin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learn Ionic 2</p>
+            <p>Joyce Justin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2891).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Stable Analysis Patterns for Software and Systems</td>
-            <td>M. E. Fayad</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Stable Analysis Patterns for Software and Systems</p>
+            <p>M. E. Fayad</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2892).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Craft of Model Based Testing</td>
-            <td>Paul C. Jorgensen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Craft of Model Based Testing</p>
+            <p>Paul C. Jorgensen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2893).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Social Network Analysis</td>
-            <td>Xiaoming Fu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Social Network Analysis</p>
+            <p>Xiaoming Fu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2894).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction To Middleware</td>
-            <td>Letha Hughes Etzkorn</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction To Middleware</p>
+            <p>Letha Hughes Etzkorn</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2895).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mobile Cloud Computing</td>
-            <td>Meikang Qiu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mobile Cloud Computing</p>
+            <p>Meikang Qiu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2896).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux in Action</td>
-            <td>David Clinton</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux in Action</p>
+            <p>David Clinton</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2897).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>COM Beyond Microsoft</td>
-            <td>Gene Cronin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>COM Beyond Microsoft</p>
+            <p>Gene Cronin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2898).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Improving the Visibility and Use of Digital Repositories through SEO</td>
-            <td>Kenning Arlitsch</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Improving the Visibility and Use of Digital Repositories through SEO</p>
+            <p>Kenning Arlitsch</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2899).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Dynamics AX</td>
-            <td>David Weiner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Dynamics AX</p>
+            <p>David Weiner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2900).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Mining Opportunities and Challenges</td>
-            <td>John Wang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Mining Opportunities and Challenges</p>
+            <p>John Wang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2901).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Digital Watermarking For Digital Media</td>
-            <td>Juergen Seitz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Digital Watermarking For Digital Media</p>
+            <p>Juergen Seitz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2902).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Shaders For Game Programmers And Artists</td>
-            <td>Sebastien ST Laurent</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Shaders For Game Programmers And Artists</p>
+            <p>Sebastien ST Laurent</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2903).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cryptography For Developers</td>
-            <td>Tom St Denis</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cryptography For Developers</p>
+            <p>Tom St Denis</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2904).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Performance Modeling of Communication Networks with Markov Chains</td>
-            <td>Jeonghoon Mo</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Performance Modeling of Communication Networks with Markov Chains</p>
+            <p>Jeonghoon Mo</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2905).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Designing Software Intensive Systems</td>
-            <td>Pierre F. Tiako</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Designing Software Intensive Systems</p>
+            <p>Pierre F. Tiako</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2906).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mobile Peer to Peer Computing for Next Generation Distributed Environments</td>
-            <td>Boon Chong Seet</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mobile Peer to Peer Computing for Next Generation Distributed Environments</p>
+            <p>Boon Chong Seet</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2907).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computational Methods for Integrating Vision and Language</td>
-            <td>Kobus Barnard</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computational Methods for Integrating Vision and Language</p>
+            <p>Kobus Barnard</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2908).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Handbook of Research on Mobility and Computing</td>
-            <td>Maria Manuela Cruz Cunha</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Handbook of Research on Mobility and Computing</p>
+            <p>Maria Manuela Cruz Cunha</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2909).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Academic Podcasting and Mobile Assisted Language Learning</td>
-            <td>Betty Rose Facer</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Academic Podcasting and Mobile Assisted Language Learning</p>
+            <p>Betty Rose Facer</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2910).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Powerful PowerPoint for Educators</td>
-            <td>David M. Marcovitz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Powerful PowerPoint for Educators</p>
+            <p>David M. Marcovitz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2911).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Meta Communication for Reflective Online Conversations</td>
-            <td>Ugur Demiray</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Meta Communication for Reflective Online Conversations</p>
+            <p>Ugur Demiray</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2912).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Investigating Cyber Law and Cyber Ethics</td>
-            <td>Alfreda Dudley</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Investigating Cyber Law and Cyber Ethics</p>
+            <p>Alfreda Dudley</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2913).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advanced Techniques in Multimedia Watermarking</td>
-            <td>Ali Mohammad Al Haj</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advanced Techniques in Multimedia Watermarking</p>
+            <p>Ali Mohammad Al Haj</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2914).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>CoreOS in Action</td>
-            <td>Matt Bailey</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>CoreOS in Action</p>
+            <p>Matt Bailey</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2915).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Natural Language Processing for the Semantic Web</td>
-            <td>Diana Maynard</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Natural Language Processing for the Semantic Web</p>
+            <p>Diana Maynard</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2916).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Malware And Computer Security Incidents</td>
-            <td>Mark Borrelli</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Malware And Computer Security Incidents</p>
+            <p>Mark Borrelli</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2917).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Instant Drools Starter</td>
-            <td>Jeremy Ary</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Instant Drools Starter</p>
+            <p>Jeremy Ary</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2918).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Kali Linux CTF Blueprints</td>
-            <td>Cameron Buchanan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Kali Linux CTF Blueprints</p>
+            <p>Cameron Buchanan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2919).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Automating Microsoft Azure with PowerShell</td>
-            <td>John Chapman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Automating Microsoft Azure with PowerShell</p>
+            <p>John Chapman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2920).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux From Scratch</td>
-            <td>Gerard Beekmans</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux From Scratch</p>
+            <p>Gerard Beekmans</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2921).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cisco ACI Cookbook</td>
-            <td>Stuart Fordham</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cisco ACI Cookbook</p>
+            <p>Stuart Fordham</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2922).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Magento 2 Build World Class online stores</td>
-            <td>Fernando J. Miguel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Magento 2 Build World Class online stores</p>
+            <p>Fernando J. Miguel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2923).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Breakcore</td>
-            <td>Andrew Whelan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Breakcore</p>
+            <p>Andrew Whelan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2924).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Network Administration with FreeBSD 7</td>
-            <td>Babak Farrokhi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Network Administration with FreeBSD 7</p>
+            <p>Babak Farrokhi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2925).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Analysis and Synthesis of Computer Systems</td>
-            <td>Erol Gelenbe</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Analysis and Synthesis of Computer Systems</p>
+            <p>Erol Gelenbe</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2926).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Safety Management for Software based Equipment</td>
-            <td>Jean Louis Boulanger</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Safety Management for Software based Equipment</p>
+            <p>Jean Louis Boulanger</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2927).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Enterprise Interoperability</td>
-            <td>Martin Zelm</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Enterprise Interoperability</p>
+            <p>Martin Zelm</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2928).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Performance Evaluation by Simulation and Analysis with Applications to Computer Networks</td>
-            <td>Ken Chen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Performance Evaluation by Simulation and Analysis with Applications to Computer Networks</p>
+            <p>Ken Chen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2929).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Sams teach yourself TCP/IP in 24 hours</td>
-            <td>Joe Casad</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Sams teach yourself TCP/IP in 24 hours</p>
+            <p>Joe Casad</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2930).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Away3D 3.6 Cookbook</td>
-            <td>Michael Ivanov</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Away3D 3.6 Cookbook</p>
+            <p>Michael Ivanov</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2931).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Tcl/Tk 8.5 Programming Cookbook</td>
-            <td>Bert Wheeler</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Tcl/Tk 8.5 Programming Cookbook</p>
+            <p>Bert Wheeler</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2932).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Oracle Universal Content Management Handbook</td>
-            <td>Dmitri Khanine</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Oracle Universal Content Management Handbook</p>
+            <p>Dmitri Khanine</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2933).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mudbox 2013 Cookbook</td>
-            <td>Jeremy Roland</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mudbox 2013 Cookbook</p>
+            <p>Jeremy Roland</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2934).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Effective Python Penetration Testing</td>
-            <td>Rejah Rehim</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Effective Python Penetration Testing</p>
+            <p>Rejah Rehim</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2935).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Content Everywhere</td>
-            <td>Sara Wachter Boettcher</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Content Everywhere</p>
+            <p>Sara Wachter Boettcher</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2936).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Hello Python</td>
-            <td>Anthony Briggs</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Hello Python</p>
+            <p>Anthony Briggs</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2937).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advances in Information Technology</td>
-            <td>Borworn Papasratorn</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advances in Information Technology</p>
+            <p>Borworn Papasratorn</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2938).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Natural Language in Business Process Models</td>
-            <td>Henrik Leopold</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Natural Language in Business Process Models</p>
+            <p>Henrik Leopold</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2939).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cooperative Device to Device Communication in Cognitive Radio Cellular Networks</td>
-            <td>Peng Li</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cooperative Device to Device Communication in Cognitive Radio Cellular Networks</p>
+            <p>Peng Li</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2940).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computational Color Imaging</td>
-            <td>Alain Tremeau</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computational Color Imaging</p>
+            <p>Alain Tremeau</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2941).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>A Course in Machine Learning</td>
-            <td>Hal Daumé III</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>A Course in Machine Learning</p>
+            <p>Hal Daumé III</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2942).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>A First Course in Database Systems</td>
-            <td>Jeffrey D. Ullman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>A First Course in Database Systems</p>
+            <p>Jeffrey D. Ullman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2943).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Algorithms Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Algorithms Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2944).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Supercomputing for Molecular Dynamics Simulations</td>
-            <td>Alexander Heinecke</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Supercomputing for Molecular Dynamics Simulations</p>
+            <p>Alexander Heinecke</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2945).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Information Theoretic Security</td>
-            <td>Anja Lehmann</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Information Theoretic Security</p>
+            <p>Anja Lehmann</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2946).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Implementation and Application of Automata</td>
-            <td>Yo Sub Han</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Implementation and Application of Automata</p>
+            <p>Yo Sub Han</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2947).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Information Technology and Computational Physics</td>
-            <td>Piotr Kulczycki</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Information Technology and Computational Physics</p>
+            <p>Piotr Kulczycki</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2948).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cyberspace</td>
-            <td>J. Martin Ramirez</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cyberspace</p>
+            <p>J. Martin Ramirez</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2949).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>A Practical Guide to Sentiment Analysis</td>
-            <td>Erik Cambria</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>A Practical Guide to Sentiment Analysis</p>
+            <p>Erik Cambria</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2950).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Science and Art of Simulation I</td>
-            <td>Michael M. Resch</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Science and Art of Simulation I</p>
+            <p>Michael M. Resch</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2951).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Applications of Evolutionary Computation</td>
-            <td>Giovanni Squillero</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Applications of Evolutionary Computation</p>
+            <p>Giovanni Squillero</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2952).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Theory and Applications of Models of Computation</td>
-            <td>T.V. Gopal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Theory and Applications of Models of Computation</p>
+            <p>T.V. Gopal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2953).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>On the Move to Meaningful Internet Systems</td>
-            <td>Ioana Ciuciu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>On the Move to Meaningful Internet Systems</p>
+            <p>Ioana Ciuciu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2954).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Web and Wireless Geographical Information Systems</td>
-            <td>David Brosset</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Web and Wireless Geographical Information Systems</p>
+            <p>David Brosset</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2955).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Evaluation of Novel Approaches to Software Engineering</td>
-            <td>Leszek A. Maciaszek</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Evaluation of Novel Approaches to Software Engineering</p>
+            <p>Leszek A. Maciaszek</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2956).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Models for Cooperative Games with Fuzzy Relations among the Agents</td>
-            <td>Andres Jimenez</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Models for Cooperative Games with Fuzzy Relations among the Agents</p>
+            <p>Andres Jimenez</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2957).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advances in Cryptology EUROCRYPT 2017</td>
-            <td>Jean Sebastien Coron</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advances in Cryptology EUROCRYPT 2017</p>
+            <p>Jean Sebastien Coron</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2958).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Gesture Recognition</td>
-            <td>Sergio Escalera</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Gesture Recognition</p>
+            <p>Sergio Escalera</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2959).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Angular 2 Notes for Professionals</td>
-            <td>GoalKicker.com </td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Angular 2 Notes for Professionals</p>
+            <p>GoalKicker.com </p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2960).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Business Modeling and Software Design</td>
-            <td>Boris Shishkov</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Business Modeling and Software Design</p>
+            <p>Boris Shishkov</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2961).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Progress in Cryptology AFRICACRYPT 2017</td>
-            <td>Marc Joye</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Progress in Cryptology AFRICACRYPT 2017</p>
+            <p>Marc Joye</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2962).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Privacy</td>
-            <td>Vicenc Torra</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Privacy</p>
+            <p>Vicenc Torra</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2963).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Guide to Convolutional Neural Networks</td>
-            <td>Hamed Habibi Aghdam</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Guide to Convolutional Neural Networks</p>
+            <p>Hamed Habibi Aghdam</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2964).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction to Morphogenetic Computing</td>
-            <td>Germano Resconi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction to Morphogenetic Computing</p>
+            <p>Germano Resconi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2965).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Technology Enhanced Assessment</td>
-            <td>Mart Laanpere</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Technology Enhanced Assessment</p>
+            <p>Mart Laanpere</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2966).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Grid Generation Methods</td>
-            <td>Vladimir D. Liseikin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Grid Generation Methods</p>
+            <p>Vladimir D. Liseikin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2967).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Application and Theory of Petri Nets and Concurrency</td>
-            <td>Wil van der Aalst</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Application and Theory of Petri Nets and Concurrency</p>
+            <p>Wil van der Aalst</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2968).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Algorithms for Computational Biology</td>
-            <td>Daniel Figueiredo</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Algorithms for Computational Biology</p>
+            <p>Daniel Figueiredo</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2969).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Systems for Big Graph Analytics</td>
-            <td>Da Yan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Systems for Big Graph Analytics</p>
+            <p>Da Yan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2970).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Social Computing and Social Media</td>
-            <td>Gabriele Meiselwitz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Social Computing and Social Media</p>
+            <p>Gabriele Meiselwitz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2971).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cellular Automata and Discrete Complex Systems</td>
-            <td>Alberto Dennunzio</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cellular Automata and Discrete Complex Systems</p>
+            <p>Alberto Dennunzio</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2972).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Knowledge Engineering and Knowledge Management</td>
-            <td>Paolo Ciancarini</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Knowledge Engineering and Knowledge Management</p>
+            <p>Paolo Ciancarini</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2973).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>End User Development</td>
-            <td>Simone Barbosa</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>End User Development</p>
+            <p>Simone Barbosa</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2974).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computer Science Theory and Applications</td>
-            <td>Pascal Weil</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computer Science Theory and Applications</p>
+            <p>Pascal Weil</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2975).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Bash Notes for Professionals</td>
-            <td>GoalKicker.com </td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Bash Notes for Professionals</p>
+            <p>GoalKicker.com </p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2976).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Digital Education</td>
-            <td>Carlos Delgado Kloos</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Digital Education</p>
+            <p>Carlos Delgado Kloos</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2977).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>C Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>C Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2978).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Information and Communication Technologies for Development</td>
-            <td>Jyoti Choudrie</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Information and Communication Technologies for Development</p>
+            <p>Jyoti Choudrie</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2979).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>C++ Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>C++ Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2980).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Internet of Things and Smart Environments</td>
-            <td>Seyed Shahrestani</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Internet of Things and Smart Environments</p>
+            <p>Seyed Shahrestani</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2981).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Warehousing and Knowledge Discovery</td>
-            <td>Johann Eder</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Warehousing and Knowledge Discovery</p>
+            <p>Johann Eder</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2982).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Web Search</td>
-            <td>Amanda Spink</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Web Search</p>
+            <p>Amanda Spink</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2983).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Analysis and Design of Advice</td>
-            <td>Ivan Jureta</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Analysis and Design of Advice</p>
+            <p>Ivan Jureta</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2984).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Engineering Secure Software and Systems</td>
-            <td>Ulfar Erlingsson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Engineering Secure Software and Systems</p>
+            <p>Ulfar Erlingsson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2985).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Technological Innovation for Sustainability</td>
-            <td>Luis M. Camarinha Matos</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Technological Innovation for Sustainability</p>
+            <p>Luis M. Camarinha Matos</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2986).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Software Product Management</td>
-            <td>Hans Bernd Kittlaus</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Software Product Management</p>
+            <p>Hans Bernd Kittlaus</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2987).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Foundations of Software Science and Computation Structures</td>
-            <td>Javier Esparza</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Foundations of Software Science and Computation Structures</p>
+            <p>Javier Esparza</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2988).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Fundamental Approaches to Software Engineering</td>
-            <td>Marieke Huisman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Fundamental Approaches to Software Engineering</p>
+            <p>Marieke Huisman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2989).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Proceedings of the 5th International Conference on Frontiers in Intelligent Computing</td>
-            <td>Suresh Chandra Satapathy</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Proceedings of the 5th International Conference on Frontiers in Intelligent Computing</p>
+            <p>Suresh Chandra Satapathy</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2990).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Recent Advances in Face Recognition</td>
-            <td>Kresimir Delac</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Recent Advances in Face Recognition</p>
+            <p>Kresimir Delac</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2991).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Informetrics</td>
-            <td>Junping Qiu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Informetrics</p>
+            <p>Junping Qiu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2992).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Space Information Networks</td>
-            <td>Quan Yu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Space Information Networks</p>
+            <p>Quan Yu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2993).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cyber Physical System Design from an Architecture Analysis Viewpoint</td>
-            <td>Shin Nakajima</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cyber Physical System Design from an Architecture Analysis Viewpoint</p>
+            <p>Shin Nakajima</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2994).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advances in Chinese Spoken Language Processing</td>
-            <td>Chin Hui Lee</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advances in Chinese Spoken Language Processing</p>
+            <p>Chin Hui Lee</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2995).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Universal Quantum Computing</td>
-            <td>Richard L. Amoroso</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Universal Quantum Computing</p>
+            <p>Richard L. Amoroso</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2996).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Adobe Acrobat X</td>
-            <td>Doug Sahlin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Adobe Acrobat X</p>
+            <p>Doug Sahlin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2997).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Machine learning: the power and promise of computers that learn by example</td>
-            <td>Royal Society</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Machine learning: the power and promise of computers that learn by example</p>
+            <p>Royal Society</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf2997.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cloud Computing: A Practical Approach</td>
-            <td>Anthony T. Velte</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cloud Computing: A Practical Approach</p>
+            <p>Anthony T. Velte</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2998).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Python: Deeper Insights into Machine Learning</td>
-            <td>Sebastian Raschka</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Python: Deeper Insights into Machine Learning</p>
+            <p>Sebastian Raschka</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(2999).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Git Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Git Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3000).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Visualization Toolkit</td>
-            <td>Barrett Clark</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Visualization Toolkit</p>
+            <p>Barrett Clark</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3001).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction to Algorithms</td>
-            <td>Thomas H. Cormen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction to Algorithms</p>
+            <p>Thomas H. Cormen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3002).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Science in the Age of Computer Simulation</td>
-            <td>Eric B . Winsberg</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Science in the Age of Computer Simulation</p>
+            <p>Eric B . Winsberg</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3003).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Divining a Digital Future</td>
-            <td>Paul Dourish</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Divining a Digital Future</p>
+            <p>Paul Dourish</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3004).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Coding Places</td>
-            <td>Yuri Takhteyev</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Coding Places</p>
+            <p>Yuri Takhteyev</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3005).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Press On</td>
-            <td>Harold Thimbleby</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Press On</p>
+            <p>Harold Thimbleby</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3006).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Anigrafs</td>
-            <td>Whitman Richards</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Anigrafs</p>
+            <p>Whitman Richards</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3007).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Financial Mathematics in Microsoft Excel</td>
-            <td>Alastair L. Day</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Financial Mathematics in Microsoft Excel</p>
+            <p>Alastair L. Day</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3008).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Encyclopedia Of Cybercrime</td>
-            <td>Samuel C. McQuade, III</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Encyclopedia Of Cybercrime</p>
+            <p>Samuel C. McQuade, III</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3009).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>creating a Presentation in powerpoint</td>
-            <td>Tom Negrino</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>creating a Presentation in powerpoint</p>
+            <p>Tom Negrino</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3010).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Designing Forms for Microsoft Office InfoPath and Forms Services 2007</td>
-            <td>Scott Roberts</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Designing Forms for Microsoft Office InfoPath and Forms Services 2007</p>
+            <p>Scott Roberts</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3011).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Semistructured Database Design</td>
-            <td>Tok Wang Ling</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Semistructured Database Design</p>
+            <p>Tok Wang Ling</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3012).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Information Retrieval</td>
-            <td>John Davies</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Information Retrieval</p>
+            <p>John Davies</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3013).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Coding Theory</td>
-            <td>Andre Neubauer</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Coding Theory</p>
+            <p>Andre Neubauer</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3014).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learn C the Hard Way</td>
-            <td>Zed Shaw</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learn C the Hard Way</p>
+            <p>Zed Shaw</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3015).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3016).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Best of 2600 A Hacker Odyssey</td>
-            <td>Emmanuel Goldstein</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Best of 2600 A Hacker Odyssey</p>
+            <p>Emmanuel Goldstein</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3017).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Software Error Detection Through Testing And Analysis</td>
-            <td>J. C. Huang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Software Error Detection Through Testing And Analysis</p>
+            <p>J. C. Huang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3018).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computer Assisted Exercises And Training</td>
-            <td>Erdal Cayirci</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computer Assisted Exercises And Training</p>
+            <p>Erdal Cayirci</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3019).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Qt for Symbian</td>
-            <td>Frank H.P. Fitzek</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Qt for Symbian</p>
+            <p>Frank H.P. Fitzek</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3020).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>MATLAB Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>MATLAB Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3021).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Sams Teach Yourself Microsoft SQL Server T SQL in 10 Minutes</td>
-            <td>Ben Forta</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Sams Teach Yourself Microsoft SQL Server T SQL in 10 Minutes</p>
+            <p>Ben Forta</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3022).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Two Scoops of Django 1.11</td>
-            <td>Daniel Roy Greenfeld</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Two Scoops of Django 1.11</p>
+            <p>Daniel Roy Greenfeld</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3023).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Microsoft Documents, Presentations, and Workbooks</td>
-            <td>Stephanie Krieger</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Microsoft Documents, Presentations, and Workbooks</p>
+            <p>Stephanie Krieger</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3024).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Microsoft The Definitive Guide to DAX</td>
-            <td>Marco Russo</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Microsoft The Definitive Guide to DAX</p>
+            <p>Marco Russo</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3025).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning XML 3rd Edition</td>
-            <td>David Hunter</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning XML 3rd Edition</p>
+            <p>David Hunter</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3026).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Oracle Database Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Oracle Database Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3027).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Clustering Theory, Algorithms, and Applications</td>
-            <td>Guojun Gan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Clustering Theory, Algorithms, and Applications</p>
+            <p>Guojun Gan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3028).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Motion Deblurring</td>
-            <td>A.N. Rajagopalan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Motion Deblurring</p>
+            <p>A.N. Rajagopalan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3029).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Measure of All Minds</td>
-            <td>Jose Hernandez Orallo</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Measure of All Minds</p>
+            <p>Jose Hernandez Orallo</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3030).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Installing and Configuring Windows Server 2012</td>
-            <td>Craig Zacker</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Installing and Configuring Windows Server 2012</p>
+            <p>Craig Zacker</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3031).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>PHP Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>PHP Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3032).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Quicken 2014 For Dummies</td>
-            <td>Stephen L. Nelson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Quicken 2014 For Dummies</p>
+            <p>Stephen L. Nelson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3033).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Web Application Hacker's Handbook</td>
-            <td>Dafydd Stuttard</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Web Application Hacker's Handbook</p>
+            <p>Dafydd Stuttard</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3034).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Internet For Dummies</td>
-            <td>John R. Levine</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Internet For Dummies</p>
+            <p>John R. Levine</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3035).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>DNS Security Management</td>
-            <td>Michael Dooley</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>DNS Security Management</p>
+            <p>Michael Dooley</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3036).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Network Forensics</td>
-            <td>Ric Messier</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Network Forensics</p>
+            <p>Ric Messier</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3037).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Interactive Digital Narrative</td>
-            <td>Hartmut Koenitz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Interactive Digital Narrative</p>
+            <p>Hartmut Koenitz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3038).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Microsoft Access 2013 Illustrated Brief</td>
-            <td>Lisa Friedrichsen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Microsoft Access 2013 Illustrated Brief</p>
+            <p>Lisa Friedrichsen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3039).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Systems Analysis and Design, Eleventh Edition</td>
-            <td>Scott Tilley</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Systems Analysis and Design, Eleventh Edition</p>
+            <p>Scott Tilley</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3040).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cloud Computing</td>
-            <td>Sandeep Bhowmik</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cloud Computing</p>
+            <p>Sandeep Bhowmik</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3041).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows Azure Platform</td>
-            <td>Tejaswi Redkar</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Windows Azure Platform</p>
+            <p>Tejaswi Redkar</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3042).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Designing Green Networks and Network Operations</td>
-            <td>Daniel Minoli</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Designing Green Networks and Network Operations</p>
+            <p>Daniel Minoli</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3043).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Anonymous Communication Networks</td>
-            <td>Kun Peng</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Anonymous Communication Networks</p>
+            <p>Kun Peng</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3044).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advanced Automated Software Testing</td>
-            <td>Izzat Alsmadi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advanced Automated Software Testing</p>
+            <p>Izzat Alsmadi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3045).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Processing</td>
-            <td>Jeffrey L. Nyhoff</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Processing</p>
+            <p>Jeffrey L. Nyhoff</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3046).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>API Management</td>
-            <td>Brajesh De</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>API Management</p>
+            <p>Brajesh De</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3047).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Models to Code</td>
-            <td>Leon Starr</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Models to Code</p>
+            <p>Leon Starr</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3048).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Oracle Database Upgrade and Migration Methods</td>
-            <td>Y V Ravikumar</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Oracle Database Upgrade and Migration Methods</p>
+            <p>Y V Ravikumar</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3049).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Top 50 UNIX Interview Questions and Answers</td>
-            <td>Knowledge Powerhouse</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Top 50 UNIX Interview Questions and Answers</p>
+            <p>Knowledge Powerhouse</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3050).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>HTML and CSS</td>
-            <td>Gilbert Kofi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>HTML and CSS</p>
+            <p>Gilbert Kofi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3051).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introducing Windows Server 2016</td>
-            <td>John McCabe</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introducing Windows Server 2016</p>
+            <p>John McCabe</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3052).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java: The Complete Guide for Beginners to Learn Java Programming Fast</td>
-            <td>Leonardo Gorman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java: The Complete Guide for Beginners to Learn Java Programming Fast</p>
+            <p>Leonardo Gorman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3053).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java:Best Practices to Programming Code with Java</td>
-            <td>Charlie Masterson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java:Best Practices to Programming Code with Java</p>
+            <p>Charlie Masterson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3054).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux: The Ultimate Beginner's Guide</td>
-            <td>Lee Maxwell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux: The Ultimate Beginner's Guide</p>
+            <p>Lee Maxwell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3055).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Programming Java</td>
-            <td>Gilbert Kofi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Programming Java</p>
+            <p>Gilbert Kofi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3056).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows 10</td>
-            <td>Lee Maxwell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Windows 10</p>
+            <p>Lee Maxwell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3057).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java: A Detailed Approach to Practical Coding</td>
-            <td>Nathan Clark</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java: A Detailed Approach to Practical Coding</p>
+            <p>Nathan Clark</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3058).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>C Programming Examples</td>
-            <td>Anonymous</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>C Programming Examples</p>
+            <p>Anonymous</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3059).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Programming For Beginners</td>
-            <td>Martin Laredo</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Programming For Beginners</p>
+            <p>Martin Laredo</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3060).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java: The 1-Step At A Time Java Programming For Beginners Guide to Learning Java</td>
-            <td>Matthew Adams</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java: The 1-Step At A Time Java Programming For Beginners Guide to Learning Java</p>
+            <p>Matthew Adams</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3061).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript: Best Practices to Programming Code with JavaScript </td>
-            <td>Charlie Masterson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript: Best Practices to Programming Code with JavaScript </p>
+            <p>Charlie Masterson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3062).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux: From Beginner To Expert In Less Than A Week </td>
-            <td>Stephen Blumenthal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux: From Beginner To Expert In Less Than A Week </p>
+            <p>Stephen Blumenthal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3063).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript Programming</td>
-            <td>Brian Draper</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript Programming</p>
+            <p>Brian Draper</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3064).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript: Programming Basics For Absolute Beginners</td>
-            <td>Nathan Clark</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript: Programming Basics For Absolute Beginners</p>
+            <p>Nathan Clark</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3065).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux: Linux For Beginners Guide to Learn Linux Command Line... </td>
-            <td>Josh Thompsons</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux: Linux For Beginners Guide to Learn Linux Command Line... </p>
+            <p>Josh Thompsons</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3066).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Programming</td>
-            <td>iCode Academy</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Programming</p>
+            <p>iCode Academy</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3067).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript</td>
-            <td>Stephen Blumenthal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript</p>
+            <p>Stephen Blumenthal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3068).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux: Beginner's Crash Course... </td>
-            <td>Quick Start Guides</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux: Beginner's Crash Course... </p>
+            <p>Quick Start Guides</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3069).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript: Learn Basics of Scripting Language... </td>
-            <td>James Jackson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript: Learn Basics of Scripting Language... </p>
+            <p>James Jackson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3070).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Programming Java</td>
-            <td>Os Swift</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Programming Java</p>
+            <p>Os Swift</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3071).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>React.JS Book</td>
-            <td>Greg Sidelnikov</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>React.JS Book</p>
+            <p>Greg Sidelnikov</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3072).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advanced Persistent Training</td>
-            <td>Jordan Schroeder</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advanced Persistent Training</p>
+            <p>Jordan Schroeder</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3073).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Reactive Programming with Java 8</td>
-            <td>Nickolay Tsvetinov</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Reactive Programming with Java 8</p>
+            <p>Nickolay Tsvetinov</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3074).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning HTTP/2</td>
-            <td>Stephen Ludin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning HTTP/2</p>
+            <p>Stephen Ludin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3075).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Modern Java Recipes</td>
-            <td>Ken Kousen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Modern Java Recipes</p>
+            <p>Ken Kousen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3076).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>ES6 for Humans</td>
-            <td>Hanu Prateek Kunduru</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>ES6 for Humans</p>
+            <p>Hanu Prateek Kunduru</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3077).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering PostgreSQL 9.6</td>
-            <td>Hans Jurgen Schonig</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering PostgreSQL 9.6</p>
+            <p>Hans Jurgen Schonig</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3078).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Teach & Learn Visual Basic with 26 Hands on Projects</td>
-            <td>Mohammad Javad Morovati</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Teach & Learn Visual Basic with 26 Hands on Projects</p>
+            <p>Mohammad Javad Morovati</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3079).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Perl 6 Fundamentals</td>
-            <td>Moritz Lenz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Perl 6 Fundamentals</p>
+            <p>Moritz Lenz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3080).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Unit Testing Using Mockito and JUnit</td>
-            <td>Sujoy Acharya</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Unit Testing Using Mockito and JUnit</p>
+            <p>Sujoy Acharya</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3081).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Hierarchical Modular Granular Neural Networks with Fuzzy Aggregation</td>
-            <td>Janusz Kacprzyk</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Hierarchical Modular Granular Neural Networks with Fuzzy Aggregation</p>
+            <p>Janusz Kacprzyk</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3082).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Hadoop 2</td>
-            <td>Garry Turkington</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Hadoop 2</p>
+            <p>Garry Turkington</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3083).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Node.js</td>
-            <td>Sandro Pasquali</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Node.js</p>
+            <p>Sandro Pasquali</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3084).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript Unit Testing</td>
-            <td>Hazem Saleh</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript Unit Testing</p>
+            <p>Hazem Saleh</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3085).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Phalcon PHP</td>
-            <td>Calin Rada</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Phalcon PHP</p>
+            <p>Calin Rada</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3086).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>MATLAB Deep Learning</td>
-            <td>Phil Kim</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>MATLAB Deep Learning</p>
+            <p>Phil Kim</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3087).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Parallel Programming with R</td>
-            <td>Simon R. Chapple</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Parallel Programming with R</p>
+            <p>Simon R. Chapple</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3088).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction to Visual Basic 2015</td>
-            <td>Mark Maslach</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction to Visual Basic 2015</p>
+            <p>Mark Maslach</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3089).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>PostgreSQL Administration Cookbook</td>
-            <td>Simon Riggs</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>PostgreSQL Administration Cookbook</p>
+            <p>Simon Riggs</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3090).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Blender Python API</td>
-            <td>Chris Conlan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Blender Python API</p>
+            <p>Chris Conlan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3091).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Spring 5.0</td>
-            <td>Tejaswini Mandar Jog</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Spring 5.0</p>
+            <p>Tejaswini Mandar Jog</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3092).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Terrestrial Satellite Communication Networks</td>
-            <td>Linling Kuang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Terrestrial Satellite Communication Networks</p>
+            <p>Linling Kuang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3093).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Web Semantics for Textual and Visual Information Retrieval</td>
-            <td>Aarti Singh</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Web Semantics for Textual and Visual Information Retrieval</p>
+            <p>Aarti Singh</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3094).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Angular For .Net Developers</td>
-            <td>Rajesh Gunasundaram</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Angular For .Net Developers</p>
+            <p>Rajesh Gunasundaram</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3095).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Struts Framework</td>
-            <td>Sue Spielman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Struts Framework</p>
+            <p>Sue Spielman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3096).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Web Development with MongoDB and Node.js</td>
-            <td>Jason Krol</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Web Development with MongoDB and Node.js</p>
+            <p>Jason Krol</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3097).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Up to Speed with Swing</td>
-            <td>Steven Gutz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Up to Speed with Swing</p>
+            <p>Steven Gutz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3098).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Text Mining with R</td>
-            <td>Julia Silge</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Text Mining with R</p>
+            <p>Julia Silge</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3099).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Problem Solving in Data Structures and Algorithms Using JAVA</td>
-            <td>Hemant Jain</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Problem Solving in Data Structures and Algorithms Using JAVA</p>
+            <p>Hemant Jain</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3100).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction to JVM Languages</td>
-            <td>vincent van der Leun </td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction to JVM Languages</p>
+            <p>vincent van der Leun </p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3101).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Building Custom Tasks for SQL Server Integration Services</td>
-            <td>Andy Leonard</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Building Custom Tasks for SQL Server Integration Services</p>
+            <p>Andy Leonard</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3102).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>BPEL and Java Cookbook</td>
-            <td>Jurij Laznik</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>BPEL and Java Cookbook</p>
+            <p>Jurij Laznik</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3103).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Digital Java EE 7 Web Application Development</td>
-            <td>Peter Pilgrim</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Digital Java EE 7 Web Application Development</p>
+            <p>Peter Pilgrim</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3104).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Fast Data Processing with Spark</td>
-            <td>Holden Karau</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Fast Data Processing with Spark</p>
+            <p>Holden Karau</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3105).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Database Reliability Engineering</td>
-            <td>Laine Campbell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Database Reliability Engineering</p>
+            <p>Laine Campbell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3106).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>OpenStack Administration with Ansible 2</td>
-            <td>Walter Bentley</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>OpenStack Administration with Ansible 2</p>
+            <p>Walter Bentley</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3107).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java: Data Science Made Easy</td>
-            <td>Richard M. Reese</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java: Data Science Made Easy</p>
+            <p>Richard M. Reese</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3108).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java EE 7 Performance Tuning and Optimization</td>
-            <td>Osama Oransa</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java EE 7 Performance Tuning and Optimization</p>
+            <p>Osama Oransa</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3109).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Managing Data Using Excel</td>
-            <td>Mark Gardener</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Managing Data Using Excel</p>
+            <p>Mark Gardener</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3110).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>HTML5 and CSS3, Second Edition</td>
-            <td>Brian P. Hogan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>HTML5 and CSS3, Second Edition</p>
+            <p>Brian P. Hogan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3111).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Predictive Analytics with R</td>
-            <td>Rui Miguel Forte</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Predictive Analytics with R</p>
+            <p>Rui Miguel Forte</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3112).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Apache Spark 2</td>
-            <td>Muhammad Asif Abbasi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Apache Spark 2</p>
+            <p>Muhammad Asif Abbasi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3113).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Elastic Stack</td>
-            <td>Ravi Kumar Gupta</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Elastic Stack</p>
+            <p>Ravi Kumar Gupta</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3114).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Streaming Architecture</td>
-            <td>Ted Dunning</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Streaming Architecture</p>
+            <p>Ted Dunning</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3115).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>iOS Code Testing</td>
-            <td>Abhishek Mishra</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>iOS Code Testing</p>
+            <p>Abhishek Mishra</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3116).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cyber Security on Azure</td>
-            <td>Marshall Copeland</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cyber Security on Azure</p>
+            <p>Marshall Copeland</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3117).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>NoSQL Database For Storage and Retrieval of Data in Cloud</td>
-            <td>Ganesh Chandra Deka</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>NoSQL Database For Storage and Retrieval of Data in Cloud</p>
+            <p>Ganesh Chandra Deka</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3118).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginner's Guide to Android App Development</td>
-            <td>Serhan Yamacli</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginner's Guide to Android App Development</p>
+            <p>Serhan Yamacli</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3119).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Pro Continuous Delivery</td>
-            <td>Nikhil Pathania</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Pro Continuous Delivery</p>
+            <p>Nikhil Pathania</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3120).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Distributed Computing in Java 9</td>
-            <td>Raja Malleswara Rao Pattamsetti</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Distributed Computing in Java 9</p>
+            <p>Raja Malleswara Rao Pattamsetti</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3121).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Kali Linux for Advanced Penetration Testing</td>
-            <td>Vijay Kumar Velu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Kali Linux for Advanced Penetration Testing</p>
+            <p>Vijay Kumar Velu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3122).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Perl Cookbook</td>
-            <td>Tom Christiansen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Perl Cookbook</p>
+            <p>Tom Christiansen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3123).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Big Data Management and Processing</td>
-            <td>Kuan Ching Li</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Big Data Management and Processing</p>
+            <p>Kuan Ching Li</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3124).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Java Machine Learning</td>
-            <td>Krishna Choppella</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Java Machine Learning</p>
+            <p>Krishna Choppella</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3125).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Oracle SQL Tuning with Oracle SQLTXPLAIN</td>
-            <td>Stelios Charalambides</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Oracle SQL Tuning with Oracle SQLTXPLAIN</p>
+            <p>Stelios Charalambides</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3126).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Analysis with Microsoft Excel</td>
-            <td>Kenneth N. Berk</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Analysis with Microsoft Excel</p>
+            <p>Kenneth N. Berk</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3127).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Defensive Security Handbook</td>
-            <td>Lee Brotherston</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Defensive Security Handbook</p>
+            <p>Lee Brotherston</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3128).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Medical Image Processing</td>
-            <td>Tamalika Chaira</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Medical Image Processing</p>
+            <p>Tamalika Chaira</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3129).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Engineering Applications of Neural Networks</td>
-            <td>Chrisina Jayne</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Engineering Applications of Neural Networks</p>
+            <p>Chrisina Jayne</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3130).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Head First Java</td>
-            <td>Kathy Sierra</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Head First Java</p>
+            <p>Kathy Sierra</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3131).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Structures And Algorithms Made Easy in Java</td>
-            <td>Narasimha Karumanchi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Structures And Algorithms Made Easy in Java</p>
+            <p>Narasimha Karumanchi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3132).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Kali Linux for Web Penetration Testing</td>
-            <td>Michael McPhee</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Kali Linux for Web Penetration Testing</p>
+            <p>Michael McPhee</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3133).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Oracle Application Express (APEX)</td>
-            <td>Arie Geller</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Oracle Application Express (APEX)</p>
+            <p>Arie Geller</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3134).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>PostgreSQL Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>PostgreSQL Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3135).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning SQL</td>
-            <td>Alan Beaulieu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning SQL</p>
+            <p>Alan Beaulieu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3136).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>PowerShell Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>PowerShell Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3137).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>HTML5 Guide</td>
-            <td>MadCap Software</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>HTML5 Guide</p>
+            <p>MadCap Software</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00001.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Delivering Carrier Ethernet</td>
-            <td>Abdul Kasim</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Delivering Carrier Ethernet</p>
+            <p>Abdul Kasim</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00002.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Wireless Mobility</td>
-            <td>Neil Reid</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Wireless Mobility</p>
+            <p>Neil Reid</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00003.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction to Probability Models</td>
-            <td>Sheldon M. Ross</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction to Probability Models</p>
+            <p>Sheldon M. Ross</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00004.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Communications and Networking</td>
-            <td>Behrouz A. Forouzan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Communications and Networking</p>
+            <p>Behrouz A. Forouzan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00005.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>UNIX Network Programming</td>
-            <td>Andrew M. Rudoff</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>UNIX Network Programming</p>
+            <p>Andrew M. Rudoff</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00006.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Software Solutions</td>
-            <td>John Lewis</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Software Solutions</p>
+            <p>John Lewis</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00007.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Unreal Engine VR Cookbook</td>
-            <td>Mitch McCaffrey</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Unreal Engine VR Cookbook</p>
+            <p>Mitch McCaffrey</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf00008.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Samba: UNIX and NT Networking</td>
-            <td>James DeRoest</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Samba: UNIX and NT Networking</p>
+            <p>James DeRoest</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3138).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>PHP Programming Solutions</td>
-            <td>Vikram Vaswani</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>PHP Programming Solutions</p>
+            <p>Vikram Vaswani</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3139).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>HTML & CSS: The Complete Reference,Fifth Edition</td>
-            <td>Thomas A. Powell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>HTML & CSS: The Complete Reference,Fifth Edition</p>
+            <p>Thomas A. Powell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3140).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>PHP A Beginner's Guide</td>
-            <td>Vikram Vaswani</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>PHP A Beginner's Guide</p>
+            <p>Vikram Vaswani</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3141).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Ubuntu</td>
-            <td>Jeffrey T. Orloff</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Ubuntu</p>
+            <p>Jeffrey T. Orloff</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3142).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Reshaping Your Business with WEB 2.0</td>
-            <td>Vince Casarez</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Reshaping Your Business with WEB 2.0</p>
+            <p>Vince Casarez</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3143).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaFX: A Beginner's Guide</td>
-            <td>J. F. DiMarzio</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaFX: A Beginner's Guide</p>
+            <p>J. F. DiMarzio</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3144).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Plug in CSS: 100 Power Solutions</td>
-            <td>Robin Nixon</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Plug in CSS: 100 Power Solutions</p>
+            <p>Robin Nixon</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3145).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Quick Start Guide to JavaFX</td>
-            <td>J. F. DiMarzio</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Quick Start Guide to JavaFX</p>
+            <p>J. F. DiMarzio</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3146).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java EE and HTML5 Enterprise Application Development</td>
-            <td>John Brock</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java EE and HTML5 Enterprise Application Development</p>
+            <p>John Brock</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3147).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>UNIX System Administration: A Beginner's Guide</td>
-            <td>Steve Maxwell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>UNIX System Administration: A Beginner's Guide</p>
+            <p>Steve Maxwell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3148).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Red Hat Linux Administration: A Beginner's Guide</td>
-            <td>Michael Turner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Red Hat Linux Administration: A Beginner's Guide</p>
+            <p>Michael Turner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3149).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>How to do Everything with JavaScript</td>
-            <td>Scott Duffy</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>How to do Everything with JavaScript</p>
+            <p>Scott Duffy</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3150).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java A Beginner's Guide: Third Edition</td>
-            <td>Herbert Schildt</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java A Beginner's Guide: Third Edition</p>
+            <p>Herbert Schildt</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3151).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript 2.0: The Complete Reference, Second Edition</td>
-            <td>Thomas Powell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript 2.0: The Complete Reference, Second Edition</p>
+            <p>Thomas Powell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3152).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Demystified</td>
-            <td>Jim Keogh</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Demystified</p>
+            <p>Jim Keogh</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3153).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java A Beginner's Guide Fourth Edition</td>
-            <td>Herbert Schildt</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java A Beginner's Guide Fourth Edition</p>
+            <p>Herbert Schildt</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3154).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction to Programming With Java: A Problem Solving Approach</td>
-            <td>John S. Dean</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction to Programming With Java: A Problem Solving Approach</p>
+            <p>John S. Dean</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3155).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Object Oriented Software Engineering: Second edition</td>
-            <td>Timothy C. Lethbridge</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Object Oriented Software Engineering: Second edition</p>
+            <p>Timothy C. Lethbridge</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3156).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Integrating Linux and Windows</td>
-            <td>Mike McCune</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Integrating Linux and Windows</p>
+            <p>Mike McCune</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3157).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advanced Java Networking: Second Edition</td>
-            <td>Prashant Sridharan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advanced Java Networking: Second Edition</p>
+            <p>Prashant Sridharan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3158).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Core Java 2: Volume II, Advanced Features</td>
-            <td>Cay S. Horstmann</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Core Java 2: Volume II, Advanced Features</p>
+            <p>Cay S. Horstmann</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3159).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Core JSTL: Mastering the JSP Standard Tag Library</td>
-            <td>David M. Geary</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Core JSTL: Mastering the JSP Standard Tag Library</p>
+            <p>David M. Geary</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3160).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Core Techniques and Algorithms in Game Programming</td>
-            <td>Daniel Sanchez</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Core Techniques and Algorithms in Game Programming</p>
+            <p>Daniel Sanchez</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3161).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Eclipse Modeling Framework: A Developer's Guide</td>
-            <td>Frank Budinsky</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Eclipse Modeling Framework: A Developer's Guide</p>
+            <p>Frank Budinsky</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3162).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Application Development on Linux</td>
-            <td>Carl Albing</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Application Development on Linux</p>
+            <p>Carl Albing</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3163).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Samba 3 by Example: Practical Exercises to Successful Deployment</td>
-            <td>John H. Terpstra</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Samba 3 by Example: Practical Exercises to Successful Deployment</p>
+            <p>John H. Terpstra</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3164).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>A Practical Guide to Linux commands, Editors, and Shell Programming</td>
-            <td>Mark G. Sobell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>A Practical Guide to Linux commands, Editors, and Shell Programming</p>
+            <p>Mark G. Sobell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3165).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction to Java Programming, Brief Version, Eighth Edition</td>
-            <td>Y. Daniel Liang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction to Java Programming, Brief Version, Eighth Edition</p>
+            <p>Y. Daniel Liang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3166).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Essential Linux Device Drivers</td>
-            <td>Sreekrishnan Venkateswaran</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Essential Linux Device Drivers</p>
+            <p>Sreekrishnan Venkateswaran</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3167).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Absolute Java 5th Edition</td>
-            <td>Walter Savitch</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Absolute Java 5th Edition</p>
+            <p>Walter Savitch</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3168).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Simply Visual Basic 2010: Fourth Edition</td>
-            <td>Paul Deitel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Simply Visual Basic 2010: Fourth Edition</p>
+            <p>Paul Deitel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3169).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux Hardening In Hostile Networks</td>
-            <td>Kyle Rankin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux Hardening In Hostile Networks</p>
+            <p>Kyle Rankin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3170).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction to Game Design, Prototyping, and Development: Second Edition</td>
-            <td>Jeremy Gibson Bond</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction to Game Design, Prototyping, and Development: Second Edition</p>
+            <p>Jeremy Gibson Bond</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3171).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Ruby on Rails Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Ruby on Rails Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3172).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java for Programmers</td>
-            <td>Paul J. Deitel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java for Programmers</p>
+            <p>Paul J. Deitel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3173).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>J2EE Connector Architecture and Enterprise Application Integration</td>
-            <td>Rahul Sharma</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>J2EE Connector Architecture and Enterprise Application Integration</p>
+            <p>Rahul Sharma</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3174).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Spinning the Semantic Web: Bringing the WWW to Its Full Potential</td>
-            <td>Dieter Fensel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Spinning the Semantic Web: Bringing the WWW to Its Full Potential</p>
+            <p>Dieter Fensel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3175).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Visual Basic 2010 for Students: Fourth Edition</td>
-            <td>Douglas Bell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Visual Basic 2010 for Students: Fourth Edition</p>
+            <p>Douglas Bell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3176).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>An Introduction to Graphical User Interfaces with Java Swing</td>
-            <td>Paul Fischer</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>An Introduction to Graphical User Interfaces with Java Swing</p>
+            <p>Paul Fischer</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3177).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Algorithm Design</td>
-            <td>Jon Kleinberg, Eva Tardos</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Algorithm Design</p>
+            <p>Jon Kleinberg, Eva Tardos</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3178).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Eclipse Web Tools Platform: Developing Java Web Applications</td>
-            <td>Naci Dai</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Eclipse Web Tools Platform: Developing Java Web Applications</p>
+            <p>Naci Dai</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3179).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Bulletproof Ajax</td>
-            <td>Jeremy Keith</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Bulletproof Ajax</p>
+            <p>Jeremy Keith</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3180).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Design Patterns In Ruby</td>
-            <td>Russ Olsen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Design Patterns In Ruby</p>
+            <p>Russ Olsen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3181).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Next Generation Java Testing: TestNG and Advanced Concepts</td>
-            <td>Cedric Beust</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Next Generation Java Testing: TestNG and Advanced Concepts</p>
+            <p>Cedric Beust</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3182).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Visual Design for the Modern Web</td>
-            <td>Penny McIntire</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Visual Design for the Modern Web</p>
+            <p>Penny McIntire</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3183).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Simply Logical: Intelligent Reasoning by Example</td>
-            <td>Peter A. Flach</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Simply Logical: Intelligent Reasoning by Example</p>
+            <p>Peter A. Flach</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3184).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Distributed Programming With Ruby</td>
-            <td>Mark Bates</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Distributed Programming With Ruby</p>
+            <p>Mark Bates</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3185).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Programming in Python 3, Second Edition</td>
-            <td>Mark Summerfield</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Programming in Python 3, Second Edition</p>
+            <p>Mark Summerfield</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3186).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Objective-c: Visual Quickstart Guide</td>
-            <td>Steven Holzner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Objective-c: Visual Quickstart Guide</p>
+            <p>Steven Holzner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3187).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Algorithm Design Manual</td>
-            <td>Steven S. Skiena</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Algorithm Design Manual</p>
+            <p>Steven S. Skiena</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3188).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Adobe Flash Professional CS5: For Windows And Macintosh</td>
-            <td>Katherine Ulrich</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Adobe Flash Professional CS5: For Windows And Macintosh</p>
+            <p>Katherine Ulrich</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3189).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Building a WordPress Blog People Want to Read: Second Edition</td>
-            <td>Scott McNulty</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Building a WordPress Blog People Want to Read: Second Edition</p>
+            <p>Scott McNulty</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3190).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>SQL Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>SQL Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3191).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Formal Software Development: From VDM to Java</td>
-            <td>Quentin Charatan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Formal Software Development: From VDM to Java</p>
+            <p>Quentin Charatan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3192).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Elementary Number Theory and lts Applications</td>
-            <td>Kenneth H. Rosen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Elementary Number Theory and lts Applications</p>
+            <p>Kenneth H. Rosen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(03192).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Number Theory For Beginners</td>
-            <td>A. Weil</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Number Theory For Beginners</p>
+            <p>A. Weil</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(03193).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Undergraduate Texts in Mathematics</td>
-            <td>F. W. Gehrin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Undergraduate Texts in Mathematics</p>
+            <p>F. W. Gehrin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(03194).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>An Introduction to the Theory of Numbers</td>
-            <td>G. H. Hardy</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>An Introduction to the Theory of Numbers</p>
+            <p>G. H. Hardy</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(03195).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Elementary Number Theory: Primes, Congruences, and Secrets</td>
-            <td>William Stein</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Elementary Number Theory: Primes, Congruences, and Secrets</p>
+            <p>William Stein</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(03196).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Android Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Android Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3193).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Biometric System and Data Analysis</td>
-            <td>Ted Dunstone</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Biometric System and Data Analysis</p>
+            <p>Ted Dunstone</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3194).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Designing Gamified Systems</td>
-            <td>Sari Gilbert</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Designing Gamified Systems</p>
+            <p>Sari Gilbert</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3195).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mobile Web Services: Architecture and Implementation</td>
-            <td>Frederick Hirsch</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mobile Web Services: Architecture and Implementation</p>
+            <p>Frederick Hirsch</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3196).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Microsoft Exchange Server 2003: Advanced Administration</td>
-            <td>Jim McBee</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Microsoft Exchange Server 2003: Advanced Administration</p>
+            <p>Jim McBee</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3197).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Master Visually: Microsoft Windows Vista</td>
-            <td>Wiley Publishing, Inc.</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Master Visually: Microsoft Windows Vista</p>
+            <p>Wiley Publishing, Inc.</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3198).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>CSS Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>CSS Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3199).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux for Dummies: Eighth Edition</td>
-            <td>Dee Ann LeBlanc</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux for Dummies: Eighth Edition</p>
+            <p>Dee Ann LeBlanc</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3200).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows Server 2008 Bible</td>
-            <td>Jeffrey R. Shapiro</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Windows Server 2008 Bible</p>
+            <p>Jeffrey R. Shapiro</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3201).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Discrete Mathematics and Its Applications</td>
-            <td>Kenneth H. Rosen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Discrete Mathematics and Its Applications</p>
+            <p>Kenneth H. Rosen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3202).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java and Flex Integration Bible</td>
-            <td>Matthew Keefe</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java and Flex Integration Bible</p>
+            <p>Matthew Keefe</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3203).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Fedora 10 and Red Hat Enterprise Linux Bible</td>
-            <td>Christopher Negus</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Fedora 10 and Red Hat Enterprise Linux Bible</p>
+            <p>Christopher Negus</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3204).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introducing Maya 2011</td>
-            <td>Dariush Derakhshani</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introducing Maya 2011</p>
+            <p>Dariush Derakhshani</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3205).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Tools for Extreme Programming</td>
-            <td>Richard Hightower</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Tools for Extreme Programming</p>
+            <p>Richard Hightower</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3206).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Network Query Language(NQL)</td>
-            <td>David Pallmann</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Network Query Language(NQL)</p>
+            <p>David Pallmann</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3207).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Making Use of JSP</td>
-            <td>Madhushree Ganguli</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Making Use of JSP</p>
+            <p>Madhushree Ganguli</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3208).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Enterprise Design Patterns: Volume 3</td>
-            <td>Mark Grand</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Enterprise Design Patterns: Volume 3</p>
+            <p>Mark Grand</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3209).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>ASP.NET in 60 Minutes a Day</td>
-            <td>Glenn Johnson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>ASP.NET in 60 Minutes a Day</p>
+            <p>Glenn Johnson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3210).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Solaris Solutions for System Administrators</td>
-            <td>Sandra Henry Stocker</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Solaris Solutions for System Administrators</p>
+            <p>Sandra Henry Stocker</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3211).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Tools</td>
-            <td>Andreas Eberhart</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Tools</p>
+            <p>Andreas Eberhart</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3212).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Structures and Algorithms in Java</td>
-            <td>Michael T. Goodrich</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Structures and Algorithms in Java</p>
+            <p>Michael T. Goodrich</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3213).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Fuzzy Systems Engineering Toward Human Centric Computing</td>
-            <td>Witold Pedrycz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Fuzzy Systems Engineering Toward Human Centric Computing</p>
+            <p>Witold Pedrycz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3214).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Density Ratio Estimation in Machine Learning</td>
-            <td>Masashi Sugiyama</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Density Ratio Estimation in Machine Learning</p>
+            <p>Masashi Sugiyama</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3215).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Intensive Computing: Architectures, Algorithms, and Applications</td>
-            <td>Ian Gorton</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Intensive Computing: Architectures, Algorithms, and Applications</p>
+            <p>Ian Gorton</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3216).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Bayesian Time Series Models</td>
-            <td>David Barber</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Bayesian Time Series Models</p>
+            <p>David Barber</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3217).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Language, Cohesion and Form</td>
-            <td>Margaret Masterman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Language, Cohesion and Form</p>
+            <p>Margaret Masterman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3218).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Perl & LWP</td>
-            <td>Sean M. Burke</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Perl & LWP</p>
+            <p>Sean M. Burke</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3219).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Apollo for Adobe Flex Developers</td>
-            <td>Mike Chambers</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Apollo for Adobe Flex Developers</p>
+            <p>Mike Chambers</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3220).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning OpenCV</td>
-            <td>Gary Bradski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning OpenCV</p>
+            <p>Gary Bradski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3221).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Art of Capacity Planning</td>
-            <td>John Allspaw</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Art of Capacity Planning</p>
+            <p>John Allspaw</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3222).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Perl Hacks</td>
-            <td>chromatic</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Perl Hacks</p>
+            <p>chromatic</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3223).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Information Architecture for the World Wide Web</td>
-            <td>Peter Morville</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Information Architecture for the World Wide Web</p>
+            <p>Peter Morville</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3224).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>RESTful Web Services Cookbook</td>
-            <td>Subbu Allamaraju</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>RESTful Web Services Cookbook</p>
+            <p>Subbu Allamaraju</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3225).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>WordPress Revealed: 2nd Edition (2017)</td>
-            <td>Matt Wolfe</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>WordPress Revealed: 2nd Edition (2017)</p>
+            <p>Matt Wolfe</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3226).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux Mandrake in 24 Hours</td>
-            <td>Craig Witherspoon</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux Mandrake in 24 Hours</p>
+            <p>Craig Witherspoon</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3227).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Open Source Web Site Construction Kit</td>
-            <td>Thomas Schenk</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Open Source Web Site Construction Kit</p>
+            <p>Thomas Schenk</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3228).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript in 21 Days</td>
-            <td>Andrew Watt</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript in 21 Days</p>
+            <p>Andrew Watt</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3229).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Connector Architecture: Building Enterprise Adaptors</td>
-            <td>Atul Apte</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Connector Architecture: Building Enterprise Adaptors</p>
+            <p>Atul Apte</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3230).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Perl in 24 Hours Third Edition</td>
-            <td>Clinton Pierce</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Perl in 24 Hours Third Edition</p>
+            <p>Clinton Pierce</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3231).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>openSUSE Linux</td>
-            <td>Michael McCallister</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>openSUSE Linux</p>
+            <p>Michael McCallister</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3232).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows Server 2008 Hyper V</td>
-            <td>Rand Morimoto</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Windows Server 2008 Hyper V</p>
+            <p>Rand Morimoto</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3233).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows Server 2008 R2</td>
-            <td>Rand Morimoto</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Windows Server 2008 R2</p>
+            <p>Rand Morimoto</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3234).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cloud Native Go</td>
-            <td>Kevin Hoffman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cloud Native Go</p>
+            <p>Kevin Hoffman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3235).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Quick and Easy Link Building Ideas</td>
-            <td>Shivani Karwal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Quick and Easy Link Building Ideas</p>
+            <p>Shivani Karwal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3236).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Microsoft Windows XP Inside Out</td>
-            <td>Ed Bott</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Microsoft Windows XP Inside Out</p>
+            <p>Ed Bott</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3237).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Microsoft Windows Workflow Foundation</td>
-            <td>Kenn Scribner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Microsoft Windows Workflow Foundation</p>
+            <p>Kenn Scribner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3238).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Microsoft Application Architecture Guide: 2nd Edition</td>
-            <td>Microsoft</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Microsoft Application Architecture Guide: 2nd Edition</p>
+            <p>Microsoft</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3239).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introducing Windows Server 2012 R2: Technical Overview</td>
-            <td>Mitch Tulloch</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introducing Windows Server 2012 R2: Technical Overview</p>
+            <p>Mitch Tulloch</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3240).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>More Eric Meyer on CSS</td>
-            <td>Eric A. Meyer</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>More Eric Meyer on CSS</p>
+            <p>Eric A. Meyer</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3241).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>TCP/IP Tutorial and Technical Overview: Eighth Edition</td>
-            <td>Lydia Parziale</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>TCP/IP Tutorial and Technical Overview: Eighth Edition</p>
+            <p>Lydia Parziale</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3242).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux Client Migration Cookbook, Version 2</td>
-            <td>Chris Almond</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux Client Migration Cookbook, Version 2</p>
+            <p>Chris Almond</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3243).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning Direct 3D Game Programming</td>
-            <td>Wolfgang F. Engel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning Direct 3D Game Programming</p>
+            <p>Wolfgang F. Engel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3244).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java 2 Enterprise Edition Bible</td>
-            <td>Justin Couch</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java 2 Enterprise Edition Bible</p>
+            <p>Justin Couch</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3245).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows XP Bible, Desktop Edition</td>
-            <td>Alan Simpson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Windows XP Bible, Desktop Edition</p>
+            <p>Alan Simpson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3246).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>MS Office Access 2003 Bible</td>
-            <td>Cary N. Prague</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>MS Office Access 2003 Bible</p>
+            <p>Cary N. Prague</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3247).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Creating Web Pages For Dummies: 7TH EDITION</td>
-            <td>Bud E. Smith</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Creating Web Pages For Dummies: 7TH EDITION</p>
+            <p>Bud E. Smith</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3248).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning Programming with Java For Dummies: 2nd Edition</td>
-            <td>Barry Burd</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning Programming with Java For Dummies: 2nd Edition</p>
+            <p>Barry Burd</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3249).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning Visual Basic 2005 Databases</td>
-            <td>Thearon Willis</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning Visual Basic 2005 Databases</p>
+            <p>Thearon Willis</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3250).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>ActionScript 3.0 Game Programming University</td>
-            <td>Gary Rosenzweig</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>ActionScript 3.0 Game Programming University</p>
+            <p>Gary Rosenzweig</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3251).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>HTML5 Canvas Notes for Professionals</td>
-            <td>GoalKicker.com </td>
-            <td>
+            </p>
+       </br>
+       
+            <p>HTML5 Canvas Notes for Professionals</p>
+            <p>GoalKicker.com </p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3252).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Conducting Meta Analysis Using SAS</td>
-            <td>Winfred Arthur, Jr.</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Conducting Meta Analysis Using SAS</p>
+            <p>Winfred Arthur, Jr.</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3253).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Codes and Curves: Volume 7</td>
-            <td>Judy L. Walker</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Codes and Curves: Volume 7</p>
+            <p>Judy L. Walker</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3254).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Robust Control Systems With Genetic Algorithms</td>
-            <td>Mo Jamshidi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Robust Control Systems With Genetic Algorithms</p>
+            <p>Mo Jamshidi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3255).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Python Language Reference: Release 2.6.3</td>
-            <td>Guido van Rossum</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Python Language Reference: Release 2.6.3</p>
+            <p>Guido van Rossum</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3256).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>php: Architect's Guide to Enterprise PHP Development</td>
-            <td>Ivo Jansch</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>php: Architect's Guide to Enterprise PHP Development</p>
+            <p>Ivo Jansch</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3257).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The JavaScript Anthology: 101 Essential Tips, Tricks & Hacks</td>
-            <td>James Edwards</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The JavaScript Anthology: 101 Essential Tips, Tricks & Hacks</p>
+            <p>James Edwards</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3258).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Build Your Own Web Site The Right Way: Using HTML & CSS</td>
-            <td>Ian Lloyd</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Build Your Own Web Site The Right Way: Using HTML & CSS</p>
+            <p>Ian Lloyd</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3259).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Art & Science of CSS</td>
-            <td>Cameron Adams</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Art & Science of CSS</p>
+            <p>Cameron Adams</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3260).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The CSS Anthology: 101 Essential Tips, Tricks & Hacks, 2nd Edition</td>
-            <td>Rachel Andrew</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The CSS Anthology: 101 Essential Tips, Tricks & Hacks, 2nd Edition</p>
+            <p>Rachel Andrew</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3261).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Art & Science Of JavaScript</td>
-            <td>Cameron Adams</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Art & Science Of JavaScript</p>
+            <p>Cameron Adams</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3262).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Ultimate CSS Reference</td>
-            <td>Tommy Olsson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Ultimate CSS Reference</p>
+            <p>Tommy Olsson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3263).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Everything you Know About CSS is Wrong!</td>
-            <td>Rachel Andrew</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Everything you Know About CSS is Wrong!</p>
+            <p>Rachel Andrew</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3264).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Build your Own Website The Right Way Using HTML & CSS: 2nd Edition</td>
-            <td>Ian Lloyd</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Build your Own Website The Right Way Using HTML & CSS: 2nd Edition</p>
+            <p>Ian Lloyd</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3265).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>HTML5 Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>HTML5 Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3266).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>C Sharp Programming</td>
-            <td>Wikibooks.org</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>C Sharp Programming</p>
+            <p>Wikibooks.org</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3267).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Jump Start Coffee Script</td>
-            <td>Earle Castledine</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Jump Start Coffee Script</p>
+            <p>Earle Castledine</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3268).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>ng book: The Complete Book on AngularJS</td>
-            <td>Ari Lerner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>ng book: The Complete Book on AngularJS</p>
+            <p>Ari Lerner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3269).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>CSS Master</td>
-            <td>Tiffany B. Brown</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>CSS Master</p>
+            <p>Tiffany B. Brown</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3270).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Researching UX: Analytics</td>
-            <td>Luke Hay</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Researching UX: Analytics</p>
+            <p>Luke Hay</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3271).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Designing UX: Prototyping</td>
-            <td>Ben Coleman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Designing UX: Prototyping</p>
+            <p>Ben Coleman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3272).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Google SEO for Bloggers</td>
-            <td>Joseph Hogue</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Google SEO for Bloggers</p>
+            <p>Joseph Hogue</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3273).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Basic Concepts in Data Structures</td>
-            <td>Shmuel Tomi Klein</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Basic Concepts in Data Structures</p>
+            <p>Shmuel Tomi Klein</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3274).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Clearly Visual Basic: Second Edition</td>
-            <td>Diane Zak</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Clearly Visual Basic: Second Edition</p>
+            <p>Diane Zak</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3275).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Android Game Programming For Dummies</td>
-            <td>Derek James</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Android Game Programming For Dummies</p>
+            <p>Derek James</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3276).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Working with NHibernate 3.0</td>
-            <td>Benjamin Perkins</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Working with NHibernate 3.0</p>
+            <p>Benjamin Perkins</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3277).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Adobe Edge Animate CC For Dummies</td>
-            <td>Michael Rohde</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Adobe Edge Animate CC For Dummies</p>
+            <p>Michael Rohde</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3278).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3279).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Big Data for Dummies</td>
-            <td>Judith Hurwitz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Big Data for Dummies</p>
+            <p>Judith Hurwitz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3280).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>LaTeX Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>LaTeX Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3281).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cognitive Computing and Big Data Analytics</td>
-            <td>Judith Hurwitz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cognitive Computing and Big Data Analytics</p>
+            <p>Judith Hurwitz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3282).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Exploring BeagleBone</td>
-            <td>Derek Molloy</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Exploring BeagleBone</p>
+            <p>Derek Molloy</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3283).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux Bible: Ninth Edition</td>
-            <td>Christopher Negus</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux Bible: Ninth Edition</p>
+            <p>Christopher Negus</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3284).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux Professional Institute Certification: 2, 2nd Edition</td>
-            <td>Christine Bresnahan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux Professional Institute Certification: 2, 2nd Edition</p>
+            <p>Christine Bresnahan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3285).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java All in One for Dummies: 5th Edition</td>
-            <td>Doug Lowe</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java All in One for Dummies: 5th Edition</p>
+            <p>Doug Lowe</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3286).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Programming for Android Developers: 2nd Edition</td>
-            <td>Barry Burd</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Programming for Android Developers: 2nd Edition</p>
+            <p>Barry Burd</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3287).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>MCSA Windows Server 2016: Study Guide</td>
-            <td>William Panek</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>MCSA Windows Server 2016: Study Guide</p>
+            <p>William Panek</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3288).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Game Coding Complete: Fourth Edition</td>
-            <td>Mike McShaffry</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Game Coding Complete: Fourth Edition</p>
+            <p>Mike McShaffry</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3289).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Level Design: Processes and Experiences</td>
-            <td>Christopher W. Totten</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Level Design: Processes and Experiences</p>
+            <p>Christopher W. Totten</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3290).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Internet Psychology: The Basics</td>
-            <td>Yair Amichai</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Internet Psychology: The Basics</p>
+            <p>Yair Amichai</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3291).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript for Sound Artists</td>
-            <td>William Turner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript for Sound Artists</p>
+            <p>William Turner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3292).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Making Deep Games: Designing Games with Meaning & Purpose</td>
-            <td>Doris C. Rusch </td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Making Deep Games: Designing Games with Meaning & Purpose</p>
+            <p>Doris C. Rusch </p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3293).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>UX Style Frameworks: Creating Collaborative Standards</td>
-            <td>Marti Gold</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>UX Style Frameworks: Creating Collaborative Standards</p>
+            <p>Marti Gold</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3294).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>History of Digital Games: Developments in Art, Design & Interaction</td>
-            <td>Andrew Williams</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>History of Digital Games: Developments in Art, Design & Interaction</p>
+            <p>Andrew Williams</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3295).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mining the Social Web</td>
-            <td>Matthew A. Russell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mining the Social Web</p>
+            <p>Matthew A. Russell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3296).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>3D Game Environments: 2nd Edition</td>
-            <td>Luke Ahearn</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>3D Game Environments: 2nd Edition</p>
+            <p>Luke Ahearn</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3297).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Python for Data Analysis</td>
-            <td>Wes McKinney</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Python for Data Analysis</p>
+            <p>Wes McKinney</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3298).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Joomla! 3 Boot Camp</td>
-            <td>Robin D. Turner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Joomla! 3 Boot Camp</p>
+            <p>Robin D. Turner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3299).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Fundamental 2D Game Programming with Java</td>
-            <td>Timothy Wright</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Fundamental 2D Game Programming with Java</p>
+            <p>Timothy Wright</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3300).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Programming Fundamentals</td>
-            <td>Premchand S. Nair</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Programming Fundamentals</p>
+            <p>Premchand S. Nair</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3301).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Statistical Computing in C++ and R</td>
-            <td>Randall L. Eubank</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Statistical Computing in C++ and R</p>
+            <p>Randall L. Eubank</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3302).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learn C on the Mac</td>
-            <td>Dave Mark</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learn C on the Mac</p>
+            <p>Dave Mark</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3303).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learn Objective C on the Mac</td>
-            <td>Mark Dalrymple</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learn Objective C on the Mac</p>
+            <p>Mark Dalrymple</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3304).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Pro OpenSolaris</td>
-            <td>Harry J. Foxwell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Pro OpenSolaris</p>
+            <p>Harry J. Foxwell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3305).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Pro ASP.NET Extensibility</td>
-            <td>Jorg Krause</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Pro ASP.NET Extensibility</p>
+            <p>Jorg Krause</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3306).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaFX 2.0: Introduction by Example</td>
-            <td>Carl Dea</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaFX 2.0: Introduction by Example</p>
+            <p>Carl Dea</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3307).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>CSS3 Solutions: Essential Techniques for CSS3 Developers</td>
-            <td>Marco Casario</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>CSS3 Solutions: Essential Techniques for CSS3 Developers</p>
+            <p>Marco Casario</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3308).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learn Java for Android Development: 2nd Edition</td>
-            <td>Jeff Friesen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learn Java for Android Development: 2nd Edition</p>
+            <p>Jeff Friesen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3309).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Multi Threaded Game Engine Design</td>
-            <td>Jonathan S. Harbour</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Multi Threaded Game Engine Design</p>
+            <p>Jonathan S. Harbour</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3310).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Fundamentals of Grid Computing</td>
-            <td>Frederic Magoules</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Fundamentals of Grid Computing</p>
+            <p>Frederic Magoules</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3311).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Linux Kernel Module Programming Guide</td>
-            <td>Peter Jay Salzman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Linux Kernel Module Programming Guide</p>
+            <p>Peter Jay Salzman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3312).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Voice over IP Security</td>
-            <td>Angelos D. Keromytis</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Voice over IP Security</p>
+            <p>Angelos D. Keromytis</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3313).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JSON at Work</td>
-            <td>Tom Marrs</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JSON at Work</p>
+            <p>Tom Marrs</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3314).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>SVG Essentials</td>
-            <td>J. David Eisenberg</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>SVG Essentials</p>
+            <p>J. David Eisenberg</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3315).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cloud Native Java</td>
-            <td>Josh Long</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cloud Native Java</p>
+            <p>Josh Long</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3316).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Mining Applications Using Artificial Adaptive Systems</td>
-            <td>William J. Tastle</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Mining Applications Using Artificial Adaptive Systems</p>
+            <p>William J. Tastle</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3317).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Sustainable Web Ecosystem Design</td>
-            <td>Gregory O Toole</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Sustainable Web Ecosystem Design</p>
+            <p>Gregory O Toole</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3318).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mining User Generated Content</td>
-            <td>Marie Francine Moens</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mining User Generated Content</p>
+            <p>Marie Francine Moens</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3319).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Architectures and Protocols for Secure Information Technology Infrastructures</td>
-            <td>Antonio Ruiz Martinez</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Architectures and Protocols for Secure Information Technology Infrastructures</p>
+            <p>Antonio Ruiz Martinez</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3320).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Emerging Technologies in Intelligent Applications for Image and Video Processing</td>
-            <td>V. Santhi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Emerging Technologies in Intelligent Applications for Image and Video Processing</p>
+            <p>V. Santhi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3321).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Applied Evolutionary Algorithms in Java</td>
-            <td>Robert Ghanea Hercock</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Applied Evolutionary Algorithms in Java</p>
+            <p>Robert Ghanea Hercock</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3322).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mining the WEB: Discovering Knowledge from Hypertext Data</td>
-            <td>Soumen Chakrabarti</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mining the WEB: Discovering Knowledge from Hypertext Data</p>
+            <p>Soumen Chakrabarti</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3323).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Android Recipes, a Problem, Solution Approach: 4rth Edition</td>
-            <td>Dave Smith</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Android Recipes, a Problem, Solution Approach: 4rth Edition</p>
+            <p>Dave Smith</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3324).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript Essentials for SAP ABAP Developers</td>
-            <td>Rehan Zaidi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript Essentials for SAP ABAP Developers</p>
+            <p>Rehan Zaidi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3325).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning WSO2 ESB: 1st Edition</td>
-            <td>Kasun Indrasiri</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning WSO2 ESB: 1st Edition</p>
+            <p>Kasun Indrasiri</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3326).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Pro HTML5 with CSS, JavaScript, and Multimedia</td>
-            <td>Mark J. Collins</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Pro HTML5 with CSS, JavaScript, and Multimedia</p>
+            <p>Mark J. Collins</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3327).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning Functional JavaScript</td>
-            <td>Anto Aravinth</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning Functional JavaScript</p>
+            <p>Anto Aravinth</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3328).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Processing Big Data with Azure HDInsight</td>
-            <td>Vinit Yadav</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Processing Big Data with Azure HDInsight</p>
+            <p>Vinit Yadav</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3329).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Machine Learning and Image Interpretation</td>
-            <td>Terry Caelli</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Machine Learning and Image Interpretation</p>
+            <p>Terry Caelli</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3330).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Machine Learning Models and Algorithms for Big Data Classification</td>
-            <td>Shan Suthaharan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Machine Learning Models and Algorithms for Big Data Classification</p>
+            <p>Shan Suthaharan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3331).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Encyclopedia of Machine Learning and Data Mining: 2nd Edition</td>
-            <td>Claude Sammut</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Encyclopedia of Machine Learning and Data Mining: 2nd Edition</p>
+            <p>Claude Sammut</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3332).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Using SVG with CSS3 and HTML5: Vector Graphics for Web Design</td>
-            <td>Amelia Bellamy Royds</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Using SVG with CSS3 and HTML5: Vector Graphics for Web Design</p>
+            <p>Amelia Bellamy Royds</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3333).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Science with Java</td>
-            <td>Michael R. Brzustowicz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Science with Java</p>
+            <p>Michael R. Brzustowicz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3334).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mobile App Development with Ionic 2</td>
-            <td>Chris Griffith</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mobile App Development with Ionic 2</p>
+            <p>Chris Griffith</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3335).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Practical Modern JavaScript</td>
-            <td>Nicolas Bevacqua</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Practical Modern JavaScript</p>
+            <p>Nicolas Bevacqua</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3336).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Designing for Happiness: The User & Business benefits of positive design</td>
-            <td>Pamela Pavliscak</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Designing for Happiness: The User & Business benefits of positive design</p>
+            <p>Pamela Pavliscak</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3337).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Prototyping for Designers: Developing the Best Digital & Physical Products</td>
-            <td>Kathryn McElroy</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Prototyping for Designers: Developing the Best Digital & Physical Products</p>
+            <p>Kathryn McElroy</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3338).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Creating Web Animations: Bringing Your UIs to Life</td>
-            <td>Kirupa Chinnathambi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Creating Web Animations: Bringing Your UIs to Life</p>
+            <p>Kirupa Chinnathambi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3339).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Working with Static Sites: Bringing the Power of Simple to Modern Websites</td>
-            <td>Raymond Camden</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Working with Static Sites: Bringing the Power of Simple to Modern Websites</p>
+            <p>Raymond Camden</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3340).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>C# 7.0 Pocket Reference: Instant Help for C# 7.0 Programmers</td>
-            <td>Joseph Albahari</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>C# 7.0 Pocket Reference: Instant Help for C# 7.0 Programmers</p>
+            <p>Joseph Albahari</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3341).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>How to Cheat in Blender 2.7x</td>
-            <td>Alan Thorn</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>How to Cheat in Blender 2.7x</p>
+            <p>Alan Thorn</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3342).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>2D to VR with Unity5 & Google Cardboard</td>
-            <td>Roberto Dillon</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>2D to VR with Unity5 & Google Cardboard</p>
+            <p>Roberto Dillon</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3343).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Procedural Generation in Game Design</td>
-            <td>Tanya X. Short</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Procedural Generation in Game Design</p>
+            <p>Tanya X. Short</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3344).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction to Networking</td>
-            <td>Charles Severance</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction to Networking</p>
+            <p>Charles Severance</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3345).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Object Oriented PHP Best Practices</td>
-            <td>Ikram Hawramani</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Object Oriented PHP Best Practices</p>
+            <p>Ikram Hawramani</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3346).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>How to use Regular Expressions in JavaScript</td>
-            <td>Van Nguyen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>How to use Regular Expressions in JavaScript</p>
+            <p>Van Nguyen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3347).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Artificial Intelligence Timeline: Feb 2017</td>
-            <td>Singularity Now!</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Artificial Intelligence Timeline: Feb 2017</p>
+            <p>Singularity Now!</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3348).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Coding Interview: Coding Interview Solution</td>
-            <td>Mr Kotiyana</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Coding Interview: Coding Interview Solution</p>
+            <p>Mr Kotiyana</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3349).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>RedHat and Centos Quick Notes</td>
-            <td>Shiv Kumar Goyal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>RedHat and Centos Quick Notes</p>
+            <p>Shiv Kumar Goyal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3350).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Top 50 Node.js Interview Questions & Answers</td>
-            <td>Knowledge Powerhouse</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Top 50 Node.js Interview Questions & Answers</p>
+            <p>Knowledge Powerhouse</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3351).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>SEO Basics: 1st Edition</td>
-            <td>Eliel Carvalho</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>SEO Basics: 1st Edition</p>
+            <p>Eliel Carvalho</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3352).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Game Maker: Studio Book RPG Design & Coding</td>
-            <td>Anonymous</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Game Maker: Studio Book RPG Design & Coding</p>
+            <p>Anonymous</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3353).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>C#: Programming Basics for Absolute Beginners</td>
-            <td>Nathan Clark</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>C#: Programming Basics for Absolute Beginners</p>
+            <p>Nathan Clark</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3354).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>WordPress: Beginner's Guide to Mastering WordPress</td>
-            <td>Anonymous</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>WordPress: Beginner's Guide to Mastering WordPress</p>
+            <p>Anonymous</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3355).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>WordPress: Beginners Guide to Start a WordPress Blog or Website from Scratch</td>
-            <td>Arnold de Vries</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>WordPress: Beginners Guide to Start a WordPress Blog or Website from Scratch</p>
+            <p>Arnold de Vries</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3356).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Game Development with Swift</td>
-            <td>Stephen Haney</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Game Development with Swift</p>
+            <p>Stephen Haney</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3357).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Problem Solving in Data Structures & Algorithms Using C++: 1st Edition</td>
-            <td>Hemant Jain</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Problem Solving in Data Structures & Algorithms Using C++: 1st Edition</p>
+            <p>Hemant Jain</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3358).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>GPU Zen: Advanced Rendering Techniques</td>
-            <td>Wolfgang Engel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>GPU Zen: Advanced Rendering Techniques</p>
+            <p>Wolfgang Engel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3359).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Oracle Application Express 5.1: Basics & Beyond</td>
-            <td>Riaz Ahmed</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Oracle Application Express 5.1: Basics & Beyond</p>
+            <p>Riaz Ahmed</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3360).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>SEO Dictionary: Complete Glossary ofSearch Engine Optimization Terms</td>
-            <td>shivani karwal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>SEO Dictionary: Complete Glossary ofSearch Engine Optimization Terms</p>
+            <p>shivani karwal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3361).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Utilizing IFTTT: Second Edition</td>
-            <td>Matt Cole</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Utilizing IFTTT: Second Edition</p>
+            <p>Matt Cole</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3362).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>C++: Learn C++ Like a Boss</td>
-            <td>Isaac D. Cody</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>C++: Learn C++ Like a Boss</p>
+            <p>Isaac D. Cody</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3363).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript: 2 Books in 1</td>
-            <td>Charlie Masterson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript: 2 Books in 1</p>
+            <p>Charlie Masterson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3364).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learn Java: The Complete Beginner's Guide To Learn Java Programming</td>
-            <td>Bruce Berke</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learn Java: The Complete Beginner's Guide To Learn Java Programming</p>
+            <p>Bruce Berke</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3365).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning Angular 2 with Typescript</td>
-            <td>Greg Lim</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning Angular 2 with Typescript</p>
+            <p>Greg Lim</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3366).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Neural Networks By Examples Using Matlab</td>
-            <td>F. Marques</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Neural Networks By Examples Using Matlab</p>
+            <p>F. Marques</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3367).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript: Advanced Guide to Programming Code with JavaScript</td>
-            <td>Charlie Masterson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript: Advanced Guide to Programming Code with JavaScript</p>
+            <p>Charlie Masterson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3368).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript: The Ultimate Beginner's Guide to Learn JS Effectively</td>
-            <td>Daniel Jones</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript: The Ultimate Beginner's Guide to Learn JS Effectively</p>
+            <p>Daniel Jones</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3369).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Neural Networks Using Matlab: Cluster Analysis & Classification</td>
-            <td>K. Taylor</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Neural Networks Using Matlab: Cluster Analysis & Classification</p>
+            <p>K. Taylor</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3370).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux Mint 18: Guide for Beginners</td>
-            <td>William Rowley</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux Mint 18: Guide for Beginners</p>
+            <p>William Rowley</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3371).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Neural Networks for Complete Beginners</td>
-            <td>Mark Smart</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Neural Networks for Complete Beginners</p>
+            <p>Mark Smart</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3372).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>TOR: Exactly How to Remain Invisible on the Anonymous Deep Web</td>
-            <td>Joshua Cody</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>TOR: Exactly How to Remain Invisible on the Anonymous Deep Web</p>
+            <p>Joshua Cody</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3373).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript: Tips and Tricks to Learn JS Quickly and effectively</td>
-            <td>Daniel Jones</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript: Tips and Tricks to Learn JS Quickly and effectively</p>
+            <p>Daniel Jones</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3374).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>WordPress SEO 2017</td>
-            <td>Dr. Andy Williams</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>WordPress SEO 2017</p>
+            <p>Dr. Andy Williams</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3375).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows 10: The ultimate Windows 10 user guide and manual!</td>
-            <td>Anonymous</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Windows 10: The ultimate Windows 10 user guide and manual!</p>
+            <p>Anonymous</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3376).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Neural Networks: Applications & Examples Using Matlab</td>
-            <td>J. Smith</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Neural Networks: Applications & Examples Using Matlab</p>
+            <p>J. Smith</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3377).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Big Data Analytics With Neural Networks Using Matlab</td>
-            <td>J. Smith</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Big Data Analytics With Neural Networks Using Matlab</p>
+            <p>J. Smith</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3378).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Neural Network Architectures: Examples Using Matlab</td>
-            <td>J. Smith</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Neural Network Architectures: Examples Using Matlab</p>
+            <p>J. Smith</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3379).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>How to Erase Yourself From The Internet Completely</td>
-            <td>Mohan J. Menon</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>How to Erase Yourself From The Internet Completely</p>
+            <p>Mohan J. Menon</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3380).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Woo Commerce Tutorial: How to set it up on your website?</td>
-            <td>Sunny Chanday</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Woo Commerce Tutorial: How to set it up on your website?</p>
+            <p>Sunny Chanday</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3381).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>WordPress Security Made Easy</td>
-            <td>Niko Guruli</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>WordPress Security Made Easy</p>
+            <p>Niko Guruli</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3382).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Game Engine Architecture</td>
-            <td>Jason Gregory</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Game Engine Architecture</p>
+            <p>Jason Gregory</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3383).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Game Engine Gems 2</td>
-            <td>Eric Lengyel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Game Engine Gems 2</p>
+            <p>Eric Lengyel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3384).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>On the Way to Fun</td>
-            <td>Roberto Dillon</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>On the Way to Fun</p>
+            <p>Roberto Dillon</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3385).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>IBM i Security Administration and Compliance: 2nd Edition</td>
-            <td>Carol Woodbury</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>IBM i Security Administration and Compliance: 2nd Edition</p>
+            <p>Carol Woodbury</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3386).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Game Programming Gems 4</td>
-            <td>Andrew kirmse</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Game Programming Gems 4</p>
+            <p>Andrew kirmse</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3387).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>6 JavaScript Projects</td>
-            <td>SitePoint</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>6 JavaScript Projects</p>
+            <p>SitePoint</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3388).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cross Platform Game Programming</td>
-            <td>Steven Goodwin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cross Platform Game Programming</p>
+            <p>Steven Goodwin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3389).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>UNIX/LINUX Survival Guide</td>
-            <td>Erik M. Keller</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>UNIX/LINUX Survival Guide</p>
+            <p>Erik M. Keller</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3390).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Visual Basic 2005 by Practice</td>
-            <td>Mike Mostafavi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Visual Basic 2005 by Practice</p>
+            <p>Mike Mostafavi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3391).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>David Perry on Game Design: A Brainstorming Toolbox</td>
-            <td>David Perry</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>David Perry on Game Design: A Brainstorming Toolbox</p>
+            <p>David Perry</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3392).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>A Concise Introduction to Image Processing using C++</td>
-            <td>Meiqing Wang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>A Concise Introduction to Image Processing using C++</p>
+            <p>Meiqing Wang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3393).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Frontiers in Artificial Intelligence and Applications: Volume 170</td>
-            <td>L.C. Jain</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Frontiers in Artificial Intelligence and Applications: Volume 170</p>
+            <p>L.C. Jain</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3394).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Frontiers in Artificial Intelligence and Applications: Volume 171</td>
-            <td>J. Breuker</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Frontiers in Artificial Intelligence and Applications: Volume 171</p>
+            <p>J. Breuker</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3395).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Enterprise Java Development on a Budget</td>
-            <td>Brian Sam</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Enterprise Java Development on a Budget</p>
+            <p>Brian Sam</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3396).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning XSLT 2.0: From Novice to Professional</td>
-            <td>Jeni Tennison</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning XSLT 2.0: From Novice to Professional</p>
+            <p>Jeni Tennison</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3397).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning SUSE Linux: Second Edition</td>
-            <td>Keir Thomas</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning SUSE Linux: Second Edition</p>
+            <p>Keir Thomas</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3398).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Physics for Game Programmers</td>
-            <td>Grant Palmer</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Physics for Game Programmers</p>
+            <p>Grant Palmer</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3399).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Expert Spring MVC and Web Flow</td>
-            <td>Seth Ladd</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Expert Spring MVC and Web Flow</p>
+            <p>Seth Ladd</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3400).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning Java SE 6 Platform: From Novice to Professional</td>
-            <td>Jeff Friesen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning Java SE 6 Platform: From Novice to Professional</p>
+            <p>Jeff Friesen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3401).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Pro Web 2.0 Mashups: Remixing Data and Web Services</td>
-            <td>Raymond Yee</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Pro Web 2.0 Mashups: Remixing Data and Web Services</p>
+            <p>Raymond Yee</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3402).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Neural Networks in Healthcare: Potential and Challenges</td>
-            <td>Rezaul Begg</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Neural Networks in Healthcare: Potential and Challenges</p>
+            <p>Rezaul Begg</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3403).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mathematics for Game developers</td>
-            <td>Christopher Tremblay</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mathematics for Game developers</p>
+            <p>Christopher Tremblay</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3404).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Software Engineering for Game Developers</td>
-            <td>John P. Flynt</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Software Engineering for Game Developers</p>
+            <p>John P. Flynt</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3405).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Programming Role Playing Games with Direct X</td>
-            <td>Jim Adams</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Programming Role Playing Games with Direct X</p>
+            <p>Jim Adams</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3406).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Game Interface Design</td>
-            <td>Brent Fox</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Game Interface Design</p>
+            <p>Brent Fox</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3407).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Agile Data Science</td>
-            <td>Russell Jurney</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Agile Data Science</p>
+            <p>Russell Jurney</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3408).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Network Know How: An Essential Guide for the Accidental Admin</td>
-            <td>John Ross</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Network Know How: An Essential Guide for the Accidental Admin</p>
+            <p>John Ross</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3409).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>An Introduction to Logic Circuit Testing</td>
-            <td>Parag K. Lala</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>An Introduction to Logic Circuit Testing</p>
+            <p>Parag K. Lala</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3410).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Deep Learning with Keras</td>
-            <td>Antonio Gulli</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Deep Learning with Keras</p>
+            <p>Antonio Gulli</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3411).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Renderman Shading Language Guide</td>
-            <td>Rudy Cortes</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Renderman Shading Language Guide</p>
+            <p>Rudy Cortes</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3412).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning Math Concepts for Game Developers</td>
-            <td>John P. Flynt</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning Math Concepts for Game Developers</p>
+            <p>John P. Flynt</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3413).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Beginning DirectX 10 Game Programming</td>
-            <td>Wendy Jones</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Beginning DirectX 10 Game Programming</p>
+            <p>Wendy Jones</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3414).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Picture Yourself Building a Website with Joomla! 1.6</td>
-            <td>Robin D. Turner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Picture Yourself Building a Website with Joomla! 1.6</p>
+            <p>Robin D. Turner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3415).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>6net: An IPv6 Deployment Guide</td>
-            <td>Martin Dunmore</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>6net: An IPv6 Deployment Guide</p>
+            <p>Martin Dunmore</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3416).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cooperative Task-Oriented Computing: Algorithms and Complexity</td>
-            <td>Chryssis Georgiou</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cooperative Task-Oriented Computing: Algorithms and Complexity</p>
+            <p>Chryssis Georgiou</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3417).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computational Modeling and Simulation of Intellect</td>
-            <td>Boris Igelnik</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computational Modeling and Simulation of Intellect</p>
+            <p>Boris Igelnik</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3418).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Speech Technology and Text Mining in Medicine & Health Care</td>
-            <td>De Gruyter</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Speech Technology and Text Mining in Medicine & Health Care</p>
+            <p>De Gruyter</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3419).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Querying a Web of Linked Data Foundations & Query Execution</td>
-            <td>Olaf Hartig</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Querying a Web of Linked Data Foundations & Query Execution</p>
+            <p>Olaf Hartig</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3420).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Deep Learning with TensorFlow</td>
-            <td>Giancarlo Zaccone</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Deep Learning with TensorFlow</p>
+            <p>Giancarlo Zaccone</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3421).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Power Pivot and Power BI</td>
-            <td>Rob Collie</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Power Pivot and Power BI</p>
+            <p>Rob Collie</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3422).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Machine Learning in Action</td>
-            <td>Peter Harrington</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Machine Learning in Action</p>
+            <p>Peter Harrington</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3423).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>OAuth 2 in Action</td>
-            <td>Justin Richer</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>OAuth 2 in Action</p>
+            <p>Justin Richer</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3424).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Serverless Architectures on AWS</td>
-            <td>Peter Sbarski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Serverless Architectures on AWS</p>
+            <p>Peter Sbarski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3425).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Synchronization in Complex Networks</td>
-            <td>Xin Biao Lu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Synchronization in Complex Networks</p>
+            <p>Xin Biao Lu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3426).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Maximum Consensus Problem: Recent Algorithmic Advances</td>
-            <td>Tat Jun Chin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Maximum Consensus Problem: Recent Algorithmic Advances</p>
+            <p>Tat Jun Chin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3427).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Neural Network Methods</td>
-            <td>Yoav Goldberg</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Neural Network Methods</p>
+            <p>Yoav Goldberg</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3428).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Body Tracking in Healthcare</td>
-            <td>Kenton O Hara</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Body Tracking in Healthcare</p>
+            <p>Kenton O Hara</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3429).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Synthesis Lectures on Human Language Technologies</td>
-            <td>Graeme Hirst</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Synthesis Lectures on Human Language Technologies</p>
+            <p>Graeme Hirst</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3430).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Differential Privacy: From Theory to Practice</td>
-            <td>Ninghui Li</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Differential Privacy: From Theory to Practice</p>
+            <p>Ninghui Li</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3431).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Designing for Gesture and Tangible Interaction</td>
-            <td>Mary Lou Maher</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Designing for Gesture and Tangible Interaction</p>
+            <p>Mary Lou Maher</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3432).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mathematical Basics of Motion and Deformation in Computer Graphics: 2nd Edition</td>
-            <td>Ken Anjyo</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mathematical Basics of Motion and Deformation in Computer Graphics: 2nd Edition</p>
+            <p>Ken Anjyo</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3433).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Extreme Value Theory Based Methods for Visual Recognition</td>
-            <td>Walter J. Scheirer</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Extreme Value Theory Based Methods for Visual Recognition</p>
+            <p>Walter J. Scheirer</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3434).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Design of Visualizations for Human Information Interaction</td>
-            <td>Kamran Sedig</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Design of Visualizations for Human Information Interaction</p>
+            <p>Kamran Sedig</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3435).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Geometric and Discrete Path Planning for Interactive Virtual Worlds</td>
-            <td>Marcelo Kallmann</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Geometric and Discrete Path Planning for Interactive Virtual Worlds</p>
+            <p>Marcelo Kallmann</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3436).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Automatic Text Simplification</td>
-            <td>Horacio Saggion</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Automatic Text Simplification</p>
+            <p>Horacio Saggion</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3437).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Trustworthy Policies for Distributed Repositories</td>
-            <td>Reagan W. Moore</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Trustworthy Policies for Distributed Repositories</p>
+            <p>Reagan W. Moore</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3438).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Internet of Things</td>
-            <td>Emanuel Delgado</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Internet of Things</p>
+            <p>Emanuel Delgado</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3439).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Angular 4: Pocket Primer</td>
-            <td>Oswald Campesato</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Angular 4: Pocket Primer</p>
+            <p>Oswald Campesato</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3440).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Programming Essentials using Java: A Game Application Approach </td>
-            <td>William McAllister</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Programming Essentials using Java: A Game Application Approach </p>
+            <p>William McAllister</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3441).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Web Application Development with AngularJS</td>
-            <td>Pawel Kozlowski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Web Application Development with AngularJS</p>
+            <p>Pawel Kozlowski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3442).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Node Web Development: Second Edition</td>
-            <td>David Herron</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Node Web Development: Second Edition</p>
+            <p>David Herron</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3443).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Kali Linux 2: Windows Penetration Testing</td>
-            <td>Wolf Halton</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Kali Linux 2: Windows Penetration Testing</p>
+            <p>Wolf Halton</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3444).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Citrix XenApp Performance Essentials</td>
-            <td>Luca Dentella</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Citrix XenApp Performance Essentials</p>
+            <p>Luca Dentella</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3445).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Gamification with Moodle</td>
-            <td>Natalie Denmeade</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Gamification with Moodle</p>
+            <p>Natalie Denmeade</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3446).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning NServiceBus Sagas</td>
-            <td>Rich Helton</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning NServiceBus Sagas</p>
+            <p>Rich Helton</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3447).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Java for Data Science</td>
-            <td>Alexey Grigorev</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Java for Data Science</p>
+            <p>Alexey Grigorev</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3448).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Web Application Development with R Using Shiny: Second Edition</td>
-            <td>Chris Beeley</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Web Application Development with R Using Shiny: Second Edition</p>
+            <p>Chris Beeley</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3449).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Troubleshooting System Center Configuration Manager</td>
-            <td>Peter Egerton</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Troubleshooting System Center Configuration Manager</p>
+            <p>Peter Egerton</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3450).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Extending Ansible</td>
-            <td>Rishabh Das</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Extending Ansible</p>
+            <p>Rishabh Das</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3451).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Alfresco for Administrators</td>
-            <td>Vandana Pal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Alfresco for Administrators</p>
+            <p>Vandana Pal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3452).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Building an RPG with Unreal 4.x</td>
-            <td>Steve Santello</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Building an RPG with Unreal 4.x</p>
+            <p>Steve Santello</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3453).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Creating Stunning Dashboards with QlikView</td>
-            <td>Julian Villafuerte</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Creating Stunning Dashboards with QlikView</p>
+            <p>Julian Villafuerte</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3454).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning ArcGIS for Desktop</td>
-            <td>Daniela Cristiana Docan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning ArcGIS for Desktop</p>
+            <p>Daniela Cristiana Docan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3455).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Citrix XenApp 7.x Performance Essentials</td>
-            <td>Luca Dentella</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Citrix XenApp 7.x Performance Essentials</p>
+            <p>Luca Dentella</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3456).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Using CiviCRM: Second Edition</td>
-            <td>Erik Hommel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Using CiviCRM: Second Edition</p>
+            <p>Erik Hommel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3457).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mathematica Data Visualization</td>
-            <td>Nazmus Saquib</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mathematica Data Visualization</p>
+            <p>Nazmus Saquib</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3458).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>concrete5 for Developers</td>
-            <td>Sufyan bin Uzayr</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>concrete5 for Developers</p>
+            <p>Sufyan bin Uzayr</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3459).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Apache Mahout Clustering Designs</td>
-            <td>Ashish Gupta</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Apache Mahout Clustering Designs</p>
+            <p>Ashish Gupta</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3460).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Redis Applied Design Patterns</td>
-            <td>Arun Chinnachamy</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Redis Applied Design Patterns</p>
+            <p>Arun Chinnachamy</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3461).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Sass and Compass Designer's Cookbook</td>
-            <td>Bass Jobsen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Sass and Compass Designer's Cookbook</p>
+            <p>Bass Jobsen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3462).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Magento 2 Administration</td>
-            <td>Bret Williams</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Magento 2 Administration</p>
+            <p>Bret Williams</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3463).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Python Machine Learning Blueprints</td>
-            <td>Alexander T. Combs</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Python Machine Learning Blueprints</p>
+            <p>Alexander T. Combs</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3464).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Getting Started with React</td>
-            <td>Doel Sengupta</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Getting Started with React</p>
+            <p>Doel Sengupta</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3465).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Android Game Development with Unity</td>
-            <td>Siddharth Shekar</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Android Game Development with Unity</p>
+            <p>Siddharth Shekar</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3466).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Unity 3D UI Essentials</td>
-            <td>Simon Jackson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Unity 3D UI Essentials</p>
+            <p>Simon Jackson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3467).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Leaflet.js Essentials</td>
-            <td>Paul Crickard III</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Leaflet.js Essentials</p>
+            <p>Paul Crickard III</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3468).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning JavaScript Data Structures and Algorithms</td>
-            <td>Loiane Groner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning JavaScript Data Structures and Algorithms</p>
+            <p>Loiane Groner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3469).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>jQuery Mobile Web Development Essentials: Third Edition</td>
-            <td>Raymond Camden</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>jQuery Mobile Web Development Essentials: Third Edition</p>
+            <p>Raymond Camden</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3470).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Unity 2D Game Development by Example</td>
-            <td>Venita Pereira</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Unity 2D Game Development by Example</p>
+            <p>Venita Pereira</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3471).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Building a Web Application with PHP and MariaDB: A Reference Guide</td>
-            <td>Sai Srinivas Sriparasa</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Building a Web Application with PHP and MariaDB: A Reference Guide</p>
+            <p>Sai Srinivas Sriparasa</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3472).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Chef Essentials</td>
-            <td>John Ewart</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Chef Essentials</p>
+            <p>John Ewart</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3473).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mockito Essentials</td>
-            <td>Sujoy Acharya</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mockito Essentials</p>
+            <p>Sujoy Acharya</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3474).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Apache Maven 3</td>
-            <td>Prabath Siriwardena</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Apache Maven 3</p>
+            <p>Prabath Siriwardena</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3475).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Highcharts Essentials</td>
-            <td>Bilal Shahid</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Highcharts Essentials</p>
+            <p>Bilal Shahid</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3476).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Arduino Home Automation Projects</td>
-            <td>Marco Schwartz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Arduino Home Automation Projects</p>
+            <p>Marco Schwartz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3477).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Arduino Networking</td>
-            <td>Marco Schwartz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Arduino Networking</p>
+            <p>Marco Schwartz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3478).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Maven for Eclipse</td>
-            <td>Sanjay Shah</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Maven for Eclipse</p>
+            <p>Sanjay Shah</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3479).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Maven Build Customization</td>
-            <td>Lorenzo Anardu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Maven Build Customization</p>
+            <p>Lorenzo Anardu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3480).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>OpenFlow Cookbook</td>
-            <td>Kingston Smiler. S</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>OpenFlow Cookbook</p>
+            <p>Kingston Smiler. S</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3481).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>PhoneGap and AngularJS for Cross platform Development</td>
-            <td>Yuxian</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>PhoneGap and AngularJS for Cross platform Development</p>
+            <p>Yuxian</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3482).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>PostgreSQL Administration Essentials</td>
-            <td>Hans Jurgen Schonig</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>PostgreSQL Administration Essentials</p>
+            <p>Hans Jurgen Schonig</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3483).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Wireshark</td>
-            <td>Charit Mishra</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Wireshark</p>
+            <p>Charit Mishra</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3484).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Programming the BeagleBone</td>
-            <td>Yogesh Chavan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Programming the BeagleBone</p>
+            <p>Yogesh Chavan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3485).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cocos2D Game Development Essentials</td>
-            <td>Ben Trengrove</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cocos2D Game Development Essentials</p>
+            <p>Ben Trengrove</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3486).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Getting Started with Ionic</td>
-            <td>Rahat Khanna</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Getting Started with Ionic</p>
+            <p>Rahat Khanna</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3487).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Entity Framework</td>
-            <td>Rahul Rajat Singh</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Entity Framework</p>
+            <p>Rahul Rajat Singh</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3488).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Unity 5.x Cookbook</td>
-            <td>Matt Smith</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Unity 5.x Cookbook</p>
+            <p>Matt Smith</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3489).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Fast Data Processing with Spark: Second Edition</td>
-            <td>Krishna Sankar</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Fast Data Processing with Spark: Second Edition</p>
+            <p>Krishna Sankar</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3490).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Ceph Cookbook</td>
-            <td>Karan Singh</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Ceph Cookbook</p>
+            <p>Karan Singh</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3491).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning iOS 8 Game Development Using Swift</td>
-            <td>Siddharth Shekar</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning iOS 8 Game Development Using Swift</p>
+            <p>Siddharth Shekar</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3492).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>CORS(Cross Origin Resource Sharing) Essentials</td>
-            <td>Rajesh Gunasundaram</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>CORS(Cross Origin Resource Sharing) Essentials</p>
+            <p>Rajesh Gunasundaram</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3493).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Unreal Engine Physics Essentials</td>
-            <td>Katax Emperore</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Unreal Engine Physics Essentials</p>
+            <p>Katax Emperore</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3494).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>OpenStack for Architects</td>
-            <td>Michael Solberg</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>OpenStack for Architects</p>
+            <p>Michael Solberg</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3495).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Go Programming</td>
-            <td>Vladimir Vivien</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Go Programming</p>
+            <p>Vladimir Vivien</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3496).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning RSLogix 5000 Programming</td>
-            <td>Austin Scott</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning RSLogix 5000 Programming</p>
+            <p>Austin Scott</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3497).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>NHibernate 4.x Cookbook: Second Edition</td>
-            <td>Gunnar Liljas</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>NHibernate 4.x Cookbook: Second Edition</p>
+            <p>Gunnar Liljas</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3498).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering ArcGIS Server Development with JavaScript</td>
-            <td>Ken Doman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering ArcGIS Server Development with JavaScript</p>
+            <p>Ken Doman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3499).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Machine Learning in Java</td>
-            <td>Bostjan Kaluza</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Machine Learning in Java</p>
+            <p>Bostjan Kaluza</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3500).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Google App Engine</td>
-            <td>Mohsin Shafique Hijazee</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Google App Engine</p>
+            <p>Mohsin Shafique Hijazee</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3501).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Phalcon Cookbook</td>
-            <td>David Schissler</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Phalcon Cookbook</p>
+            <p>David Schissler</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3502).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Creating Development Environments with Vagrant: 2nd Edition</td>
-            <td>Michael Peacock</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Creating Development Environments with Vagrant: 2nd Edition</p>
+            <p>Michael Peacock</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3503).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Getting Started with Unity 5.x 2D Game Development</td>
-            <td>Francesco Sapio</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Getting Started with Unity 5.x 2D Game Development</p>
+            <p>Francesco Sapio</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3504).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Unreal Engine Game Development</td>
-            <td>Joanna Lee</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Unreal Engine Game Development</p>
+            <p>Joanna Lee</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3505).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering KVM Virtualization</td>
-            <td>Humble Devassy Chirammal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering KVM Virtualization</p>
+            <p>Humble Devassy Chirammal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3506).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Practical Machine Learning</td>
-            <td>Sunila Gollapudi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Practical Machine Learning</p>
+            <p>Sunila Gollapudi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3507).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Unity iOS Game Development</td>
-            <td>Kyle Langley</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Unity iOS Game Development</p>
+            <p>Kyle Langley</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3508).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Node.js for .NET Developers</td>
-            <td>Harry Cummings</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Node.js for .NET Developers</p>
+            <p>Harry Cummings</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3509).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java for Data Science</td>
-            <td>Richard M. Reese</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java for Data Science</p>
+            <p>Richard M. Reese</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3510).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>LLVM Essentials</td>
-            <td>Suyog Sarda</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>LLVM Essentials</p>
+            <p>Suyog Sarda</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3511).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>LibGDX Game Development By Example</td>
-            <td>James Cook</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>LibGDX Game Development By Example</p>
+            <p>James Cook</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3512).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Python Game Programming By Example</td>
-            <td>Alejandro Rodas de Paz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Python Game Programming By Example</p>
+            <p>Alejandro Rodas de Paz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3513).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Building a Recommendation Engine with Scala</td>
-            <td>Saleem Ansari</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Building a Recommendation Engine with Scala</p>
+            <p>Saleem Ansari</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3514).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Xamarin 4 By Example</td>
-            <td>Matteo Bortolu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Xamarin 4 By Example</p>
+            <p>Matteo Bortolu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3515).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Building a Pentesting Lab for Wireless Networks</td>
-            <td>Vyacheslav Fadyushin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Building a Pentesting Lab for Wireless Networks</p>
+            <p>Vyacheslav Fadyushin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3516).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Red Hat Enterprise Linux Troubleshooting Guide</td>
-            <td>Benjamin Cane</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Red Hat Enterprise Linux Troubleshooting Guide</p>
+            <p>Benjamin Cane</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3517).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Clojure High Performance Programming: Second Edition</td>
-            <td>Shantanu Kumar</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Clojure High Performance Programming: Second Edition</p>
+            <p>Shantanu Kumar</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3518).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>iOS Game Development By Example</td>
-            <td>Samanyu Chopra</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>iOS Game Development By Example</p>
+            <p>Samanyu Chopra</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3519).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java EE Development with Eclipse: Second Edition</td>
-            <td>Ram Kulkarni</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java EE Development with Eclipse: Second Edition</p>
+            <p>Ram Kulkarni</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3520).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning JavaScript Data Structures and Algorithms: Second Edition</td>
-            <td>Loiane Groner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning JavaScript Data Structures and Algorithms: Second Edition</p>
+            <p>Loiane Groner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3521).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Android Sensor Programming By Example</td>
-            <td>Varun Nagpal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Android Sensor Programming By Example</p>
+            <p>Varun Nagpal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3522).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>OpenStack Trove Essentials</td>
-            <td>Alok Shrivastwa</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>OpenStack Trove Essentials</p>
+            <p>Alok Shrivastwa</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3523).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Hybrid Mobile Development with Ionic</td>
-            <td>Gaurav Saini</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Hybrid Mobile Development with Ionic</p>
+            <p>Gaurav Saini</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3524).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Android Application Development</td>
-            <td>Raimon Rafols Montane</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Android Application Development</p>
+            <p>Raimon Rafols Montane</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3525).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Practical Linux Security Cookbook</td>
-            <td>Tajinder Kalsi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Practical Linux Security Cookbook</p>
+            <p>Tajinder Kalsi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3526).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Xamarin.Forms</td>
-            <td>Ed Snider</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Xamarin.Forms</p>
+            <p>Ed Snider</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3527).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning C# by Developing Games with Unity 5.x: 2nd Edition</td>
-            <td>Greg Lukosek</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning C# by Developing Games with Unity 5.x: 2nd Edition</p>
+            <p>Greg Lukosek</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3528).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linux Networking Cookbook</td>
-            <td>Gregory Boyce</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linux Networking Cookbook</p>
+            <p>Gregory Boyce</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3529).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Building a 3D Game with LibGDX</td>
-            <td>Sebastian Di Giuseppe</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Building a 3D Game with LibGDX</p>
+            <p>Sebastian Di Giuseppe</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3530).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Bootstrap By Example</td>
-            <td>Silvio Moreto</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Bootstrap By Example</p>
+            <p>Silvio Moreto</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3531).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>D Web Development</td>
-            <td>Kai Nacke</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>D Web Development</p>
+            <p>Kai Nacke</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3532).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Python Geospatial Development: Third Edition</td>
-            <td>Erik Westra</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Python Geospatial Development: Third Edition</p>
+            <p>Erik Westra</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3533).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Elastic search for Hadoop</td>
-            <td>Vishal Shukla</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Elastic search for Hadoop</p>
+            <p>Vishal Shukla</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3534).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>QGIS Blueprints</td>
-            <td>Ben Mearns</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>QGIS Blueprints</p>
+            <p>Ben Mearns</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3535).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Getting Started with Microsoft System Center Operations Manager</td>
-            <td>Kevin Greene</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Getting Started with Microsoft System Center Operations Manager</p>
+            <p>Kevin Greene</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3536).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Functional PHP</td>
-            <td>Gilles Crettenand</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Functional PHP</p>
+            <p>Gilles Crettenand</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3537).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Spring MVC Beginner's Guide: Second Edition</td>
-            <td>Amuthan Ganeshan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Spring MVC Beginner's Guide: Second Edition</p>
+            <p>Amuthan Ganeshan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3538).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Building Modern Web Applications Using Angular</td>
-            <td>Shravan Kumar Kasagoni</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Building Modern Web Applications Using Angular</p>
+            <p>Shravan Kumar Kasagoni</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3539).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Financial Signal Processing and Machine Learning</td>
-            <td>Ali N. Akansu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Financial Signal Processing and Machine Learning</p>
+            <p>Ali N. Akansu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3540).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Eloquent JavaScript: A Modern Introduction to Programming</td>
-            <td>Marijn Haverbeke</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Eloquent JavaScript: A Modern Introduction to Programming</p>
+            <p>Marijn Haverbeke</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3541).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Practical UX Design</td>
-            <td>Scott Faranello</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Practical UX Design</p>
+            <p>Scott Faranello</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3542).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Simulation for Data Science with R</td>
-            <td>Matthias Templ</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Simulation for Data Science with R</p>
+            <p>Matthias Templ</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3543).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Angular 2 Cookbook</td>
-            <td>Matt Frisbie</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Angular 2 Cookbook</p>
+            <p>Matt Frisbie</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3544).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Julia Cookbook</td>
-            <td>Jalem Raj Rohit</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Julia Cookbook</p>
+            <p>Jalem Raj Rohit</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3545).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering JavaScript Design Patterns: Second Edition</td>
-            <td>Simon Timms</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering JavaScript Design Patterns: Second Edition</p>
+            <p>Simon Timms</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3546).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Reactive Programming for .NET Developers</td>
-            <td>Antonio Esposito</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Reactive Programming for .NET Developers</p>
+            <p>Antonio Esposito</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3547).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning jQuery 3: 5th Edition</td>
-            <td>Adam Boduch</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning jQuery 3: 5th Edition</p>
+            <p>Adam Boduch</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3548).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning JavaScript Robotics</td>
-            <td>Kassandra Perch</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning JavaScript Robotics</p>
+            <p>Kassandra Perch</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3549).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Responsive Data Visualization</td>
-            <td>Christoph Korner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Responsive Data Visualization</p>
+            <p>Christoph Korner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3550).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows Server 2016 Cookbook</td>
-            <td>Jordan Krause</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Windows Server 2016 Cookbook</p>
+            <p>Jordan Krause</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3551).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering C# and .NET Framework</td>
-            <td>Marino Posadas</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering C# and .NET Framework</p>
+            <p>Marino Posadas</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3552).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JIRA Development Cookbook: Third Edition</td>
-            <td>Jobin Kuruvilla</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JIRA Development Cookbook: Third Edition</p>
+            <p>Jobin Kuruvilla</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3553).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering React Native</td>
-            <td>Eric Masiello</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering React Native</p>
+            <p>Eric Masiello</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3554).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Concurrency Programming with Java 8</td>
-            <td>Javier Fernandez Gonzalez</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Concurrency Programming with Java 8</p>
+            <p>Javier Fernandez Gonzalez</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3555).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>MEAN Web Development: Second Edition</td>
-            <td>Amos Q. Haviv</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>MEAN Web Development: Second Edition</p>
+            <p>Amos Q. Haviv</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3556).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Magento 2 Developer's Guide</td>
-            <td>Branko Ajzele</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Magento 2 Developer's Guide</p>
+            <p>Branko Ajzele</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3557).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Machine Learning for the Web</td>
-            <td>Andrea Isoni</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Machine Learning for the Web</p>
+            <p>Andrea Isoni</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3558).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Procedural Content Generation for C++ Game Development</td>
-            <td>Dale Green</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Procedural Content Generation for C++ Game Development</p>
+            <p>Dale Green</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3559).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Docker High Performance</td>
-            <td>Allan Espinosa</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Docker High Performance</p>
+            <p>Allan Espinosa</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3560).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Magento 2 Cookbook</td>
-            <td>Ray Bogman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Magento 2 Cookbook</p>
+            <p>Ray Bogman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3561).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering PHP Design Patterns</td>
-            <td>Junade Ali</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering PHP Design Patterns</p>
+            <p>Junade Ali</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3562).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Getting Started with SpriteKit</td>
-            <td>Jorge Jordan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Getting Started with SpriteKit</p>
+            <p>Jorge Jordan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3563).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Building Microservices with .NET Core</td>
-            <td>Gaurav Kumar Aroraa</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Building Microservices with .NET Core</p>
+            <p>Gaurav Kumar Aroraa</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3564).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Getting Started with hapi.js</td>
-            <td>John Brett</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Getting Started with hapi.js</p>
+            <p>John Brett</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3565).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Proxmox: Second Edition</td>
-            <td>Wasim Ahmed</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Proxmox: Second Edition</p>
+            <p>Wasim Ahmed</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3566).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning CoreOS</td>
-            <td>Kingston Smiler. S</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning CoreOS</p>
+            <p>Kingston Smiler. S</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3567).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Unity 5.x By Example</td>
-            <td>Alan Thorn</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Unity 5.x By Example</p>
+            <p>Alan Thorn</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3568).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering .NET Machine Learning</td>
-            <td>Jamie Dixon</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering .NET Machine Learning</p>
+            <p>Jamie Dixon</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3569).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Node.js 6.x Blueprints</td>
-            <td>Fernando Monteiro</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Node.js 6.x Blueprints</p>
+            <p>Fernando Monteiro</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3570).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Grunt</td>
-            <td>Douglas Reynolds</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Grunt</p>
+            <p>Douglas Reynolds</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3571).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Modular Java Programming</td>
-            <td>Tejaswini Mandar Jog</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Modular Java Programming</p>
+            <p>Tejaswini Mandar Jog</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3572).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Securing Docker</td>
-            <td>Scott Gallagher</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Securing Docker</p>
+            <p>Scott Gallagher</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3573).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Bootstrap 4 Cookbook</td>
-            <td>Ajdin Imsirovic</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Bootstrap 4 Cookbook</p>
+            <p>Ajdin Imsirovic</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3574).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning AWS Lumberyard Game Development</td>
-            <td>Dr. Edward Lavieri</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning AWS Lumberyard Game Development</p>
+            <p>Dr. Edward Lavieri</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3575).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Oculus Rift Development</td>
-            <td>Jack Donovan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Oculus Rift Development</p>
+            <p>Jack Donovan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3576).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Full Stack React Web Development</td>
-            <td>Tomasz Dyl</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Full Stack React Web Development</p>
+            <p>Tomasz Dyl</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3577).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Getting Started with TensorFlow</td>
-            <td>Giancarlo Zaccone</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Getting Started with TensorFlow</p>
+            <p>Giancarlo Zaccone</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3578).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Laravel 5.x Cookbook</td>
-            <td>Alfred Nutile</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Laravel 5.x Cookbook</p>
+            <p>Alfred Nutile</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3579).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Building RESTful Python Web Services</td>
-            <td>Gaston C. Hillar</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Building RESTful Python Web Services</p>
+            <p>Gaston C. Hillar</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3580).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Moodle 3.x Teaching Techniques: Third Edition</td>
-            <td>Susan Smith Nash</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Moodle 3.x Teaching Techniques: Third Edition</p>
+            <p>Susan Smith Nash</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3581).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Reactive JavaScript</td>
-            <td>Erich de Souza Oliveira</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Reactive JavaScript</p>
+            <p>Erich de Souza Oliveira</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3582).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Practical Statistics for Data Scientists: 50 Essential Concepts</td>
-            <td>Peter Bruce</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Practical Statistics for Data Scientists: 50 Essential Concepts</p>
+            <p>Peter Bruce</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3583).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Expert Data Visualization</td>
-            <td>Jos Dirksen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Expert Data Visualization</p>
+            <p>Jos Dirksen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3584).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Haskell High Performance Programming</td>
-            <td>Samuli Thomasson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Haskell High Performance Programming</p>
+            <p>Samuli Thomasson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3585).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Python Deep Learning</td>
-            <td>Valentino Zocca</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Python Deep Learning</p>
+            <p>Valentino Zocca</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3586).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Akka</td>
-            <td>Christian Baxter</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Akka</p>
+            <p>Christian Baxter</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3587).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Angular Test Driven Development: 2nd Edition</td>
-            <td>Md. Ziaul Haq</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Angular Test Driven Development: 2nd Edition</p>
+            <p>Md. Ziaul Haq</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3588).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Flux Architecture</td>
-            <td>Adam Boduch</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Flux Architecture</p>
+            <p>Adam Boduch</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3589).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>.NET Design Patterns</td>
-            <td>Praseed Pai</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>.NET Design Patterns</p>
+            <p>Praseed Pai</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3590).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Spring Microservices</td>
-            <td>Rajesh RV</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Spring Microservices</p>
+            <p>Rajesh RV</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3591).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Principles of Data Science</td>
-            <td>Sinan Ozdemir</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Principles of Data Science</p>
+            <p>Sinan Ozdemir</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3592).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Vue.js 2 Cookbook</td>
-            <td>Andrea Passaglia</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Vue.js 2 Cookbook</p>
+            <p>Andrea Passaglia</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3593).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java 9 Programming By Example</td>
-            <td>Peter Verhas</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java 9 Programming By Example</p>
+            <p>Peter Verhas</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3594).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering TypeScript: Second Edition</td>
-            <td>Nathan Rozentals</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering TypeScript: Second Edition</p>
+            <p>Nathan Rozentals</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3595).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering SFML Game Development</td>
-            <td>Raimondas Pupius</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering SFML Game Development</p>
+            <p>Raimondas Pupius</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3596).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning Vue.js 2</td>
-            <td>Olga Filipova</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning Vue.js 2</p>
+            <p>Olga Filipova</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3597).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Swift 3 Object-Oriented Programming: 2nd Edition</td>
-            <td>Gaston C. Hillar</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Swift 3 Object-Oriented Programming: 2nd Edition</p>
+            <p>Gaston C. Hillar</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3598).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Docker Orchestration</td>
-            <td>Randall Smith</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Docker Orchestration</p>
+            <p>Randall Smith</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3599).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java Data Science Cookbook</td>
-            <td>Rushdi Shams</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java Data Science Cookbook</p>
+            <p>Rushdi Shams</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3600).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Augmented Reality Game Development</td>
-            <td>Micheal Lanham</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Augmented Reality Game Development</p>
+            <p>Micheal Lanham</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3601).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>HTML5 and CSS3: Building Responsive Websites</td>
-            <td>Thoriq Firdaus</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>HTML5 and CSS3: Building Responsive Websites</p>
+            <p>Thoriq Firdaus</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3602).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Python: Master the Art of Design Patterns</td>
-            <td>Dusty Phillips</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Python: Master the Art of Design Patterns</p>
+            <p>Dusty Phillips</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3603).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Getting Started with Angular: Second Edition</td>
-            <td>Minko Gechev</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Getting Started with Angular: Second Edition</p>
+            <p>Minko Gechev</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3604).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Programming Kotlin</td>
-            <td>Stephen Samuel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Programming Kotlin</p>
+            <p>Stephen Samuel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3605).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>WordPress Web Application Development: 3rd Edition</td>
-            <td>Rakhitha Nimesh Ratnayake</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>WordPress Web Application Development: 3rd Edition</p>
+            <p>Rakhitha Nimesh Ratnayake</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3606).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>AWS Administration Cookbook</td>
-            <td>Lucas Chan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>AWS Administration Cookbook</p>
+            <p>Lucas Chan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3607).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>C# 7 and .NET Core Cookbook</td>
-            <td>Dirk Strauss</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>C# 7 and .NET Core Cookbook</p>
+            <p>Dirk Strauss</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3608).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Game Audio Development with Unity 5.X</td>
-            <td>Micheal Lanham</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Game Audio Development with Unity 5.X</p>
+            <p>Micheal Lanham</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3609).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mastering Java EE Development with WildFly</td>
-            <td>Luca Stancapiano</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mastering Java EE Development with WildFly</p>
+            <p>Luca Stancapiano</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3610).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Meteor: Full Stack Web Application Development</td>
-            <td>Fabian Vogelsteller</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Meteor: Full Stack Web Application Development</p>
+            <p>Fabian Vogelsteller</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3611).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Enterprise PowerShell Scripting Bootcamp</td>
-            <td>Brenton J.W. Blawat</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Enterprise PowerShell Scripting Bootcamp</p>
+            <p>Brenton J.W. Blawat</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3612).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learn Python in 7 Days</td>
-            <td>Mohit</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learn Python in 7 Days</p>
+            <p>Mohit</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3613).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Reactive Android Programming</td>
-            <td>Tadas Subonis</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Reactive Android Programming</p>
+            <p>Tadas Subonis</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3614).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Essential Angular</td>
-            <td>Victor Savkin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Essential Angular</p>
+            <p>Victor Savkin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3615).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>KVM Virtualization Cookbook</td>
-            <td>Konstantin Ivanov</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>KVM Virtualization Cookbook</p>
+            <p>Konstantin Ivanov</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3616).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>DevOps: Puppet, Docker, and Kubernetes</td>
-            <td>Thomas Uphill</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>DevOps: Puppet, Docker, and Kubernetes</p>
+            <p>Thomas Uphill</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3617).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>HTML5 in easy steps: 2nd Edition</td>
-            <td>Mike McGrath</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>HTML5 in easy steps: 2nd Edition</p>
+            <p>Mike McGrath</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3618).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>C++ Programming in easy steps: 5th Edition</td>
-            <td>Mike McGrath</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>C++ Programming in easy steps: 5th Edition</p>
+            <p>Mike McGrath</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3619).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>LWUIT 1.1 for Java ME Developers</td>
-            <td>Biswajit Sarkar</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>LWUIT 1.1 for Java ME Developers</p>
+            <p>Biswajit Sarkar</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3620).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Stepping into Virtual Reality</td>
-            <td>Daniel Thalmann</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Stepping into Virtual Reality</p>
+            <p>Daniel Thalmann</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3621).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Text Searching Algorithms </td>
-            <td>Jan Holub</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Text Searching Algorithms </p>
+            <p>Jan Holub</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/tsa-lectures-1.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Automatic Speech Recognition on Mobile Devices and Over Communication Networks</td>
-            <td>Zheng Hua Tan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Automatic Speech Recognition on Mobile Devices and Over Communication Networks</p>
+            <p>Zheng Hua Tan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3622).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Knowledge Mining Using Intelligent Agents</td>
-            <td>Satchidananda Dehuri</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Knowledge Mining Using Intelligent Agents</p>
+            <p>Satchidananda Dehuri</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3623).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Panda3D 1.7 Game Developer's Cookbook</td>
-            <td>Christoph Lang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Panda3D 1.7 Game Developer's Cookbook</p>
+            <p>Christoph Lang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3624).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Moodle 2 for Teaching 4 to 9 Year Olds: Beginner's Guide</td>
-            <td>Nicholas Freear</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Moodle 2 for Teaching 4 to 9 Year Olds: Beginner's Guide</p>
+            <p>Nicholas Freear</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3625).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JBoss AS 7: Configuration, Deployment, and Administration</td>
-            <td>Francesco Marchioni</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JBoss AS 7: Configuration, Deployment, and Administration</p>
+            <p>Francesco Marchioni</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3626).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Unity Android Game Development by Example: Beginner's Guide</td>
-            <td>Thomas Finnegan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Unity Android Game Development by Example: Beginner's Guide</p>
+            <p>Thomas Finnegan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3627).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Unity Character Animation with Mecanim</td>
-            <td>Jamie Dean</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Unity Character Animation with Mecanim</p>
+            <p>Jamie Dean</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3628).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Murach's Beginning Visual Basic .NET</td>
-            <td>Anne Prince</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Murach's Beginning Visual Basic .NET</p>
+            <p>Anne Prince</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3629).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>.NET Memory Dump Analysis Accelerated: Version 2.0</td>
-            <td>Dimitry Vostokov</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>.NET Memory Dump Analysis Accelerated: Version 2.0</p>
+            <p>Dimitry Vostokov</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3630).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Java 2 Game Programming</td>
-            <td>Thomas Petchel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Java 2 Game Programming</p>
+            <p>Thomas Petchel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3631).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Game Programming Gems 4</td>
-            <td>Andrew Kirmse</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Game Programming Gems 4</p>
+            <p>Andrew Kirmse</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3632).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mac Game Programming</td>
-            <td>Mark Szymczyk</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mac Game Programming</p>
+            <p>Mark Szymczyk</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3633).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Structures for Game Programmers</td>
-            <td>Ron Penton</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Structures for Game Programmers</p>
+            <p>Ron Penton</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3634).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Programmer's Ultimate Security DeskRef</td>
-            <td>James C. Foster</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Programmer's Ultimate Security DeskRef</p>
+            <p>James C. Foster</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3635).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Website Owner's Manual: The Secret to Successful Websites</td>
-            <td>Paul Boag</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Website Owner's Manual: The Secret to Successful Websites</p>
+            <p>Paul Boag</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3636).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learn Visual C#: A Computer Programming Tutorial</td>
-            <td>Philip Conrod</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learn Visual C#: A Computer Programming Tutorial</p>
+            <p>Philip Conrod</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3637).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Agile Web Development with Rails 4</td>
-            <td>Sam Ruby</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Agile Web Development with Rails 4</p>
+            <p>Sam Ruby</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3638).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Soft & Cuddly</td>
-            <td>Jarett Kobek</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Soft & Cuddly</p>
+            <p>Jarett Kobek</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3639).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>iOS Apprentice: 5th Edition</td>
-            <td>Matthijs Hollemans</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>iOS Apprentice: 5th Edition</p>
+            <p>Matthijs Hollemans</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3640).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Shared Memory Parallelism Can Be Simple, Fast, and Scalable</td>
-            <td>Julian Shun</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Shared Memory Parallelism Can Be Simple, Fast, and Scalable</p>
+            <p>Julian Shun</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3641).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Machine Learning Algorithms</td>
-            <td>Giuseppe Bonaccorso</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Machine Learning Algorithms</p>
+            <p>Giuseppe Bonaccorso</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3642).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Analysis and Pattern Recognition in Multiple Databases</td>
-            <td>Animesh Adhikari</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Analysis and Pattern Recognition in Multiple Databases</p>
+            <p>Animesh Adhikari</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3643).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>From Animals to Animats 13</td>
-            <td>Angel P. del Pobil</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>From Animals to Animats 13</p>
+            <p>Angel P. del Pobil</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3644).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Rewriting and Typed Lambda Calculi</td>
-            <td>Gilles Dowek (Ed.)</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Rewriting and Typed Lambda Calculi</p>
+            <p>Gilles Dowek (Ed.)</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3645).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computational Intelligence Methods for Bioinformatics and Biostatistics</td>
-            <td>Enrico Formenti</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computational Intelligence Methods for Bioinformatics and Biostatistics</p>
+            <p>Enrico Formenti</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3646).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Intelligent Computing in Bioinformatics</td>
-            <td>De Shuang Huang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Intelligent Computing in Bioinformatics</p>
+            <p>De Shuang Huang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3647).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>E Commerce and Web Technologies</td>
-            <td>Martin Hepp</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>E Commerce and Web Technologies</p>
+            <p>Martin Hepp</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3648).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Machine Learning for OpenCV</td>
-            <td>Michael Beyeler</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Machine Learning for OpenCV</p>
+            <p>Michael Beyeler</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3649).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computational Collective Intelligence: Technologies and Applications</td>
-            <td>Dosam Hwang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computational Collective Intelligence: Technologies and Applications</p>
+            <p>Dosam Hwang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3650).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>DNA Computing and Molecular Programming</td>
-            <td>Satoshi Murata</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>DNA Computing and Molecular Programming</p>
+            <p>Satoshi Murata</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3651).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Fuzzy Control Systems with Time Delay and Stochastic Perturbation</td>
-            <td>Ligang Wu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Fuzzy Control Systems with Time Delay and Stochastic Perturbation</p>
+            <p>Ligang Wu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3652).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Statistical Language and Speech Processing</td>
-            <td>Laurent Besacier</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Statistical Language and Speech Processing</p>
+            <p>Laurent Besacier</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3653).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Eduardo Ferme</td>
-            <td>Logics in Artificial Intelligence</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Eduardo Ferme</p>
+            <p>Logics in Artificial Intelligence</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3654).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Artificial Evolution</td>
-            <td>Pierrick Legrand</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Artificial Evolution</p>
+            <p>Pierrick Legrand</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3655).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Web Information Systems Engineering: WISE 2014</td>
-            <td>Boualem Benatallah</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Web Information Systems Engineering: WISE 2014</p>
+            <p>Boualem Benatallah</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3656).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Learning TensorFlow: A Guide to Building Deep Learning Systems</td>
-            <td>Tom Hope</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Learning TensorFlow: A Guide to Building Deep Learning Systems</p>
+            <p>Tom Hope</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3657).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Objective-C Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Objective-C Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3658).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Progress in Cryptology: INDOCRYPT 2014</td>
-            <td>Willi Meier</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Progress in Cryptology: INDOCRYPT 2014</p>
+            <p>Willi Meier</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3659).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Ubiquitous Computing and Ambient Intelligence</td>
-            <td>Ramon Hervas</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Ubiquitous Computing and Ambient Intelligence</p>
+            <p>Ramon Hervas</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3660).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advances in Speech and Language Technologies for Iberian Languages</td>
-            <td>Juan Luis Navarro Mesa</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advances in Speech and Language Technologies for Iberian Languages</p>
+            <p>Juan Luis Navarro Mesa</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3661).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Technologies and Applications of Artificial Intelligence</td>
-            <td>Shin Ming Cheng</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Technologies and Applications of Artificial Intelligence</p>
+            <p>Shin Ming Cheng</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3662).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Automatic Design of Decision: Tree Induction Algorithms</td>
-            <td>Rodrigo C. Barros</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Automatic Design of Decision: Tree Induction Algorithms</p>
+            <p>Rodrigo C. Barros</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3663).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript: Best Practice</td>
-            <td>SitePoint</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript: Best Practice</p>
+            <p>SitePoint</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3664).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Hands-On Machine Learning with Scikit-Learn and TensorFlow</td>
-            <td>Aur&eacute;lien G&eacute;ron</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Hands-On Machine Learning with Scikit-Learn and TensorFlow</p>
+            <p>Aur&eacute;lien G&eacute;ron</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3665).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Algorithms and Discrete Applied Mathematics</td>
-            <td>Sumit Ganguly</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Algorithms and Discrete Applied Mathematics</p>
+            <p>Sumit Ganguly</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3666).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Distributed Computing and Internet Technology</td>
-            <td>Raja Natarajan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Distributed Computing and Internet Technology</p>
+            <p>Raja Natarajan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3667).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Job Scheduling Strategies for Parallel Processing</td>
-            <td>Walfredo Cirne</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Job Scheduling Strategies for Parallel Processing</p>
+            <p>Walfredo Cirne</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3668).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Outlooks and Insights on Group Decision and Negotiation</td>
-            <td>Bogumil Kaminski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Outlooks and Insights on Group Decision and Negotiation</p>
+            <p>Bogumil Kaminski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3669).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Interpretability of Computational Intelligence: Based Regression Models</td>
-            <td>Tamas Kenesei</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Interpretability of Computational Intelligence: Based Regression Models</p>
+            <p>Tamas Kenesei</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3670).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Modeling & Evaluating Denial of Service Attacks for Wireless & Mobile Applications</td>
-            <td>Zhuo Lu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Modeling & Evaluating Denial of Service Attacks for Wireless & Mobile Applications</p>
+            <p>Zhuo Lu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3671).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Algorithmic Learning Theory</td>
-            <td>Kamalika Chaudhuri</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Algorithmic Learning Theory</p>
+            <p>Kamalika Chaudhuri</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3672).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Modern JavaScript Tools & Skills</td>
-            <td>SitePoint</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Modern JavaScript Tools & Skills</p>
+            <p>SitePoint</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3673).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Reinforcement Learning: An Introduction</td>
-            <td>Richard S. Sutton</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Reinforcement Learning: An Introduction</p>
+            <p>Richard S. Sutton</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3674).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Information Systems Architecture & Technology: ISAT 2015, Part I</td>
-            <td>Leszek Borzemski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Information Systems Architecture & Technology: ISAT 2015, Part I</p>
+            <p>Leszek Borzemski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3675).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Practical ES6</td>
-            <td>SitePoint</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Practical ES6</p>
+            <p>SitePoint</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3676).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>React Native Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>React Native Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3677).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>EVOLVE: A Bridge between Probability, Set Oriented Numerics & Evolutionary Computation VII</td>
-            <td>Michael Emmerich</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>EVOLVE: A Bridge between Probability, Set Oriented Numerics & Evolutionary Computation VII</p>
+            <p>Michael Emmerich</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3678).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Automotive User Interfaces: Creating Interactive Experiences in the Car</td>
-            <td>Gerrit Meixner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Automotive User Interfaces: Creating Interactive Experiences in the Car</p>
+            <p>Gerrit Meixner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3679).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advances in Memristors, Memristive Devices & Systems</td>
-            <td>Sundarapandian Vaidyanathan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advances in Memristors, Memristive Devices & Systems</p>
+            <p>Sundarapandian Vaidyanathan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3680).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Recent Advances in Intelligent Image Search & Video Retrieval</td>
-            <td>Chengjun Liu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Recent Advances in Intelligent Image Search & Video Retrieval</p>
+            <p>Chengjun Liu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3681).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Handbook on Advances in Remote Sensing & Geographic Information Systems</td>
-            <td>Margarita N. Favorskaya</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Handbook on Advances in Remote Sensing & Geographic Information Systems</p>
+            <p>Margarita N. Favorskaya</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3682).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Introduction to Computer Networking</td>
-            <td>Thomas G. Robertazzi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Introduction to Computer Networking</p>
+            <p>Thomas G. Robertazzi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3683).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Operations Research & Enterprise Systems: ICORES 2016</td>
-            <td>Begona Vitoriano</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Operations Research & Enterprise Systems: ICORES 2016</p>
+            <p>Begona Vitoriano</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3684).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Pattern Recognition & Information Processing: PRIP 2016</td>
-            <td>Viktor V. Krasnoproshin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Pattern Recognition & Information Processing: PRIP 2016</p>
+            <p>Viktor V. Krasnoproshin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3685).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Agent Mediated Electronic Commerce: AMEC/TADA 2015 & 2016</td>
-            <td>Sofia Ceppi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Agent Mediated Electronic Commerce: AMEC/TADA 2015 & 2016</p>
+            <p>Sofia Ceppi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3686).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cloud Mobile Networks: From RAN to EPC</td>
-            <td>Mojtaba Vaezi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cloud Mobile Networks: From RAN to EPC</p>
+            <p>Mojtaba Vaezi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3687).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cloud Computing: Principles, Systems and Applications, 2nd Edition</td>
-            <td>Nick Antonopoulos</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cloud Computing: Principles, Systems and Applications, 2nd Edition</p>
+            <p>Nick Antonopoulos</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3688).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Think Stats: Exploratory Data Analysis in Python</td>
-            <td>Allen B. Downey</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Think Stats: Exploratory Data Analysis in Python</p>
+            <p>Allen B. Downey</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3689).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Outlier Ensembles: An Introduction</td>
-            <td>Charu C. Aggarwal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Outlier Ensembles: An Introduction</p>
+            <p>Charu C. Aggarwal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3690).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Robot Operating System (ROS): The Complete Reference (Volume 2)</td>
-            <td>Anis Koubaa</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Robot Operating System (ROS): The Complete Reference (Volume 2)</p>
+            <p>Anis Koubaa</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3691).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Finite Difference Computing with PDEs: A Modern Software Approach</td>
-            <td>Hans Petter Langtangen</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Finite Difference Computing with PDEs: A Modern Software Approach</p>
+            <p>Hans Petter Langtangen</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3692).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Process Algebras for Petri Nets: The Alphabetization of Distributed Systems</td>
-            <td>Roberto Gorrieri</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Process Algebras for Petri Nets: The Alphabetization of Distributed Systems</p>
+            <p>Roberto Gorrieri</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3693).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Think Python: How to Think Like a Computer Scientist</td>
-            <td>Allen Downey</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Think Python: How to Think Like a Computer Scientist</p>
+            <p>Allen Downey</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3694).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Programming Collective Intelligence</td>
-            <td>Toby Segaran</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Programming Collective Intelligence</p>
+            <p>Toby Segaran</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3695).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Dynamic Secularization: IT & the Tension b/w Religion & Science</td>
-            <td>William Sims Bainbridge</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Dynamic Secularization: IT & the Tension b/w Religion & Science</p>
+            <p>William Sims Bainbridge</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3696).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Spatial Network Big Databases: Queries and Storage Methods</td>
-            <td>KwangSoo Yang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Spatial Network Big Databases: Queries and Storage Methods</p>
+            <p>KwangSoo Yang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3697).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Digital Logic for Computing</td>
-            <td>John Seiffertt</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Digital Logic for Computing</p>
+            <p>John Seiffertt</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3698).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Ambient Intelligence: AmI 2017</td>
-            <td>Andreas Braun</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Ambient Intelligence: AmI 2017</p>
+            <p>Andreas Braun</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3699).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Art of Data Science: A Guide for Anyone Who Works with Data</td>
-            <td>Roger D. Peng</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Art of Data Science: A Guide for Anyone Who Works with Data</p>
+            <p>Roger D. Peng</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3700).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Granular Neural Networks, Pattern Recognition & Bioinformatics</td>
-            <td>Sankar K. Pal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Granular Neural Networks, Pattern Recognition & Bioinformatics</p>
+            <p>Sankar K. Pal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3701).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Analytics & Management in Data Intensive Domains: DAMDID/RCDL 2016</td>
-            <td>Leonid Kalinichenko</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Data Analytics & Management in Data Intensive Domains: DAMDID/RCDL 2016</p>
+            <p>Leonid Kalinichenko</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3702).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Proceedings of ELM 2016</td>
-            <td>Jiuwen Cao</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Proceedings of ELM 2016</p>
+            <p>Jiuwen Cao</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3703).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Algorithms & Complexity: CIAC 2017</td>
-            <td>Dimitris Fotakis</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Algorithms & Complexity: CIAC 2017</p>
+            <p>Dimitris Fotakis</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3704).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Interactive Granular Computations in Networks & Systems Engineering: A Practical Perspective</td>
-            <td>Andrzej Jankowski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Interactive Granular Computations in Networks & Systems Engineering: A Practical Perspective</p>
+            <p>Andrzej Jankowski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3705).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Concise Guide to Software Engineering: From Fundamentals to Application Methods</td>
-            <td>Gerard O Regan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Concise Guide to Software Engineering: From Fundamentals to Application Methods</p>
+            <p>Gerard O Regan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3706).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Engineering Applications of Soft Computing</td>
-            <td>Margarita</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Engineering Applications of Soft Computing</p>
+            <p>Margarita</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3707).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Modeling and Using Context: CONTEXT 2017</td>
-            <td>Patrick Brezillon</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Modeling and Using Context: CONTEXT 2017</p>
+            <p>Patrick Brezillon</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3708).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Risk Assessment & Risk Driven Quality Assurance: RISK 2016</td>
-            <td>Michael Felderer</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Risk Assessment & Risk Driven Quality Assurance: RISK 2016</p>
+            <p>Michael Felderer</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3709).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Eye Tracking Methodology: Theory and Practice, 3rd Edition</td>
-            <td>Andrew T. Duchowski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Eye Tracking Methodology: Theory and Practice, 3rd Edition</p>
+            <p>Andrew T. Duchowski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3710).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Recent Advances in Soft Computing: MENDEL 2016</td>
-            <td>Radek Matousek</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Recent Advances in Soft Computing: MENDEL 2016</p>
+            <p>Radek Matousek</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3711).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Resilience by Teaming in Supply Chains and Networks</td>
-            <td>Rodrigo Reyes Levalle</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Resilience by Teaming in Supply Chains and Networks</p>
+            <p>Rodrigo Reyes Levalle</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3712).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Automotive Software Architectures: An Introduction</td>
-            <td>Miroslaw Staron</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Automotive Software Architectures: An Introduction</p>
+            <p>Miroslaw Staron</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3713).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>High Performance Computing: ISC High Performance 2017</td>
-            <td>Julian M</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>High Performance Computing: ISC High Performance 2017</p>
+            <p>Julian M</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3714).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Unveiling Dynamics & Complexity: CiE 2017</td>
-            <td>Jarkko Kari</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Unveiling Dynamics & Complexity: CiE 2017</p>
+            <p>Jarkko Kari</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3715).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Elements of Data Analytic Style</td>
-            <td>Jeff Leek</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Elements of Data Analytic Style</p>
+            <p>Jeff Leek</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3716).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Developments & Advances in Intelligent Systems & Applications</td>
-            <td>Alvaro Rocha</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Developments & Advances in Intelligent Systems & Applications</p>
+            <p>Alvaro Rocha</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3717).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advances in Neural Networks: ISNN 2017, Part I</td>
-            <td>Fengyu Cong</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advances in Neural Networks: ISNN 2017, Part I</p>
+            <p>Fengyu Cong</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3718).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Elements of Statistical Learning</td>
-            <td>Trevor Hastie</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Elements of Statistical Learning</p>
+            <p>Trevor Hastie</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3719).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Combinatorial Image Analysis: IWCIA 2017</td>
-            <td>Valentin E. Brimkov</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Combinatorial Image Analysis: IWCIA 2017</p>
+            <p>Valentin E. Brimkov</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3720).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Think Bayes: Bayesian Statistics Made Simple</td>
-            <td>Allen B. Downey</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Think Bayes: Bayesian Statistics Made Simple</p>
+            <p>Allen B. Downey</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3721).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Integer Programming & Combinatorial Optimization: IPCO 2017</td>
-            <td>Friedrich Eisenbrand</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Integer Programming & Combinatorial Optimization: IPCO 2017</p>
+            <p>Friedrich Eisenbrand</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3722).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Pattern Recognition and Machine Learning</td>
-            <td>Christopher M. Bishop</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Pattern Recognition and Machine Learning</p>
+            <p>Christopher M. Bishop</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3723).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Aggregation Functions in Theory & in Practice</td>
-            <td>Vicenc Torra</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Aggregation Functions in Theory & in Practice</p>
+            <p>Vicenc Torra</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3724).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Agent & Multi Agent Systems: Technology & Applications, KES AMSTA 2017</td>
-            <td>Gordan Jezic</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Agent & Multi Agent Systems: Technology & Applications, KES AMSTA 2017</p>
+            <p>Gordan Jezic</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3725).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Natural Language Processing with Python</td>
-            <td>Steven Bird</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Natural Language Processing with Python</p>
+            <p>Steven Bird</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3726).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Intelligent Decision Technologies(IDT): KES-IDT 2017, Part I</td>
-            <td>Ireneusz Czarnowski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Intelligent Decision Technologies(IDT): KES-IDT 2017, Part I</p>
+            <p>Ireneusz Czarnowski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3727).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Intelligent Decision Technologies(IDT): KES-IDT 2017, Part II</td>
-            <td>Ireneusz Czarnowski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Intelligent Decision Technologies(IDT): KES-IDT 2017, Part II</p>
+            <p>Ireneusz Czarnowski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3728).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Linear Algebra and its Applications</td>
-            <td>Gilbert Strang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Linear Algebra and its Applications</p>
+            <p>Gilbert Strang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3729).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>An Introduction to Statistical Learning: with Applications in R</td>
-            <td>Gareth James</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>An Introduction to Statistical Learning: with Applications in R</p>
+            <p>Gareth James</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3730).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Artificial Intelligence: A Modern Approach</td>
-            <td>Stuart J. Russell</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Artificial Intelligence: A Modern Approach</p>
+            <p>Stuart J. Russell</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3731).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Smart Cities: Smart CT 2017</td>
-            <td>Enrique Alba</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Smart Cities: Smart CT 2017</p>
+            <p>Enrique Alba</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3732).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Stochastic Optimization for Distributed Energy Resources in Smart Grids</td>
-            <td>Yuanxiong Guo</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Stochastic Optimization for Distributed Energy Resources in Smart Grids</p>
+            <p>Yuanxiong Guo</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3733).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Bayesian Reasoning and Machine Learning</td>
-            <td>David Barber</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Bayesian Reasoning and Machine Learning</p>
+            <p>David Barber</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3734).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Frontiers in Algorithmics: FAW 2017</td>
-            <td>Mingyu Xiao</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Frontiers in Algorithmics: FAW 2017</p>
+            <p>Mingyu Xiao</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3735).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Networked Systems: NETYS 2017</td>
-            <td>Amr El Abbadi</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Networked Systems: NETYS 2017</p>
+            <p>Amr El Abbadi</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3736).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Doing Data Science</td>
-            <td>Rachel Schutt</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Doing Data Science</p>
+            <p>Rachel Schutt</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3737).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Coordination Models & Languages: COORDINATION 2017</td>
-            <td>Jean Marie Jacquet</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Coordination Models & Languages: COORDINATION 2017</p>
+            <p>Jean Marie Jacquet</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3738).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Artificial Intelligence in Medicine: AIME 2017</td>
-            <td>Annette ten Teije</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Artificial Intelligence in Medicine: AIME 2017</p>
+            <p>Annette ten Teije</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3739).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computer Networks: CN 2017</td>
-            <td>Piotr Gaj</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computer Networks: CN 2017</p>
+            <p>Piotr Gaj</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3740).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Encyclopedia of Machine Learning and Data Mining</td>
-            <td>Claude Sammut</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Encyclopedia of Machine Learning and Data Mining</p>
+            <p>Claude Sammut</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3741).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Integration of AI and OR Techniques in Constraint Programming: CPAIOR 2017</td>
-            <td>Domenico Salvagnin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Integration of AI and OR Techniques in Constraint Programming: CPAIOR 2017</p>
+            <p>Domenico Salvagnin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3742).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Smart Health: ICSH 2016</td>
-            <td>Chunxiao Xing</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Smart Health: ICSH 2016</p>
+            <p>Chunxiao Xing</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3743).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Recent Advances in Computational Optimization: WCO 2016, Volume 717</td>
-            <td>Stefka Fidanova</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Recent Advances in Computational Optimization: WCO 2016, Volume 717</p>
+            <p>Stefka Fidanova</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3744).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Visual Basic.NET Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Visual Basic.NET Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3745).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Language, Data, and Knowledge: LDK 2017</td>
-            <td>Jorge Gracia</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Language, Data, and Knowledge: LDK 2017</p>
+            <p>Jorge Gracia</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3746).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Reversible Computation: RC 2017</td>
-            <td>Iain Phillips</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Reversible Computation: RC 2017</p>
+            <p>Iain Phillips</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3747).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Smart Cities: The Internet of Things, People & Systems</td>
-            <td>Schahram Dustdar</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Smart Cities: The Internet of Things, People & Systems</p>
+            <p>Schahram Dustdar</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3748).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>JavaScript Notes for Professionals</td>
-            <td>GoalKicker.com</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>JavaScript Notes for Professionals</p>
+            <p>GoalKicker.com</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3749).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Applied Predictive Modeling</td>
-            <td>Max Kuhn</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Applied Predictive Modeling</p>
+            <p>Max Kuhn</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3750).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computer and Information Science: Volume 719</td>
-            <td>Roger Lee</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computer and Information Science: Volume 719</p>
+            <p>Roger Lee</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3751).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Internet Economy vs Classic Economy: Struggle of Contradictions, Volume 714</td>
-            <td>Alexander P. Sukhodolov</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Internet Economy vs Classic Economy: Struggle of Contradictions, Volume 714</p>
+            <p>Alexander P. Sukhodolov</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3752).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Foundations of Intelligent Systems: ISMIS 2017</td>
-            <td>Marzena Kryszkiewicz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Foundations of Intelligent Systems: ISMIS 2017</p>
+            <p>Marzena Kryszkiewicz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3753).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Resource Allocation with Carrier Aggregation in Cellular Networks</td>
-            <td>Haya Shajaiah</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Resource Allocation with Carrier Aggregation in Cellular Networks</p>
+            <p>Haya Shajaiah</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3754).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Reliable Software Technologies: Ada Europe 2017</td>
-            <td>Johann Blieberger</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Reliable Software Technologies: Ada Europe 2017</p>
+            <p>Johann Blieberger</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3755).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Financial Risk Forecasting: The Theory and Practice of Forecasting Market Risk with Implementation in R and Matlab</td>
-            <td>Jon Danielsson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Financial Risk Forecasting: The Theory and Practice of Forecasting Market Risk with Implementation in R and Matlab</p>
+            <p>Jon Danielsson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3756).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advances in Human Error, Reliability, Resilience, & Performance: AHFE 2017, Volume 589</td>
-            <td>Ronald Laurids Boring</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advances in Human Error, Reliability, Resilience, & Performance: AHFE 2017, Volume 589</p>
+            <p>Ronald Laurids Boring</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3757).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Recent Advances in Information & Communication Technology: IC2IT 2017, Volume 566</td>
-            <td>Phayung Meesad</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Recent Advances in Information & Communication Technology: IC2IT 2017, Volume 566</p>
+            <p>Phayung Meesad</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3758).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Trends in Advanced Intelligent Control, Optimization & Automation: KKA 2017, Volume 577</td>
-            <td>Wojciech Mitkowski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Trends in Advanced Intelligent Control, Optimization & Automation: KKA 2017, Volume 577</p>
+            <p>Wojciech Mitkowski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3759).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Design and Analysis of Experiments</td>
-            <td>Douglas C. Montgomery</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Design and Analysis of Experiments</p>
+            <p>Douglas C. Montgomery</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3760).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>All of Statistics: A Concise Course in Statistical Inference</td>
-            <td>Larry A. Wasserman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>All of Statistics: A Concise Course in Statistical Inference</p>
+            <p>Larry A. Wasserman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3761).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Reasoning Web: Semantic Interoperability on the Web, International Summer School 2017</td>
-            <td>Giovambattista Ianni</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Reasoning Web: Semantic Interoperability on the Web, International Summer School 2017</p>
+            <p>Giovambattista Ianni</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3762).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Serviceology for Services: ICServ 2017</td>
-            <td>Yoshinori Hara</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Serviceology for Services: ICServ 2017</p>
+            <p>Yoshinori Hara</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3763).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Integration, Interconnection, & Interoperability of IoT Systems</td>
-            <td>Raffaele Gravina</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Integration, Interconnection, & Interoperability of IoT Systems</p>
+            <p>Raffaele Gravina</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3764).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Processing Medical Thermal Images: Using Matlab, Volume 716</td>
-            <td>Robert Koprowski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Processing Medical Thermal Images: Using Matlab, Volume 716</p>
+            <p>Robert Koprowski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3765).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Analytical & Stochastic Modelling Techniques & Applications: ASMTA 2017</td>
-            <td>Nigel Thomas</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Analytical & Stochastic Modelling Techniques & Applications: ASMTA 2017</p>
+            <p>Nigel Thomas</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3766).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Building Machine Learning Systems with Python</td>
-            <td>Luis Pedro Coelho</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Building Machine Learning Systems with Python</p>
+            <p>Luis Pedro Coelho</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3767).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Security of Industrial Control Systems & Cyber Physical Systems</td>
-            <td>Nora Cuppens Boulahia</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Security of Industrial Control Systems & Cyber Physical Systems</p>
+            <p>Nora Cuppens Boulahia</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3768).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>New Frontiers in Mining Complex Patterns: NFMCP 2016</td>
-            <td>Annalisa Appice</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>New Frontiers in Mining Complex Patterns: NFMCP 2016</p>
+            <p>Annalisa Appice</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3769).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>A Comprehensive Guide Through the Italian Database Research Over the Last 25 Years: Volume 31</td>
-            <td>Sergio Flesca</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>A Comprehensive Guide Through the Italian Database Research Over the Last 25 Years: Volume 31</p>
+            <p>Sergio Flesca</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3770).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Economics of Grids, Clouds, Systems, and Services: GECON 2016</td>
-            <td>Jose Angel Banares</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Economics of Grids, Clouds, Systems, and Services: GECON 2016</p>
+            <p>Jose Angel Banares</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3771).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Software Engineering, AI, Networking & Parallel/Distributed Computing: Volume 721</td>
-            <td>Roger Lee</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Software Engineering, AI, Networking & Parallel/Distributed Computing: Volume 721</p>
+            <p>Roger Lee</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3772).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>A First Course in Design and Analysis of Experiments</td>
-            <td>Gary W. Oehlert</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>A First Course in Design and Analysis of Experiments</p>
+            <p>Gary W. Oehlert</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3773).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Distributed Computing and AI, 14th International Conference: Volume 620</td>
-            <td>Sigeru Omatu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Distributed Computing and AI, 14th International Conference: Volume 620</p>
+            <p>Sigeru Omatu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3774).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Machine Learning & Data Mining in Pattern Recognition: MLDM 2017</td>
-            <td>Petra Perner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Machine Learning & Data Mining in Pattern Recognition: MLDM 2017</p>
+            <p>Petra Perner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3775).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Advances in Data Mining Applications & Theoretical Aspects: ICDM 2017</td>
-            <td>Petra Perner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Advances in Data Mining Applications & Theoretical Aspects: ICDM 2017</p>
+            <p>Petra Perner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3776).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Collaboration & Technology: CRIWG 2017</td>
-            <td>Carl Gutwin</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Collaboration & Technology: CRIWG 2017</p>
+            <p>Carl Gutwin</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3777).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Applied Computing & Information Technology: Volume 727</td>
-            <td>Roger Lee</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Applied Computing & Information Technology: Volume 727</p>
+            <p>Roger Lee</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3778).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Classification Algorithms for Codes & Designs: Volume 15</td>
-            <td>Petteri Kaski</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Classification Algorithms for Codes & Designs: Volume 15</p>
+            <p>Petteri Kaski</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3779).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Fuzzy Control & Filter Design for Uncertain Fuzzy Systems</td>
-            <td>Wudhichai Assawinchaichote</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Fuzzy Control & Filter Design for Uncertain Fuzzy Systems</p>
+            <p>Wudhichai Assawinchaichote</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3780).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Piecewise Linear Control Systems: A Computational Approach</td>
-            <td>Mikael Johansson</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Piecewise Linear Control Systems: A Computational Approach</p>
+            <p>Mikael Johansson</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3781).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Evolutionary Scheduling</td>
-            <td>Keshav P. Dahal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Evolutionary Scheduling</p>
+            <p>Keshav P. Dahal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3782).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Subdivision Surfaces</td>
-            <td>Jorg Peters</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Subdivision Surfaces</p>
+            <p>Jorg Peters</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3783).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Semantic Service Provisioning</td>
-            <td>Dominik Kuropka</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Semantic Service Provisioning</p>
+            <p>Dominik Kuropka</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3784).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Operational Semantics & Verification of Security Protocols</td>
-            <td>Cas Cremers</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Operational Semantics & Verification of Security Protocols</p>
+            <p>Cas Cremers</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3785).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Graphs and Algorithms in Communication Networks</td>
-            <td>Arie M.C.A. Koster</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Graphs and Algorithms in Communication Networks</p>
+            <p>Arie M.C.A. Koster</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3786).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Recent Advances in Harmony Search Algorithm</td>
-            <td>ZongWoo Geem</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Recent Advances in Harmony Search Algorithm</p>
+            <p>ZongWoo Geem</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3787).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Inductive Inference for Large Scale Text Classification</td>
-            <td>Catarina Silva</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Inductive Inference for Large Scale Text Classification</p>
+            <p>Catarina Silva</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3788).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>IPv6 in Practice: A Unixer's Guide to the Next Generation Internet</td>
-            <td>Benedikt Stockebrand</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>IPv6 in Practice: A Unixer's Guide to the Next Generation Internet</p>
+            <p>Benedikt Stockebrand</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3789).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Fault Detection & Flight Data Measurement</td>
-            <td>Ihab Samy</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Fault Detection & Flight Data Measurement</p>
+            <p>Ihab Samy</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3790).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Model Based Engineering of Embedded Systems</td>
-            <td>Klaus Pohl</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Model Based Engineering of Embedded Systems</p>
+            <p>Klaus Pohl</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3791).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Algorithms & Computation: ISAAC 2012</td>
-            <td>Kun Mao Chao</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Algorithms & Computation: ISAAC 2012</p>
+            <p>Kun Mao Chao</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3792).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>The Power of Algorithms: Inspiration & Examples in Everyday Life</td>
-            <td>Giorgio Ausiello</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>The Power of Algorithms: Inspiration & Examples in Everyday Life</p>
+            <p>Giorgio Ausiello</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3793).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Language, Culture, Computation: Part III</td>
-            <td>Nachum Dershowitz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Language, Culture, Computation: Part III</p>
+            <p>Nachum Dershowitz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3794).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Mining of Massive Datasets</td>
-            <td>Anand Rajaraman</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Mining of Massive Datasets</p>
+            <p>Anand Rajaraman</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3795).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Transactions on Edutainment XIII</td>
-            <td>Zhigeng Pan</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Transactions on Edutainment XIII</p>
+            <p>Zhigeng Pan</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3796).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Theory and Practice of Uncertain Programming: 2nd Edition</td>
-            <td>Baoding Liu</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Theory and Practice of Uncertain Programming: 2nd Edition</p>
+            <p>Baoding Liu</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3797).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Soft Computing for Reservoir Characterization and Modeling</td>
-            <td>Patrick Wong</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Soft Computing for Reservoir Characterization and Modeling</p>
+            <p>Patrick Wong</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3798).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Clustering Based Support for Software Architecture Restructuring</td>
-            <td>Niels Streekmann</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Clustering Based Support for Software Architecture Restructuring</p>
+            <p>Niels Streekmann</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3799).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Contributing to the Eclipse IDE Project: 1st edition</td>
-            <td>Lars Vogel</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Contributing to the Eclipse IDE Project: 1st edition</p>
+            <p>Lars Vogel</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3800).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Perspectives on Military Intelligence from the First World War to Mali</td>
-            <td>Floribert Baudet</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Perspectives on Military Intelligence from the First World War to Mali</p>
+            <p>Floribert Baudet</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3801).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Proceeding of International Conference on Intelligent Communication, Control & Devices</td>
-            <td>Rajesh Singh</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Proceeding of International Conference on Intelligent Communication, Control & Devices</p>
+            <p>Rajesh Singh</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3802).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Tongue Image Analysis</td>
-            <td>David Zhang</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Tongue Image Analysis</p>
+            <p>David Zhang</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3803).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Python Data Science Essentials</td>
-            <td>Alberto Boschetti</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Python Data Science Essentials</p>
+            <p>Alberto Boschetti</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3804).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Competition based Neural Networks with Robotic Applications</td>
-            <td>Shuai Li</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Competition based Neural Networks with Robotic Applications</p>
+            <p>Shuai Li</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3805).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Understanding & Using Rough Set Based Feature Selection: Concepts, Techniques & Applications</td>
-            <td>Muhammad Summair Raza</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Understanding & Using Rough Set Based Feature Selection: Concepts, Techniques & Applications</p>
+            <p>Muhammad Summair Raza</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3806).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cloud Broker & Cloudlet for Workflow Scheduling</td>
-            <td>Chan Hyun Youn</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cloud Broker & Cloudlet for Workflow Scheduling</p>
+            <p>Chan Hyun Youn</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3807).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Pattern Recognition & Big Data</td>
-            <td>Amita Pal</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Pattern Recognition & Big Data</p>
+            <p>Amita Pal</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf(3808).pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Master Android App Development eBook Version 1.2</td>
-            <td>Abhi Android</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Master Android App Development eBook Version 1.2</p>
+            <p>Abhi Android</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/Master Android App Development eBook Version 1.2.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Business in the Cloud</td>
-            <td>Michael Hugos</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Business in the Cloud</p>
+            <p>Michael Hugos</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3000.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Amazon Web Services For Dummies</td>
-            <td>Bernard Golden</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Amazon Web Services For Dummies</p>
+            <p>Bernard Golden</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3001.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Fundamental Cloud Architectures</td>
-            <td>Thomas Erl</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Fundamental Cloud Architectures</p>
+            <p>Thomas Erl</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3002.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Cloud Services For Dummies</td>
-            <td>Judith Hurwitz</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Cloud Services For Dummies</p>
+            <p>Judith Hurwitz</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3003.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Where wizards stay up late</td>
-            <td>Katie Hafner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Where wizards stay up late</p>
+            <p>Katie Hafner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3004.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Handbook of Cloud Computing</td>
-            <td>Borko Furht</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Handbook of Cloud Computing</p>
+            <p>Borko Furht</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3005.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>eCommerce in the Cloud</td>
-            <td>Kelly Goetsch</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>eCommerce in the Cloud</p>
+            <p>Kelly Goetsch</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3006.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>A Complete Guide to Cloud Computing</td>
-            <td> The Art of Service</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>A Complete Guide to Cloud Computing</p>
+            <p> The Art of Service</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3007.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Microsoft Private Cloud Computing</td>
-            <td> Aidan Finn</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Microsoft Private Cloud Computing</p>
+            <p> Aidan Finn</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3008.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Computers in Communication</td>
-            <td> Gordon Brebner</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Computers in Communication</p>
+            <p> Gordon Brebner</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/pdf3009.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Hacking For Dummies</td>
-            <td>Kevin Beaver</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Hacking For Dummies</p>
+            <p>Kevin Beaver</p>
+            <p>
                 <a href="https://github.com/manjunath5496/999-Computer-Books/blob/master/Hacking for Dummies.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Ghost in the Wires</td>
-            <td>Kevin Mitnick</td>
-            <td>
+            </p>
+       </br>
+       
+            <p>Ghost in the Wires</p>
+            <p>Kevin Mitnick</p>
+            <p>
                 <a href="https://github.com/manjunath5496/25-Computer-Books/blob/master/GhostintheWiresByKevinMitnick.pdf" target="_blank" style="text-decoration:none">
-                    <center><span style="font-size:16px; color:gray"> Download </span></center>
+                    <span style="font-size:16px; color:gray"> Download </span>
                 </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+            </p>
+       </br>
+ 
